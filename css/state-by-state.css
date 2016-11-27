@@ -9,9 +9,13 @@
 }
 
 #yearSlider .slider-selection {
-  width: 30em;
 }
 
 #yearSlider .slider-handle {
   background: #0275d8;
+}
+
+.rate {
+  text-align: center;
+  vertical-align: middle;
 }
