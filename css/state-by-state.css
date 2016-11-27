@@ -1,0 +1,17 @@
+.container-fluid {
+  max-width: 680px;
+  text-align: center;
+}
+
+/* for map-glyphs, enlarges map image */
+.map-large {
+  font-size: 15em;
+}
+
+#yearSlider .slider-selection {
+  width: 30em;
+}
+
+#yearSlider .slider-handle {
+  background: #0275d8;
+}
