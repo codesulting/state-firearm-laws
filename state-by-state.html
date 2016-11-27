@@ -9,13 +9,17 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css"
         integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+  <!-- MapGlyph CSS -->
+  <link rel="stylesheet" href="css/mapglyphs/2.0/mapglyphs.css">
+
+  <link rel="stylesheet" href="css/state-by-state.css">
+
+  <!-- Slider CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.1/css/bootstrap-slider.min.css">
 </head>
 
 <body>
 
-<div class="container-fluid">
-
-</div>
 <nav class="navbar navbar-light bg-faded">
   <ul class="nav navbar-nav">
     <li class="nav-item active">
@@ -63,71 +67,96 @@
 
 </nav>
 
+
 <div class="container-fluid">
+  <br>
+
+  <h2> California </h2>
+
+  <!-- info at top with core stats -->
+
   <div class="row">
-    <div class="jumbotron">
-      <h1 class="display-3">Changing Gun Culture</h1>
-      <p class="lead"> A project on gun safety regulation in America </p>
+    <div class="col-md-4">
+      <h3> 3.1 % </h3>
+      <h6> Firearm-Related Homicide Rate</h6>
+    </div>
+    <div class="col-md-4">
+      <h3> 84 </h3>
+      <i class="mg map-us-ca map-large"></i>
+      <h3> # of gun laws</h3>
+    </div>
+    <div class="col-md-4">
+      <h3> 3.9 % </h3>
+      <h6> Firearm-Related Suicide Rate</h6>
     </div>
   </div>
 
+  <br>
+
+  <!-- slider -->
   <div class="row">
-    <div class="col-sm-4">
-      <div class="card card-block">
-        <h3> Laws By Category </h3>
-        <p> We categorized the 112 provisions identified through our research into 14 categories, based on their
-          intended impact on gun safety regulation. You can read more about each of these categories and the provisions
-          that they contain by reading through our Category Pages.
-        </p>
-        <button type="button" class="btn btn-primary">Learn more</button>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="card card-block">
-        <h3> State Analysis</h3>
-        <p> Each of the 50 states has unique patterns of law enactment and repeal as related to gun violence prevention.
-          We have compiled this information into our State-By-State pages and fact sheets, where you can view laws by
-          year alongside their corresponding firearm-related homicide and suicide rates. You can also access links to
-          current statutes on these pages.
-        </p>
-        <button type="button" class="btn btn-primary">Learn more</button>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="card card-block">
-        <h3> Law Data</h3>
-        <p>Through our research, we have been able to create an interactive database from which researchers can access
-          and
-          download data for their own work. In addition, our data pages use maps and graphs to visualize trends over
-          time
-          and by type of law. Check out our Law Data to learn more about national trends in gun safety policy.
-        </p>
-        <button type="button" class="btn btn-primary">Learn more</button>
-      </div>
-    </div>
+    <input id="year" data-slider-id='yearSlider' type="text" data-slider-min="1990" data-slider-max="2016" data-slider-step="1" data-slider-value="2014"/>
+  </div>
+
+  <br>
+
+  <!-- table -->
+  <div class="row">
+    <table class="table table-responsive table-hover">
+      <thead>
+      <tr>
+        <th>Gun Law History</th>
+        <th></th>
+        <th>Status</th>
+      </tr>
+      </thead>
+
+      <tbody>
+      <tr>
+        <td>age18longgunsale</td>
+        <td>Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older
+        </td>
+        <td>Current;<a href="http://smartgunlaws.org/minimum-age-to-purchase-possess-in-california/">Read the statute here </a></td>
+      </tr>
+      <tr>
+        <td>alcoholism</td>
+        <td>Firearm purchase/possession is prohibited for some people with alcoholism
+        </td>
+        <td>Current;
+          Read the statute here
+        </td>
+      </tr>
+      <tr>
+        <td>amm21h</td>
+        <td>Ammunition sales not allowed to persons under age 21 for handguns
+        </td>
+        <td>Current;
+          Read the statute here</td>
+      </tr>
+      </tbody>
+    </table>
   </div>
 
 </div>
-
-<hr>
 
 <footer class="footer">
   <div class="container">
     <span class="text-muted"> Boston University </span>
     <!-- social media/contact-->
-   <!-- <ul class="nav">
-      <li class="nav-item">
-        <a href="https://www.facebook.com/busph"><i class="fa fa-facebook fa-lg"></i> </a>
-      </li>
-      <li class="nav-item">
-        <a href="mailto:example@example.com"><i class="fa fa-envelope fa-lg"></i> </a>
-      </li>
-      <li class="nav-item">
-        <a href="https://twitter.com/BUSPH"><i class="fa fa-twitter fa-lg"></i> </a>
-      </li>
-    </ul> -->
+    <!-- <ul class="nav">
+       <li class="nav-item">
+         <a href="https://www.facebook.com/busph"><i class="fa fa-facebook fa-lg"></i> </a>
+       </li>
+       <li class="nav-item">
+         <a href="mailto:example@example.com"><i class="fa fa-envelope fa-lg"></i> </a>
+       </li>
+       <li class="nav-item">
+         <a href="https://twitter.com/BUSPH"><i class="fa fa-twitter fa-lg"></i> </a>
+       </li>
+     </ul> -->
   </div>
 </footer>
+
 
 <!-- jQuery first, then Tether, then Bootstrap JS. -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"
@@ -139,7 +168,9 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"
         integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK"
         crossorigin="anonymous"></script>
-<!-- font awesome icons -->
-<script src="https://use.fontawesome.com/ab082df5e7.js"></script>
+
+<!-- Slider JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.1/bootstrap-slider.min.js"></script>
+<script src="js/state-by-state.js"></script>
 </body>
 </html>
