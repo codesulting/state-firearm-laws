@@ -11,12 +11,16 @@
         integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
 
   <link rel="stylesheet" href="css/general.css">
+
 </head>
 
 <body>
 
 <nav class="navbar navbar-light bg-faded">
 
+  <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+          aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+  <div class="collapse navbar-toggleable-sm" id="navbarResponsive"></div>
 
     <ul class="nav navbar-nav">
       <li class="nav-item active">
@@ -29,7 +33,8 @@
         <a class="nav-link" href="about.html">About</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle active" href="law-data.html" id="navbarDropdownMenuLink" data-toggle="dropdown"
+        <a class="nav-link dropdown-toggle active" href="law-data.html" id="navbarDropdownMenuLink"
+           data-toggle="dropdown"
            aria-haspopup="true" aria-expanded="false">
           Law Data
         </a>
@@ -64,10 +69,21 @@
 
 </nav>
 
-<div class="container-fluid">
-  <!-- map embedded -->
-  <div class="row">
-    <div class='tableauPlaceholder' id='viz1479078600664' style='position: relative'>
+<!-- tabs for map and table -->
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" data-toggle="tab" href="#map" role="tab">Map</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="#table" role="tab">Table</a>
+  </li>
+</ul>
+
+
+<div class="tab-content">
+  <div class="tab-pane fade in active" id="map" role="tabpanel">
+    <div class='tableauPlaceholder1' id='viz1479078600664' style='position: relative'>
       <noscript><a href='#'><img alt='2015 Dashboard '
                                  src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YC&#47;YCY8SYQFD&#47;1_rss.png'
                                  style='border: none'/></a></noscript>
@@ -84,24 +100,34 @@
         <param name='display_count' value='yes'/>
       </object>
     </div>
-    <script type='text/javascript'>
-      var divElement = document.getElementById('viz1479078600664');
-      var vizElement = divElement.getElementsByTagName('object')[0];
-      vizElement.style.minWidth = '100%';
-      <!--vizElement.style.maxHeight = (divElement.offsetWidth * 0.75) + 'px';-->
-      <!-- vizElement.style.minWidth = '424px';-->
-      <!-- vizElement.style.maxWidth = '100%'; -->
-      vizElement.style.minHeight = '629px';
-      <!-- vizElement.style.maxHeight = (divElement.offsetWidth * 0.75) + 'px'; -->
-      var scriptElement = document.createElement('script');
-      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-      vizElement.parentNode.insertBefore(scriptElement, vizElement);
-    </script>
+  </div>
+
+  <div class="tab-pane fade" id="table" role="tabpanel">
+    <!-- table embedded -->
+    <div class='tableauPlaceholder2' id='viz1480296125463' style='position: relative'>
+      <noscript><a href='#'><img alt='Filtered Database '
+                                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GX&#47;GXG2RZXB9&#47;1_rss.png'
+                                 style='border: none'/></a></noscript>
+      <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+        <param name='path' value='views&#47;TotalLaws1991&#47;FilteredDatabase?:embed=y&amp;:display_count=y'/>
+        <param name='toolbar' value='yes'/>
+        <param name='static_image'
+               value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GX&#47;GXG2RZXB9&#47;1.png'/>
+        <param name='animate_transition' value='yes'/>
+        <param name='display_static_image' value='yes'/>
+        <param name='display_spinner' value='yes'/>
+        <param name='display_overlay' value='yes'/>
+        <param name='display_count' value='yes'/>
+      </object>
+    </div>
 
   </div>
 
-
 </div>
+
+
+<hr>
 
 <footer class="footer align-middle">
   <div class="container">
@@ -138,8 +164,13 @@
         integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK"
         crossorigin="anonymous"></script>
 
+
 <!-- font awesome icons -->
 <script src="https://use.fontawesome.com/ab082df5e7.js"></script>
+
+
+<!-- separate script -->
+<script src="js/law-data.js"></script>
 
 </body>
 </html>
