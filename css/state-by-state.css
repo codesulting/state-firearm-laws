@@ -1,3 +1,4 @@
+/* restrict size of container on larger screens instead of full-width*/
 .container-fluid {
   max-width: 680px;
   text-align: center;
@@ -8,7 +9,15 @@
   font-size: 15em;
 }
 
+
+/* range slider */
+
+.slider.slider-horizontal {
+  width:100%;
+}
+
 #yearSlider .slider-selection {
+
 }
 
 #yearSlider .slider-handle {

@@ -9,22 +9,16 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css"
         integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
-  <!-- MapGlyph CSS -->
-  <link rel="stylesheet" href="css/mapglyphs/2.0/mapglyphs.css">
-  <!-- Slider CSS -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.1/css/bootstrap-slider.min.css">
 
-  <!-- website-specific CSS -->
-  <link rel="stylesheet" href="css/state-by-state.css">
   <link rel="stylesheet" href="css/general.css">
-
 </head>
 
 <body>
 
 <nav class="navbar navbar-light bg-faded">
 
-  <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+  <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+          aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
   <div class="collapse navbar-toggleable-sm" id="navbarResponsive">
 
     <ul class="nav navbar-nav">
@@ -38,7 +32,7 @@
         <a class="nav-link" href="about.html">About</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+        <a class="nav-link dropdown-toggle active" id="navbarDropdownMenuLink" data-toggle="dropdown"
            aria-haspopup="true" aria-expanded="false">
           Law Data
         </a>
@@ -54,7 +48,7 @@
            aria-haspopup="true" aria-expanded="false">
           State-By-State
         </a>
-        <div class="dropdown-menu active" aria-labelledby="navbarDropdownMenuLink">
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="state-by-state.html">California</a>
         </div>
       </li>
@@ -73,91 +67,62 @@
 
 </nav>
 
-<br>
+<div class="container mt-1 mb-1">
+  <div class="row">
+    <h2> Glossary</h2>
+  </div>
 
-<div class="container">
-  <div class="dropdown open mx-auto">
-    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      Choose state
-    </button>
-    <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-      <button class="dropdown-item" type="button">California</button>
-      <button class="dropdown-item" type="button">Colorado</button>
-      <button class="dropdown-item" type="button">Connecticut</button>
+  <div class="row mt-1 mb-1">
+    <div class="input-group input-group-lg">
+      <span class="input-group-addon " id="basic-addon1"></span>
+      <input type="text" class="form-control" placeholder="Search" aria-describedby="basic-addon1">
     </div>
   </div>
-</div>
 
-<div class="container-fluid">
-  <br>
-
-  <h2> California </h2>
-
-  <!-- info at top with core stats -->
-
-  <div class="row">
-    <div class="col-md-4 rate">
-      <div class="row">
+  <div class="container mt-1">
+    <div class="row">
+      <div class="col-xs-4">
+        <h4>Narrow by</h4>
       </div>
-    </div>
-    <div class="col-md-4 rate">
-      <h3> 84 </h3>
-    </div>
-    <div class="rate col-md-4">
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-4 rate align-middle">
-      <div class="row">
-        <h3> 3.1 % </h3>
-        <h6> Firearm-Related Homicide Rate</h6>
+      <div class="col-xs-4">
+        <div class="dropdown open mx-auto">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">
+            Category
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <button class="dropdown-item" type="button">Prohibitions</button>
+            <button class="dropdown-item" type="button">Buyer regulations</button>
+            <button class="dropdown-item" type="button">Age restrictions</button>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="col-md-4">
-      <i class="mg map-us-ca map-large"></i>
-    </div>
-    <div class="col-md-4 rate align-middle">
-      <h3> 3.9 % </h3>
-      <h6> Firearm-Related Suicide Rate</h6>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-4 rate">
-      <div class="row">
+
+      <div class="col-xs-4">
+        <div class="dropdown open mx-auto">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">
+            Subcategory
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <button class="dropdown-item" type="button">Prohibitions</button>
+            <button class="dropdown-item" type="button">Buyer regulations</button>
+            <button class="dropdown-item" type="button">Age restrictions</button>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="col-md-4 rate">
-      <h4> # of gun laws</h4>
-    </div>
-    <div class="rate col-md-4">
+
+
     </div>
   </div>
 
-  <br>
-
-  <!-- slider -->
-  <div class="row">
-    <div class="col-xs-1">
-
-    </div>
-    <div class="col-xs-10">
-      <input id="year" data-slider-id='yearSlider' type="text" data-slider-min="1990" data-slider-max="2016" data-slider-step="1" data-slider-value="2014"/>
-    </div>
-   <div class="col-xs-1">
-
-   </div>
-  </div>
-
-  <br>
-
-  <!-- table -->
-  <div class="row">
+  <div class="row mt-1 mb-1">
     <table class="table table-responsive table-hover">
       <thead>
       <tr>
-        <th>Gun Law History</th>
-        <th></th>
-        <th>Status</th>
+        <th>Code</th>
+        <th>Definition</th>
+        <th>Category</th>
       </tr>
       </thead>
 
@@ -166,44 +131,47 @@
         <td>age18longgunsale</td>
         <td>Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older
         </td>
-        <td>Current; <a href="http://smartgunlaws.org/minimum-age-to-purchase-possess-in-california/">Read the statute here </a></td>
+        <td>Buyer regulation;
+          Age restrictions
+        </td>
       </tr>
       <tr>
         <td>alcoholism</td>
         <td>Firearm purchase/possession is prohibited for some people with alcoholism
         </td>
-        <td>Current;
-          <a href="#">Read the statute here</a>
+        <td>Prohibitions;
+          Prohibitors–Alcohol
         </td>
       </tr>
       <tr>
         <td>amm21h</td>
         <td>Ammunition sales not allowed to persons under age 21 for handguns
         </td>
-        <td>Current;
-          <a href="#">Read the statute here</a></td>
+        <td>Ammunition regulation;
+          Age restrictions
+        </td>
       </tr>
       <tr>
         <td>capaccess</td>
         <td>Criminal liability for negligent storage of guns if child gains access
         </td>
-        <td>Repealed</td>
+        <td>
+          Gun safety;
+          Child safety
+        </td>
       </tr>
       <tr>
         <td>danger</td>
         <td>Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others
         </td>
-        <td>Repealed</td>
-      </tr>
-      <tr>
-        <td>dealer</td>
-        <td>All firearm dealers are required to have a state license.
+        <td>Prohibitions;
+          Prohibitors–Mental Health
         </td>
-        <td>Current; <a href="#">Read the statute here</a></td>
       </tr>
       </tbody>
     </table>
   </div>
+
 
 </div>
 
@@ -232,7 +200,6 @@
   </div>
 </footer>
 
-
 <!-- jQuery first, then Tether, then Bootstrap JS. -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"
         integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7"
@@ -243,12 +210,10 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"
         integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK"
         crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/ab082df5e7.js"></script>
 
 <!-- font awesome icons -->
 <script src="https://use.fontawesome.com/ab082df5e7.js"></script>
 
-<!-- Slider JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.1/bootstrap-slider.min.js"></script>
-<script src="js/state-by-state.js"></script>
 </body>
 </html>
