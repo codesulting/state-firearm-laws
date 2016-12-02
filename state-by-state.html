@@ -76,14 +76,11 @@
 <br>
 
 <div class="container">
-  <div class="dropdown open mx-auto">
-    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <div class="dropdown mx-auto">
+    <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       Choose state
     </button>
-    <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-      <button class="dropdown-item" type="button">California</button>
-      <button class="dropdown-item" type="button">Colorado</button>
-      <button class="dropdown-item" type="button">Connecticut</button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenu2" id="stateDropdown">
     </div>
   </div>
 </div>
@@ -117,7 +114,7 @@
       <i class="mg map-us-ca map-large"></i>
     </div>
     <div class="col-md-4 rate align-middle">
-      <h3> 3.9 % </h3>
+      <span id="firearm-suicides">6.4</span> %
       <h6> Firearm-Related Suicide Rate</h6>
     </div>
   </div>

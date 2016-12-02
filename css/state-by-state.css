@@ -24,6 +24,13 @@
   background: #0275d8;
 }
 
+/* dropdown menu of states */
+.dropdown-menu{
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+/* display stats */
 .rate {
   text-align: center;
   vertical-align: middle;
