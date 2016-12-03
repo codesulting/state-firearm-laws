@@ -34,4 +34,5 @@
 .rate {
   text-align: center;
   vertical-align: middle;
+  font-size: inherit
 }

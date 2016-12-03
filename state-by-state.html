@@ -43,7 +43,7 @@
           Law Data
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="law-data.html">Map</a>
+          <a class="dropdown-item" href="law-data.html">National Trends</a>
           <a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a>
           <a class="dropdown-item" href="#">Read the manuscript</a>
           <a class="dropdown-item" href="#">Read the report</a>
@@ -98,23 +98,23 @@
       </div>
     </div>
     <div class="col-md-4 rate">
-      <h3> 84 </h3>
+      <h3><span id="num-gun-laws" class="rate"></span></h3>
     </div>
     <div class="rate col-md-4">
     </div>
   </div>
   <div class="row">
-    <div class="col-md-4 rate align-middle">
+    <div class="col-md-4 align-middle">
       <div class="row">
-        <span id="firearm-homicides"></span> %
+        <h3><span id="firearm-homicides" class="rate"></span> %</h3>
         <h6> Firearm-Related Homicide Rate</h6>
       </div>
     </div>
     <div class="col-md-4">
       <i class="mg map-us-ca map-large"></i>
     </div>
-    <div class="col-md-4 rate align-middle">
-      <span id="firearm-suicides"></span> %
+    <div class="col-md-4 align-middle">
+      <h3><span id="firearm-suicides" class="rate"></span> % </h3>
       <h6> Firearm-Related Suicide Rate</h6>
     </div>
   </div>
@@ -132,13 +132,17 @@
 
   <br>
 
+  <div class="row mt-1 mb-1">
+    <h3><span id="year-label"></span></h3>
+  </div>
+
   <!-- slider -->
   <div class="row">
     <div class="col-xs-1">
 
     </div>
     <div class="col-xs-10">
-      <input id="year" data-slider-id='yearSlider' type="text" data-slider-min="1990" data-slider-max="2016" data-slider-step="1" data-slider-value="2014"/>
+      <input id="year" data-slider-id='yearSlider' type="text" data-slider-min="1990" data-slider-max="2015" data-slider-step="1" data-slider-value="2014"/>
     </div>
    <div class="col-xs-1">
 

@@ -9,30 +9,42 @@ $('#year').slider({
 
 // sample rates
 var firearm_suicides = {
+  "2009": 5.1,
   "2010": 2.9,
   "2011": 3.4,
   "2012": 4.1,
   "2013": 3.3,
   "2014": 4.2,
-  "2015": 4.3,
-  "2016": 5.1
+  "2015": 4.3
 };
 
 var firearm_homicides = {
+  "2009": 3.3,
   "2010": 3.3,
   "2011": 2.9,
   "2012": 3.1,
   "2013": 3.3,
   "2014": 3.5,
-  "2015": 3.2,
-  "2016": 3.3
+  "2015": 3.2
 };
+
+var num_gun_laws = {
+  "2009": 65,
+  "2010": 80,
+  "2011": 81,
+  "2012": 82,
+  "2013": 79,
+  "2014": 84,
+  "2015": 83
+}
 
 
 // rates displayed change based on year
 $("#year").on("slide", function(slideEvt) {
   $("#firearm-suicides").text(firearm_suicides[slideEvt.value]);
   $("#firearm-homicides").text(firearm_homicides[slideEvt.value]);
+  $("#num-gun-laws").text(num_gun_laws[slideEvt.value]);
+  $("#year-label").text([slideEvt.value]);
 });
 
 
