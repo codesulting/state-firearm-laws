@@ -9,6 +9,14 @@ $('#year').slider({
 
 // sample rates
 var firearm_suicides = {
+  "2001": 3.3,
+  "2002": 3.4,
+  "2003": 4.3,
+  "2004": 4.5,
+  "2005": 4.3,
+  "2006": 4.4,
+  "2007": 4.1,
+  "2008": 3.3,
   "2009": 5.1,
   "2010": 2.9,
   "2011": 3.4,
@@ -19,6 +27,14 @@ var firearm_suicides = {
 };
 
 var firearm_homicides = {
+  "2001": 3.3,
+  "2002": 3.4,
+  "2003": 4.3,
+  "2004": 4.5,
+  "2005": 4.3,
+  "2006": 4.4,
+  "2007": 4.1,
+  "2008": 3.3,
   "2009": 3.3,
   "2010": 3.3,
   "2011": 2.9,
@@ -40,20 +56,28 @@ var num_gun_laws = {
 
 
 // rates displayed change based on year
-$("#year").on("slide", function(slideEvt) {
-  $("#firearm-suicides").text(firearm_suicides[slideEvt.value]);
-  $("#firearm-homicides").text(firearm_homicides[slideEvt.value]);
+$("#year").on("slide", function (slideEvt) {
+  $("#firearm-suicides").text(firearm_suicides[slideEvt.value] + "%");
+  $("#firearm-homicides").text(firearm_homicides[slideEvt.value] + "%");
   $("#num-gun-laws").text(num_gun_laws[slideEvt.value]);
   $("#year-label").text([slideEvt.value]);
 });
 
 
 // load dropdown menu of states
-$.getJSON("js/states-list.json", function (data) {
-  var states_arr = data['states'];
-  var stateDropdown = $("#stateDropdown");
-  for (var i = 0; i < states_arr.length; i++) {
-    var state = states_arr[i];
-    $(stateDropdown).append("<button class='dropdown-item' type='button'>" + state + "</button>");
-  }
-});
+// $.getJSON("js/states-list.json", function (data) {
+//   var states_arr = data['states'];
+//   var stateDropdown = $("#stateDropdown");
+//   for (var i = 0; i < states_arr.length; i++) {
+//     var state = states_arr[i];
+//     $(stateDropdown).append("<button class='dropdown-item' type='button'>" + state + "</button>");
+//   }
+// });
+
+var data = states_list;
+var states_arr = data['states'];
+var stateDropdown = $("#stateDropdown");
+for (var i = 0; i < states_arr.length; i++) {
+  var state = states_arr[i];
+  $(stateDropdown).append("<button class='dropdown-item' type='button'>" + state + "</button>");
+}

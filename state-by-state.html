@@ -18,6 +18,9 @@
   <link rel="stylesheet" href="css/state-by-state.css">
   <link rel="stylesheet" href="css/general.css">
 
+  <!-- for testing in chrome only -->
+  <script src="js/states-list.json" type="text/javascript"></script>
+
 </head>
 
 <body>
@@ -49,14 +52,10 @@
           <a class="dropdown-item" href="#">Read the report</a>
         </div>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
-           aria-haspopup="true" aria-expanded="false">
+      <li class="nav-item active">
+        <a class="nav-link" href="state-by-state.html">
           State-By-State
         </a>
-        <div class="dropdown-menu active" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="state-by-state.html">California</a>
-        </div>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
@@ -98,7 +97,7 @@
       </div>
     </div>
     <div class="col-md-4 rate">
-      <h3><span id="num-gun-laws" class="rate"></span></h3>
+      <h3><span id="num-gun-laws" class="rate">N/A</span></h3>
     </div>
     <div class="rate col-md-4">
     </div>
@@ -106,7 +105,7 @@
   <div class="row">
     <div class="col-md-4 align-middle">
       <div class="row">
-        <h3><span id="firearm-homicides" class="rate"></span> %</h3>
+        <h3><span id="firearm-homicides" class="rate">N/A</span></h3>
         <h6> Firearm-Related Homicide Rate</h6>
       </div>
     </div>
@@ -114,7 +113,7 @@
       <i class="mg map-us-ca map-large"></i>
     </div>
     <div class="col-md-4 align-middle">
-      <h3><span id="firearm-suicides" class="rate"></span> % </h3>
+      <h3><span id="firearm-suicides" class="rate">N/A</span></h3>
       <h6> Firearm-Related Suicide Rate</h6>
     </div>
   </div>
@@ -142,7 +141,7 @@
 
     </div>
     <div class="col-xs-10">
-      <input id="year" data-slider-id='yearSlider' type="text" data-slider-min="1990" data-slider-max="2015" data-slider-step="1" data-slider-value="2014"/>
+      <input id="year" data-slider-id='yearSlider' type="text" data-slider-min="2001" data-slider-max="2015" data-slider-step="1" data-slider-value="2014"/>
     </div>
    <div class="col-xs-1">
 
@@ -167,7 +166,7 @@
       </tr>
       </thead>
 
-      <tbody>
+      <tbody class="text-xs-left">
       <tr>
         <td>age18longgunsale</td>
         <td>Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older
