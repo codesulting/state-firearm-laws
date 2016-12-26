@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css"
-        integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
 
   <link rel="stylesheet" href="css/general.css">
 
@@ -16,63 +16,59 @@
 
 <body>
 
-<nav class="navbar navbar-light bg-faded">
+<nav class="navbar navbar-default">
 
-  <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-          aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
-  <div class="collapse navbar-toggleable-sm" id="navbarResponsive"></div>
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="index.html">Changing Gun Culture</a>
+  </div>
 
-    <ul class="nav navbar-nav">
-      <li class="nav-item active">
-        <a class="navbar-brand" href="index.html">Changing Gun Culture</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="index.html">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="about.html">About</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle active" href="law-data.html" id="navbarDropdownMenuLink"
-           data-toggle="dropdown"
-           aria-haspopup="true" aria-expanded="false">
-          Law Data
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="law-data.html">National Trends</a>
-          <a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a>
-          <a class="dropdown-item" href="#">Read the manuscript</a>
-          <a class="dropdown-item" href="#">Read the report</a>
-        </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="state-by-state.html">
-          State-By-State
-        </a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
-           aria-haspopup="true" aria-expanded="false">
-          Research
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Policy in the news</a>
-          <a class="dropdown-item" href="#">Recent publications</a>
-          <a class="dropdown-item" href="#">Our work</a>
-        </div>
-      </li>
-    </ul>
+  <ul class="nav navbar-nav">
+    <li>
+      <a class="nav-link" href="index.html">Home </a>
+    </li>
+    <li>
+      <a class="nav-link" href="about.html">About </a>
+    </li>
+    <li class="dropdown active">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Law Data <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="law-data.html">National Trends <span class="sr-only">(current)</span></a></li>
+        <li><a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool </a></li>
+        <li><a class="dropdown-item" href="#">Read the manuscript</a></li>
+        <li><a class="dropdown-item" href="#">Read the report</a></li>
+      </ul>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="state-by-state.html">
+        State-By-State
+      </a>
+    </li>
+    <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#">Policy in the news</a></li>
+        <li><a class="dropdown-item" href="#">Recent publications</a></li>
+        <li><a class="dropdown-item" href="#">Our work</a></li>
+      </ul>
+    </li>
+  </ul>
 
 </nav>
 
 <!-- tabs for map and table -->
 
 <ul class="nav nav-tabs">
-  <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#map" role="tab">Map</a>
+  <li role="presentation" class="active">
+    <a href="#map" aria-controls="map" role="tab" data-toggle="tab">Map</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#table" role="tab">Table</a>
+  <li role="presentation">
+    <a href="#table" aria-controls="table" role="tab" data-toggle="tab">Table</a>
   </li>
 </ul>
 
@@ -149,16 +145,11 @@
 </footer>
 
 
-<!-- jQuery first, then Tether, then Bootstrap JS. -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"
-        integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7"
-        crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js"
-        integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8"
-        crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"
-        integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK"
-        crossorigin="anonymous"></script>
+<!-- Bootstrap  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
 
 
 <!-- font awesome icons -->

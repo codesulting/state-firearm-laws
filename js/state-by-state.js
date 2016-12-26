@@ -74,10 +74,11 @@ $("#year").on("slide", function (slideEvt) {
 //   }
 // });
 
-var data = states_list;
-var states_arr = data['states'];
-var stateDropdown = $("#stateDropdown");
-for (var i = 0; i < states_arr.length; i++) {
-  var state = states_arr[i];
-  $(stateDropdown).append("<button class='dropdown-item' type='button'>" + state + "</button>");
-}
+// var data = states_list;
+// var states_arr = data['states'];
+// var stateDropdown = $("#stateDropdown");
+// for (var i = 0; i < states_arr.length; i++) {
+//   var state = states_arr[i];
+//   $(stateDropdown).append("<option>" + state + "</option>");
+//   console.log("<option>" + state + "</option>");
+// }
