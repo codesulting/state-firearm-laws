@@ -36,12 +36,3 @@
   vertical-align: middle;
   font-size: inherit
 }
-
-/* table of gun law history */
-thead, tbody { display: block; }
-
-tbody {
-  height: 200px;
-  overflow-y: auto;
-  overflow-x: hidden;
-}
