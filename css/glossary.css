@@ -1,0 +1,6 @@
+/* for category and subcategory*/
+ul.filters {
+  height:200px;
+  overflow:hidden;
+  overflow-y:scroll;
+}

@@ -11,6 +11,7 @@
 
 
   <link rel="stylesheet" href="css/general.css">
+  <link rel="stylesheet" href="css/glossary.css">
 </head>
 
 <body>
@@ -78,30 +79,21 @@
         <h4>Narrow by</h4>
       </div>
       <div class="col-xs-4">
-        <div class="dropdown">
-          <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        <div class="dropdown" id="categoryMenu">
+          <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" id="category_button">
             Category
             <span class="caret"></span>
           </button>
-          <ul class="dropdown-menu" aria-labelledby="categoryMenu">
-            <li><a href="#">Prohibitions</a></li>
-            <li><a href="#">Buyer regulations</a></li>
-            <li><a href="#">Age restrictions</a></li>
-          </ul></div>
+        </div>
 
       </div>
 
       <div class="col-xs-4">
-        <div class="dropdown">
-          <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        <div class="dropdown" id="subcategoryMenu">
+          <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" id="subcategory_button">
             Subcategory
             <span class="caret"></span>
           </button>
-          <ul class="dropdown-menu" aria-labelledby="subcategoryMenu">
-            <li><a href="#">Prohibitions</a></li>
-            <li><a href="#">Buyer regulations</a></li>
-            <li><a href="#">Age restrictions</a></li>
-          </ul>
         </div>
       </div>
 
@@ -147,6 +139,9 @@
 
 <!-- font awesome icons -->
 <script src="https://use.fontawesome.com/ab082df5e7.js"></script>
+
+<!-- list js -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.3.0/list.min.js"></script>
 
 <script src="js/glossary.js"></script>
 
