@@ -1,3 +1,13 @@
+// changes
+$(document).ready(
+  $('#stateDropdown').on('changed.bs.select',
+  function ( event, clickedIndex, newValue, oldValue) {
+  if ($('#state_dropdown option:selected').text() === 'California') {
+    $('#state_title').html('California');
+    $('#state_info').show();
+  }
+}));
+
 // slider for years on state-by-state page
 
 $('#year').slider({
@@ -57,10 +67,10 @@ var num_gun_laws = {
 
 // rates displayed change based on year
 $("#year").on("slide", function (slideEvt) {
-  $("#firearm-suicides").text(firearm_suicides[slideEvt.value] + "%");
-  $("#firearm-homicides").text(firearm_homicides[slideEvt.value] + "%");
-  $("#num-gun-laws").text(num_gun_laws[slideEvt.value]);
-  $("#year-label").text([slideEvt.value]);
+  $("#firearm_suicides").text(firearm_suicides[slideEvt.value] + "%");
+  $("#firearm_homicides").text(firearm_homicides[slideEvt.value] + "%");
+  $("#num_gun_laws").text(num_gun_laws[slideEvt.value]);
+  $("#year_label").text([slideEvt.value]);
 });
 
 

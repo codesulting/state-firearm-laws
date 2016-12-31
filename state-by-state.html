@@ -51,8 +51,9 @@
       <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="law-data.html">National Trends</a></li>
         <li><a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a></li>
-        <li><a class="dropdown-item" href="#">Read the manuscript</a></li>
-        <li><a class="dropdown-item" href="#">Read the report</a></li>
+        <li><a class="dropdown-item" href="categories.html">About the Categories</a></li>
+        <li><a class="dropdown-item" href="#">Read the Manuscript</a></li>
+        <li><a class="dropdown-item" href="#">Read the Report</a></li>
       </ul>
     </li>
     <li class="nav-item active">
@@ -64,9 +65,9 @@
     <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research <span class="caret"></span></a>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#">Policy in the news</a></li>
-        <li><a class="dropdown-item" href="#">Recent publications</a></li>
-        <li><a class="dropdown-item" href="#">Our work</a></li>
+        <li><a class="dropdown-item" href="#">Policy in the News</a></li>
+        <li><a class="dropdown-item" href="#">Recent Publications</a></li>
+        <li><a class="dropdown-item" href="#">Our Work</a></li>
       </ul>
     </li>
   </ul>
@@ -76,14 +77,17 @@
 <br>
 
 <div class="container">
+  <div class="row">
+    <h3> Choose a state from the list below to see its gun law history.</h3>
+  </div>
   <div class="dropdown mx-auto">
     <!--
     <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       Choose state
     </button>
-    <div class="dropdown-menu" aria-labelledby="dropdownMenu2" id="stateDropdown">
+    <div class="dropdown-menu" aria-labelledby="dropdownMenu2" id="state_dropdown">
     </div>-->
-    <select class="selectpicker" data-live-search="true" id="stateDropdown" title="Choose a state...">
+    <select class="selectpicker" data-live-search="true" id="state_dropdown" title="Choose a state...">
       <option>Alabama</option>
       <option>Alaska</option>
       <option>Arizona</option>
@@ -138,10 +142,10 @@
   </div>
 </div>
 
-<div class="container-fluid">
+<div class="container-fluid" id="state_info" style="display:none">
   <br>
 
-  <h2> California </h2>
+  <h2 id="state_title"> N/A </h2>
 
   <!-- info at top with core stats -->
 
@@ -151,7 +155,7 @@
       </div>
     </div>
     <div class="col-md-4 rate">
-      <h3><span id="num-gun-laws" class="rate">N/A</span></h3>
+      <h3><span id="num_gun_laws" class="rate">N/A</span></h3>
     </div>
     <div class="rate col-md-4">
     </div>
@@ -159,7 +163,7 @@
   <div class="row">
     <div class="col-md-4 align-middle">
       <div class="row">
-        <h3><span id="firearm-homicides" class="rate">N/A</span></h3>
+        <h3><span id="firearm_homicides" class="rate">N/A</span></h3>
         <h6> Firearm-Related Homicide Rate</h6>
       </div>
     </div>
@@ -167,7 +171,7 @@
       <i class="mg map-us-ca map-large"></i>
     </div>
     <div class="col-md-4 align-middle">
-      <h3><span id="firearm-suicides" class="rate">N/A</span></h3>
+      <h3><span id="firearm_suicides" class="rate">N/A</span></h3>
       <h6> Firearm-Related Suicide Rate</h6>
     </div>
   </div>
@@ -186,7 +190,7 @@
   <br>
 
   <div class="row mt-1 mb-1">
-    <h3><span id="year-label">N/A</span></h3>
+    <h3><span id="year_label">N/A</span></h3>
   </div>
 
   <!-- slider -->
@@ -195,7 +199,7 @@
 
     </div>
     <div class="col-xs-10">
-      <input id="year" data-slider-id='yearSlider' type="text" data-slider-min="2001" data-slider-max="2015" data-slider-step="1" data-slider-value="2014"/>
+      <input id="year" data-slider-id='year_slider' type="text" data-slider-min="2001" data-slider-max="2015" data-slider-step="1" data-slider-value="2014"/>
     </div>
    <div class="col-xs-1">
 
@@ -209,6 +213,10 @@
 
   <br>
 
+
+</div>
+
+<div class="container">
   <!-- table -->
   <div class="row">
     <table class="table table-responsive table-hover">
@@ -263,7 +271,6 @@
       </tbody>
     </table>
   </div>
-
 </div>
 
 <hr>
@@ -306,7 +313,7 @@
 
 
 
-<!-- Bootstrap Select CSS -->
+<!-- Bootstrap Select JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
 
 <script src="js/state-by-state.js"></script>
