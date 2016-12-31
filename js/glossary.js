@@ -103,7 +103,9 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         var tableCategory = rowText.eq(2).html().toString();
         tableCategory = tableCategory.slice(0, tableCategory.indexOf("<br>"));
         if (tableCategory.toUpperCase().indexOf(categorystr.toUpperCase()) !== -1) {
-          $(this).css("display", "");
+          if ($(this).css("display") !== 'none') {
+            $(this).css("display", "");
+          }
         } else {
           $(this).css("display", "none");
         }
@@ -113,7 +115,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
   });
 
-  // changes table based on category filter
+  // changes table based on subcategory filter
   $('.subcategory').click(function () {
 
     // get subcategory selected
@@ -136,14 +138,22 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         var tableCategory = rowText.eq(2).html().toString();
         tableCategory = tableCategory.slice(tableCategory.indexOf("<br>") + 4);
         if (tableCategory.toUpperCase().indexOf(subcategorystr.toUpperCase()) !== -1) {
-          $(this).css("display", "");
+          if ($(this).css("display") !== 'none') {
+            $(this).css("display", "");
+          }
         } else {
           $(this).css("display", "none");
         }
       }
-
     });
+  });
 
+  // reset search settings to show complete glossary, empty search
+  $('#reset_search').click(function () {
+    $("tr").css("display", "");
+    $('#category_button').text("Category");
+    $('#subcategory_button').text("Subcategory");
+    $('#glossary_search').val("");
   });
 
 });
