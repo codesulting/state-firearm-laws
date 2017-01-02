@@ -1,37 +1,9 @@
 var usStates = $.getJSON("js/states-list.json", function (obj) {
+
   usStates = obj['states'];
+  var stateHistory;
 
-  // create state dropdown
-  var stateDropdownContent = "<select class='selectpicker' data-live-search='true' id='state_dropdown' title='Choose a state...'>";
-
-  for (var i = 0; i < usStates.length; i++) {
-    stateDropdownContent += "<option id='" + usStates[i]['abbreviation'] + "'>" + usStates[i]['name'] + "</option>";
-  }
-
-  stateDropdownContent += "</select>";
-
-  $('#state_dropdown_div').append(stateDropdownContent);
-
-  // changes page based on chosen state
-  $(document).ready(
-    $('#state_dropdown').on('changed.bs.select',
-      function (event, clickedIndex, newValue, oldValue) {
-        var stateSelected = $('#state_dropdown option:selected');
-        displayState(stateSelected);
-      })
-  );
-
-
-// slider for years on state-by-state page
-
-  $('#year').slider({
-    formatter: function (value) {
-      return value;
-    }
-  });
-
-
-// sample rates
+  // sample rates
   var firearmSuicides = {
     "2001": 3.3,
     "2002": 3.4,
@@ -78,15 +50,54 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
     "2015": 83
   }
 
+  // create list of states dropdown
+  var stateDropdownContent = "<select class='selectpicker' data-live-search='true' id='state_dropdown' title='Choose a state...'>";
+
+  for (var i = 0; i < usStates.length; i++) {
+    stateDropdownContent += "<option id='" + usStates[i]['abbreviation'] + "'>" + usStates[i]['name'] + "</option>";
+  }
+
+  stateDropdownContent += "</select>";
+
+  $('#state_dropdown_div').append(stateDropdownContent);
+
+  // slider for years on state-by-state page
+
+  $('#year').slider({
+    formatter: function (value) {
+      return value;
+    }
+  });
+
+
+  // changes page based on chosen state
+  $(document).ready(
+    $('#state_dropdown').on('changed.bs.select',
+      function (event, clickedIndex, newValue, oldValue) {
+      // top half of state page (percentages and icon)
+        var stateSelected = $('#state_dropdown option:selected');
+        displayState(stateSelected);
+
+        // update gun law history table
+        stateHistory = $.getJSON('js/history/' + stateSelected.text() + ".json", function (obj) {
+          stateHistory = obj["history"];
+          createHistoryTable(stateHistory);
+        });
+      })
+  );
+
 
 // rates displayed change based on year input to slider
   $("#year").on("slide", function (slideEvt) {
     $("#firearm_suicides").text(firearmSuicides[slideEvt.value] + "%");
     $("#firearm_homicides").text(firearmHomicides[slideEvt.value] + "%");
     $("#num_gun_laws").text(numGunLaws[slideEvt.value]);
-    $("#year_label").text([slideEvt.value]);
+    $("#year_label").text(slideEvt.value);
+    updateHistoryTable(slideEvt.value);
   });
 
+  // resets page based on state selected
+  // updates icons, titles, and labels
   function displayState(stateSelected) {
     for (var i = 0; i < usStates.length; i++) {
       if (stateSelected.text().toLowerCase() === usStates[i]["name"].toLowerCase()) {
@@ -103,20 +114,51 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
         // update state icon
         $('#state_icon').empty();
         $('#state_icon').append("<i class='mg map-us-" + usStates[i]["abbreviation"].toLowerCase() + " map-large'></i>");
+
+        $('#history_table').empty();
       }
     }
   }
 
+  // takes info from <state>.json and creates a full table of all statutes for that state
+  // table is hidden on initialization
+  function createHistoryTable(stateHistory) {
+
+    var tableContent = "<table class='table table-responsive table-hover'>" +
+      "<thead> <tr class='header'> <th>Gun Law History</th> <th></th> <th>Status</th> </tr> </thead><tbody class='text-xs-left'>";
+    for (var year in stateHistory) {
+      if (stateHistory.hasOwnProperty(year)) {
+        for (var entry in stateHistory[year]) {
+          tableContent += "<tr class='" + year + "'>";
+          tableContent += "<td>" + stateHistory[year][entry]["law"] + "</td>";
+          tableContent += "<td>" + stateHistory[year][entry]["definition"] + "</td>";
+          tableContent += "<td>" + stateHistory[year][entry]["status"];
+          if (stateHistory[year][entry]["status"] === "Current") {
+            tableContent += "; " + "<a href='" + stateHistory[year][entry]["link"] + "'> Read the statute here </a></td>";
+          } else {
+            tableContent += "</td>"
+          }
+          tableContent += "</tr>";
+        }
+      }
+    }
+
+    tableContent +=  "</tbody> </table>";
+    // create table and hide
+    $('#history_table').append(tableContent);
+    $('#history_table').css('display', 'none');
+  }
+
+  // on change of year via range input, will update gun law history table
+  function updateHistoryTable(year) {
+    $("#history_table").find("tr").each(function (index) {
+      if ($(this).hasClass(year) || $(this).hasClass("header")) {
+        $(this).css("display", "");
+      } else {
+        $(this).css("display", "none");
+      }
+      $('#history_table').css('display', '');
+    });
+  }
+
 });
-
-
-
-
-// var data = states_list;
-// var states_arr = data['states'];
-// var stateDropdown = $("#stateDropdown");
-// for (var i = 0; i < states_arr.length; i++) {
-//   var state = states_arr[i];
-//   $(stateDropdown).append("<option>" + state + "</option>");
-//   console.log("<option>" + state + "</option>");
-// }
