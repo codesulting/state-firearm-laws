@@ -52,7 +52,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   var subcategoryContent = "<select class='selectpicker' title='Subcategory' id='subcategory_menu'>";
 
   for (var i = 0; i < subcategories.length; i++) {
-    subcategoryContent += "<option class='categoryOption'" + subcategories[i] + "'>" + subcategories[i] + "</option>";
+    subcategoryContent += "<option class='categoryOption'>" + subcategories[i] + "</option>";
   }
 
   subcategoryContent += "</select>";
@@ -60,17 +60,17 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#subcategory_menu_placeholder').append(subcategoryContent);
 
 
-  // create new List using list.js for manipulating the glossary table and dropdowns
+  // create new List using list.js for manipulating the glossary table
   var glossaryOptions = {
     valueNames: ["variable", "description", "category"]
   };
   var glossaryList = new List('glossary_table', glossaryOptions);
 
+
   // change both dropdown menus on search event
   $('#glossary_search').keyup(function () {
-    updateCategory(categories, glossaryList, false);
-    updateCategory(subcategories, glossaryList, true);
-
+    updateDropdown(categories, glossaryList, false);
+    updateDropdown(subcategories, glossaryList, true);
   });
 
   // changes table based on category filter
@@ -90,7 +90,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
       });
 
       // update subcategory dropdown
-      updateCategory(subcategories, glossaryList, true);
+      updateDropdown(subcategories, glossaryList, true);
 
     });
 
@@ -111,7 +111,8 @@ var data = $.getJSON("js/glossary.json", function (obj) {
       });
 
       // update subcategory dropdown
-      updateCategory(categories, glossaryList, false);
+      updateDropdown(categories, glossaryList, false);
+      updateDropdown(subcategories, glossaryList, true);
 
     });
 
@@ -122,51 +123,48 @@ var data = $.getJSON("js/glossary.json", function (obj) {
     $('#glossary_search').val(""); // resets searchbar
 
 
-    // to do, reset category dropdowns
-    resetCategoryDropdown(categories);
-    resetSubcategoryDropdown(subcategories);
+    // reset category dropdowns
+    resetDropdown(categories, false);
+    resetDropdown(subcategories, true);
   });
 
 });
 
-// initializes dropdowns
+// resets dropdowns
 
-function resetCategoryDropdown(categories) {
+function resetDropdown(categories, isSubcategory) {
   // create category dropdown menu
   var categoryContent = "";
+  var dropdownID = '#category_menu';
+  if (isSubcategory) {
+    dropdownID = '#subcategory_menu';
+  }
 
   for (var i = 0; i < categories.length; i++) {
     categoryContent += "<option class='categoryOption'>" + categories[i] + "</option>";
   }
 
-  $('#category_menu').empty();
-  $('#category_menu').append(categoryContent);
-  $('#category_menu').selectpicker('refresh');
+  $(dropdownID).empty();
+  $(dropdownID).append(categoryContent);
+  $(dropdownID).selectpicker('refresh');
 }
 
-function resetSubcategoryDropdown(categories) {
-  // create category dropdown menu
-
-  for (var i = 0; i < categories.length; i++) {
-    categoryContent += "<option class='categoryOption'" + categories[i] + "'>" + categories[i] + "</option>";
-  }
-}
 
 // function that updates category/subcategory dropdown
-function updateCategory(categoryList, glossaryList, isSubcategory) {
+function updateDropdown(categoryList, glossaryList, isSubcategory) {
   var categoryContent = "";
-  var categoryID;
+  var dropdownID;
 
   if (isSubcategory) {
-    categoryID = '#subcategory_menu';
+    dropdownID = '#subcategory_menu';
   } else {
-    categoryID = '#category_menu';
+    dropdownID = '#category_menu';
   }
 
 
   // assume all categories hidden by default
   var isShow = [];
-  $(categoryID).empty();
+  $(dropdownID).empty();
   categoryList.forEach(function (element) {
     isShow.push(false);
   });
@@ -200,14 +198,9 @@ function updateCategory(categoryList, glossaryList, isSubcategory) {
     }
 
   }
-
-  if (isSubcategory) {
-    $('#subcategory_menu').append(categoryContent);
-    $('#subcategory_menu').selectpicker('refresh');
-  } else {
-    $('#category_menu').append(categoryContent);
-    $('#category_menu').selectpicker('refresh');
-  }
+// update dropdown
+  $(dropdownID).append(categoryContent);
+  $(dropdownID).selectpicker('refresh');
 
 }
 
