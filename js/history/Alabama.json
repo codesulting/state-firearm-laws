@@ -1,0 +1,1808 @@
+{
+    "history": {
+        "1991": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1992": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1993": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1994": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1995": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1996": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1997": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1998": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1999": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2000": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2001": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2002": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2003": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2004": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2005": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2006": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2007": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2008": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2009": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2010": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2011": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2012": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2013": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2014": [
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2015": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                "law": "dvro",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2016": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                "law": "alcoholism",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                "law": "dvro",
+                "link": "",
+                "status": "Current"
+            }
+        ]
+    }
+}

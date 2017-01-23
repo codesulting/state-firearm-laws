@@ -1,0 +1,4616 @@
+{
+    "history": {
+        "1991": [
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1992": [
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1993": [
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1994": [
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1995": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1996": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1997": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1998": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "1999": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2000": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2001": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2002": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2003": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2004": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2005": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2006": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2007": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2008": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2009": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2010": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2011": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2012": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2013": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2014": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2015": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2016": [
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                "law": "danger",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                "law": "drugmisdemeanor",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                "law": "violentpartial",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for sale of all firearms",
+                "law": "dealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State dealer license required for handgun sales",
+                "law": "dealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+                "law": "reportdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "At least one store security precaution required",
+                "law": "security",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Universal background check required at point of transfer for handguns",
+                "law": "universalh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                "law": "gunshowh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                "law": "threedaylimit",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Required background checks include an explicit requirement for search of state mental health records",
+                "law": "mentalhealth",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Waiting period is required on all handgun purchases from dealers",
+                "law": "waitingh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit renewal requires a new background check",
+                "law": "ccrenewbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Strict liability for damages resulting from illegal gun sales",
+                "law": "liability",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                "law": "mcdv",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                "law": "mcdvsurrender",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No additional finding is required before the firearm surrender provisions apply",
+                "law": "mcdvsurrendernoconditions",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                "law": "incidentremoval",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A stalking conviction is prohibitive for firearm possession",
+                "law": "stalking",
+                "link": "",
+                "status": "Current"
+            }
+        ]
+    }
+}

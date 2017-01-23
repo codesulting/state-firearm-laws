@@ -1,0 +1,3692 @@
+{
+    "history": {
+        "1991": [
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1992": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1993": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1994": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1995": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1996": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1997": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1998": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "1999": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                "law": "immunity",
+                "link": "",
+                "status": "Repealed"
+            }
+        ],
+        "2000": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "\"May issue\" state",
+                "law": "mayissue",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                "law": "showing",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2001": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2002": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2003": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2004": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2005": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No stand your ground law",
+                "law": "nosyg",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2006": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2007": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2008": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2009": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2010": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2011": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "A license or permit is required to purchase handguns",
+                "law": "permith",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Safety training or testing required prior to issuing a firearm license or permit",
+                "law": "training",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Permit process involves law enforcement",
+                "law": "permitlaw",
+                "link": "",
+                "status": "Repealed"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2012": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2013": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2014": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2015": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ],
+        "2016": [
+            {
+                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                "law": "felony",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                "law": "invcommitment",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                "law": "recordsallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                "law": "recordsdealer",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                "law": "recordsdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
+                "law": "reportallh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                "law": "reportdealerh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                "law": "purge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Gun owners must register their handguns with the state",
+                "law": "registrationh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+                "law": "defactoregh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                "law": "age18longgunsale",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No possession of long guns until age 18",
+                "law": "age18longgunpossess",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                "law": "universalpermith",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State is not required to purge background check records for at least 60 days",
+                "law": "backgroundpurge",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                "law": "statechecksh",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                "law": "elementary",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Permit required to carry concealed weapons",
+                "law": "permitconcealed",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Concealed carry permit process requires a background check",
+                "law": "ccbackground",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                "law": "ccrevoke",
+                "link": "",
+                "status": "Current"
+            },
+            {
+                "definition": "Safety lock required for handguns sold through dealers",
+                "law": "lockd",
+                "link": "",
+                "status": "Current"
+            }
+        ]
+    }
+}
