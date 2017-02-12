@@ -1,54 +1,8 @@
 var usStates = $.getJSON("js/states-list.json", function (obj) {
 
   usStates = obj['states'];
-  var stateHistory;
+  var stateData;
 
-  // sample rates
-  var firearmSuicides = {
-    "2001": 3.3,
-    "2002": 3.4,
-    "2003": 4.3,
-    "2004": 4.5,
-    "2005": 4.3,
-    "2006": 4.4,
-    "2007": 4.1,
-    "2008": 3.3,
-    "2009": 5.1,
-    "2010": 2.9,
-    "2011": 3.4,
-    "2012": 4.1,
-    "2013": 3.3,
-    "2014": 4.2,
-    "2015": 4.3
-  };
-
-  var firearmHomicides = {
-    "2001": 3.3,
-    "2002": 3.4,
-    "2003": 4.3,
-    "2004": 4.5,
-    "2005": 4.3,
-    "2006": 4.4,
-    "2007": 4.1,
-    "2008": 3.3,
-    "2009": 3.3,
-    "2010": 3.3,
-    "2011": 2.9,
-    "2012": 3.1,
-    "2013": 3.3,
-    "2014": 3.5,
-    "2015": 3.2
-  };
-
-  var numGunLaws = {
-    "2009": 65,
-    "2010": 80,
-    "2011": 81,
-    "2012": 82,
-    "2013": 79,
-    "2014": 84,
-    "2015": 83
-  }
 
   // create list of states dropdown
   var stateDropdownContent = "<select class='selectpicker' data-live-search='true' id='state_dropdown' title='Choose a state...'>";
@@ -79,9 +33,9 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
         displayState(stateSelected);
 
         // update gun law history table
-        stateHistory = $.getJSON('js/history/' + stateSelected.text() + ".json", function (obj) {
-          stateHistory = obj["history"];
-          createHistoryTable(stateHistory);
+        stateData = $.getJSON('js/history/' + stateSelected.text() + ".json", function (obj) {
+          stateData = obj["data"];
+          createDataTable(stateData);
         });
       })
   );
@@ -89,9 +43,9 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
 // rates displayed change based on year input to slider
   $("#year").on("slide", function (slideEvt) {
-    $("#firearm_suicides").text(firearmSuicides[slideEvt.value] + "%");
-    $("#firearm_homicides").text(firearmHomicides[slideEvt.value] + "%");
-    $("#num_gun_laws").text(numGunLaws[slideEvt.value]);
+    $("#firearm_suicides").text(stateData[slideEvt.value][2]["suicide_rate"] + "%");
+    $("#firearm_homicides").text(stateData[slideEvt.value][3]["homicide_rate"] + "%");
+    $("#num_gun_laws").text(stateData[slideEvt.value][1]["num_laws"]);
     $("#year_label").text(slideEvt.value);
     updateHistoryTable(slideEvt.value);
   });
@@ -122,19 +76,18 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
   // takes info from <state>.json and creates a full table of all statutes for that state
   // table is hidden on initialization
-  function createHistoryTable(stateHistory) {
-
+  function createDataTable(stateData) {
     var tableContent = "<table class='table table-responsive table-hover'>" +
-      "<thead> <tr class='header'> <th>Gun Law History</th> <th></th> <th>Status</th> </tr> </thead><tbody class='text-xs-left'>";
-    for (var year in stateHistory) {
-      if (stateHistory.hasOwnProperty(year)) {
-        for (var entry in stateHistory[year]) {
+      "<thead> <tr class='header'> <th>Gun Law Data</th> <th></th> <th>Status</th> </tr> </thead><tbody class='text-xs-left'>";
+    for (var year in stateData) {
+      if (stateData.hasOwnProperty(year)) {
+        for (var entry in stateData[year][0]["history"]) {
           tableContent += "<tr class='" + year + "'>";
-          tableContent += "<td>" + stateHistory[year][entry]["law"] + "</td>";
-          tableContent += "<td>" + stateHistory[year][entry]["definition"] + "</td>";
-          tableContent += "<td>" + stateHistory[year][entry]["status"];
-          if (stateHistory[year][entry]["status"] === "Current") {
-            tableContent += "; " + "<a href='" + stateHistory[year][entry]["link"] + "'> Read the statute here </a></td>";
+          tableContent += "<td>" + stateData[year][0]["history"][entry]["law"] + "</td>";
+          tableContent += "<td>" + stateData[year][0]["history"][entry]["definition"] + "</td>";
+          tableContent += "<td>" + stateData[year][0]["history"][entry]["status"];
+          if (stateData[year][0]["history"][entry]["status"] === "Current") {
+            tableContent += "; " + "<a href='" + stateData[year][0]["history"][entry]["link"] + "'> Read the statute here </a></td>";
           } else {
             tableContent += "</td>"
           }
