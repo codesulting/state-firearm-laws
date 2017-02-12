@@ -1,2030 +1,2264 @@
 {
-    "history": {
-        "1991": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1992": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1993": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1994": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1995": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "1996": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "1997": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "1998": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "1999": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2000": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2001": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2002": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2003": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2004": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2005": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2006": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2007": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2008": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2009": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2010": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2011": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2012": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2013": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
-                "law": "recordsallh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background checks required at point of transfer for all firearms",
-                "law": "universal",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background check required at point of transfer for handguns",
-                "law": "universalh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
-                "law": "universalpermit",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                "law": "universalpermith",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State is not required to purge background check records for at least 60 days",
-                "law": "backgroundpurge",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
-                "law": "magazine",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
-                "law": "mcdvsurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "mcdvsurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires DVRO subjects to surrender their firearms",
-                "law": "dvrosurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "dvrosurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2014": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
-                "law": "recordsallh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background checks required at point of transfer for all firearms",
-                "law": "universal",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background check required at point of transfer for handguns",
-                "law": "universalh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
-                "law": "universalpermit",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                "law": "universalpermith",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State is not required to purge background check records for at least 60 days",
-                "law": "backgroundpurge",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
-                "law": "magazine",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
-                "law": "mcdvsurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "mcdvsurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires DVRO subjects to surrender their firearms",
-                "law": "dvrosurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "dvrosurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2015": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
-                "law": "recordsallh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background checks required at point of transfer for all firearms",
-                "law": "universal",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background check required at point of transfer for handguns",
-                "law": "universalh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
-                "law": "universalpermit",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                "law": "universalpermith",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State is not required to purge background check records for at least 60 days",
-                "law": "backgroundpurge",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
-                "law": "magazine",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
-                "law": "mcdvsurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "mcdvsurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires DVRO subjects to surrender their firearms",
-                "law": "dvrosurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "dvrosurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2016": [
-            {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
-                "law": "recordsallh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background checks required at point of transfer for all firearms",
-                "law": "universal",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Universal background check required at point of transfer for handguns",
-                "law": "universalh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for all gun show firearm sales at point of purchase",
-                "law": "gunshow",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
-                "law": "gunshowh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
-                "law": "universalpermit",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                "law": "universalpermith",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State is not required to purge background check records for at least 60 days",
-                "law": "backgroundpurge",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-                "law": "statechecks",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-                "law": "statechecksh",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
-                "law": "magazine",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically requires MCDV offenders to surrender their firearms",
-                "law": "mcdvsurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "mcdvsurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires DVRO subjects to surrender their firearms",
-                "law": "dvrosurrender",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No additional finding is required before the firearm surrender provisions apply",
-                "law": "dvrosurrendernoconditions",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
-            }
-        ]
-    }
+    "data": [
+        {
+            "1991": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 8
+                }
+            ]
+        },
+        {
+            "1992": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 8
+                }
+            ]
+        },
+        {
+            "1993": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 8
+                }
+            ]
+        },
+        {
+            "1994": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 8
+                }
+            ]
+        },
+        {
+            "1995": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 9
+                }
+            ]
+        },
+        {
+            "1996": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 9
+                }
+            ]
+        },
+        {
+            "1997": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 9
+                }
+            ]
+        },
+        {
+            "1998": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 9
+                }
+            ]
+        },
+        {
+            "1999": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 9
+                }
+            ]
+        },
+        {
+            "2000": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 8
+                }
+            ]
+        },
+        {
+            "2001": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2002": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law does not preempt local regulation of firearms",
+                            "law": "preemption",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2003": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2004": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2005": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2006": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2007": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2008": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2009": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2010": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2011": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2012": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2013": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                            "law": "recordsallh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background checks required at point of transfer for all firearms",
+                            "law": "universal",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background check required at point of transfer for handguns",
+                            "law": "universalh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
+                            "law": "universalpermit",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                            "law": "universalpermith",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State is not required to purge background check records for at least 60 days",
+                            "law": "backgroundpurge",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
+                            "law": "magazine",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                            "law": "mcdv",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                            "law": "mcdvsurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "mcdvsurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                            "law": "dvro",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law requires DVRO subjects to surrender their firearms",
+                            "law": "dvrosurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "dvrosurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 25
+                }
+            ]
+        },
+        {
+            "2014": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                            "law": "recordsallh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background checks required at point of transfer for all firearms",
+                            "law": "universal",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background check required at point of transfer for handguns",
+                            "law": "universalh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
+                            "law": "universalpermit",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                            "law": "universalpermith",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State is not required to purge background check records for at least 60 days",
+                            "law": "backgroundpurge",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
+                            "law": "magazine",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                            "law": "mcdv",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                            "law": "mcdvsurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "mcdvsurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                            "law": "dvro",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law requires DVRO subjects to surrender their firearms",
+                            "law": "dvrosurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "dvrosurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 25
+                }
+            ]
+        },
+        {
+            "2015": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                            "law": "recordsallh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background checks required at point of transfer for all firearms",
+                            "law": "universal",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background check required at point of transfer for handguns",
+                            "law": "universalh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
+                            "law": "universalpermit",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                            "law": "universalpermith",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State is not required to purge background check records for at least 60 days",
+                            "law": "backgroundpurge",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
+                            "law": "magazine",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                            "law": "mcdv",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                            "law": "mcdvsurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "mcdvsurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                            "law": "dvro",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law requires DVRO subjects to surrender their firearms",
+                            "law": "dvrosurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "dvrosurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 25
+                }
+            ]
+        },
+        {
+            "2016": [
+                {
+                    "history": [
+                        {
+                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                            "law": "felony",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for all sellers and all dealers for handgun sales",
+                            "law": "recordsallh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background checks required at point of transfer for all firearms",
+                            "law": "universal",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Universal background check required at point of transfer for handguns",
+                            "law": "universalh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for all gun show firearm sales at point of purchase",
+                            "law": "gunshow",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks required for purchase of handguns at gun shows at point of purchase",
+                            "law": "gunshowh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
+                            "law": "universalpermit",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                            "law": "universalpermith",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State is not required to purge background check records for at least 60 days",
+                            "law": "backgroundpurge",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
+                            "law": "statechecks",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State conducts separate background checks, beyond the federal NICS check, for handguns",
+                            "law": "statechecksh",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on large capacity magazines beyond just ammunition for pistols",
+                            "law": "magazine",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                            "law": "mcdv",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically requires MCDV offenders to surrender their firearms",
+                            "law": "mcdvsurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "mcdvsurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                            "law": "dvro",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State law requires DVRO subjects to surrender their firearms",
+                            "law": "dvrosurrender",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No additional finding is required before the firearm surrender provisions apply",
+                            "law": "dvrosurrendernoconditions",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "A stalking conviction is prohibitive for firearm possession",
+                            "law": "stalking",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 25
+                }
+            ]
+        }
+    ]
 }

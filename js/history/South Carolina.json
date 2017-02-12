@@ -1,2162 +1,2396 @@
 {
-    "history": {
-        "1991": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State is not required to purge sales records for at least 60 days after purchase",
-                "law": "purge",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1992": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State is not required to purge sales records for at least 60 days after purchase",
-                "law": "purge",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1993": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State is not required to purge sales records for at least 60 days after purchase",
-                "law": "purge",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1994": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State is not required to purge sales records for at least 60 days after purchase",
-                "law": "purge",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1995": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1996": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1997": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1998": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "1999": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2000": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2001": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2002": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2003": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "One handgun per month with no or limited exceptions",
-                "law": "onepermonth",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2004": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
-                "law": "reportdealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2005": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2006": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2007": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No possession of handguns until age 21",
-                "law": "age21handgunpossess",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2008": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2009": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2010": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2011": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State dealer license required for handgun sales",
-                "law": "dealerh",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
-                "law": "junkgun",
-                "link": "",
-                "status": "Repealed"
-            }
-        ],
-        "2012": [
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2013": [
-            {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2014": [
-            {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2015": [
-            {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            }
-        ],
-        "2016": [
-            {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            }
-        ]
-    }
+    "data": [
+        {
+            "1991": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                            "law": "purge",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                            "law": "showing",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 17
+                }
+            ]
+        },
+        {
+            "1992": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                            "law": "purge",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                            "law": "showing",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 17
+                }
+            ]
+        },
+        {
+            "1993": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                            "law": "purge",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                            "law": "showing",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 17
+                }
+            ]
+        },
+        {
+            "1994": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "State is not required to purge sales records for at least 60 days after purchase",
+                            "law": "purge",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                            "law": "showing",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 17
+                }
+            ]
+        },
+        {
+            "1995": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "\"May issue\" state",
+                            "law": "mayissue",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                            "law": "showing",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "1996": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "1997": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "1998": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "1999": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                            "law": "immunity",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "2000": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 15
+                }
+            ]
+        },
+        {
+            "2001": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "2002": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "2003": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "One handgun per month with no or limited exceptions",
+                            "law": "onepermonth",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 16
+                }
+            ]
+        },
+        {
+            "2004": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                            "law": "recordsdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+                            "law": "reportdealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 15
+                }
+            ]
+        },
+        {
+            "2005": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No stand your ground law",
+                            "law": "nosyg",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 13
+                }
+            ]
+        },
+        {
+            "2006": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2007": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                            "law": "age21handgunsale",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No possession of handguns until age 21",
+                            "law": "age21handgunpossess",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 12
+                }
+            ]
+        },
+        {
+            "2008": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        },
+        {
+            "2009": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        },
+        {
+            "2010": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        },
+        {
+            "2011": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "State dealer license required for handgun sales",
+                            "law": "dealerh",
+                            "link": "",
+                            "status": "Repealed"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Ban on junk guns (sometimes called \"Saturday night specials\")",
+                            "law": "junkgun",
+                            "link": "",
+                            "status": "Repealed"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        },
+        {
+            "2012": [
+                {
+                    "history": [
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 8
+                }
+            ]
+        },
+        {
+            "2013": [
+                {
+                    "history": [
+                        {
+                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                            "law": "invcommitment",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                            "law": "danger",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        },
+        {
+            "2014": [
+                {
+                    "history": [
+                        {
+                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                            "law": "invcommitment",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                            "law": "danger",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        },
+        {
+            "2015": [
+                {
+                    "history": [
+                        {
+                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                            "law": "invcommitment",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                            "law": "danger",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        },
+        {
+            "2016": [
+                {
+                    "history": [
+                        {
+                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                            "law": "invcommitment",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                            "law": "danger",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                            "law": "alcoholism",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying allowed on college campuses",
+                            "law": "college",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                            "law": "collegeconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                            "law": "elementary",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Permit required to carry concealed weapons",
+                            "law": "permitconcealed",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit process requires a background check",
+                            "law": "ccbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Concealed carry permit renewal requires a new background check",
+                            "law": "ccrenewbackground",
+                            "link": "",
+                            "status": "Current"
+                        },
+                        {
+                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                            "law": "ccrevoke",
+                            "link": "",
+                            "status": "Current"
+                        }
+                    ]
+                },
+                {
+                    "num_laws": 10
+                }
+            ]
+        }
+    ]
 }
