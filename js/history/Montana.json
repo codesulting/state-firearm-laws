@@ -1,1094 +1,1198 @@
 {
-    "data": [
-        {
-            "1991": [
-                {
-                    "history": [
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 3
-                }
-            ]
-        },
-        {
-            "1992": [
-                {
-                    "history": [
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 3
-                }
-            ]
-        },
-        {
-            "1993": [
-                {
-                    "history": [
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 3
-                }
-            ]
-        },
-        {
-            "1994": [
-                {
-                    "history": [
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 3
-                }
-            ]
-        },
-        {
-            "1995": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "1996": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "1997": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "1998": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "1999": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2000": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2001": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2002": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2003": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2004": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2005": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2006": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2007": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2008": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 6
-                }
-            ]
-        },
-        {
-            "2009": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "2010": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "2011": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "2012": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "2013": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "2014": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "2015": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        },
-        {
-            "2016": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                            "law": "incidentremoval",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 5
-                }
-            ]
-        }
-    ]
+    "data": {
+        "1991": [
+            {
+                "history": [
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 3
+            },
+            {
+                "suicide_rate": "13.42"
+            },
+            {
+                "homicide_rate": "2.52"
+            }
+        ],
+        "1992": [
+            {
+                "history": [
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 3
+            },
+            {
+                "suicide_rate": "11.66"
+            },
+            {
+                "homicide_rate": "2.06"
+            }
+        ],
+        "1993": [
+            {
+                "history": [
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 3
+            },
+            {
+                "suicide_rate": "12.82"
+            },
+            {
+                "homicide_rate": "2.56"
+            }
+        ],
+        "1994": [
+            {
+                "history": [
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 3
+            },
+            {
+                "suicide_rate": "13.81"
+            },
+            {
+                "homicide_rate": "2.09"
+            }
+        ],
+        "1995": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "15.27"
+            },
+            {
+                "homicide_rate": "2.63"
+            }
+        ],
+        "1996": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "14.03"
+            },
+            {
+                "homicide_rate": "2.88"
+            }
+        ],
+        "1997": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "13.52"
+            },
+            {
+                "homicide_rate": "2.74"
+            }
+        ],
+        "1998": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "11.08"
+            },
+            {
+                "homicide_rate": "1.58"
+            }
+        ],
+        "1999": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "10.46"
+            },
+            {
+                "homicide_rate": "1.93"
+            }
+        ],
+        "2000": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "11.83"
+            },
+            {
+                "homicide_rate": "1.91"
+            }
+        ],
+        "2001": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "14.66"
+            },
+            {
+                "homicide_rate": "2.29"
+            }
+        ],
+        "2002": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "12.52"
+            },
+            {
+                "homicide_rate": "NR"
+            }
+        ],
+        "2003": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "12.79"
+            },
+            {
+                "homicide_rate": "2.35"
+            }
+        ],
+        "2004": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "10.9"
+            },
+            {
+                "homicide_rate": "1.32"
+            }
+        ],
+        "2005": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "14.16"
+            },
+            {
+                "homicide_rate": "1.75"
+            }
+        ],
+        "2006": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "10.38"
+            },
+            {
+                "homicide_rate": "1.19"
+            }
+        ],
+        "2007": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "11.64"
+            },
+            {
+                "homicide_rate": "1.52"
+            }
+        ],
+        "2008": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
+            {
+                "suicide_rate": "13.27"
+            },
+            {
+                "homicide_rate": "1.69"
+            }
+        ],
+        "2009": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "12.81"
+            },
+            {
+                "homicide_rate": "2.41"
+            }
+        ],
+        "2010": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "13.04"
+            },
+            {
+                "homicide_rate": "1.8"
+            }
+        ],
+        "2011": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "14.71"
+            },
+            {
+                "homicide_rate": "1.15"
+            }
+        ],
+        "2012": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "14.81"
+            },
+            {
+                "homicide_rate": "1.04"
+            }
+        ],
+        "2013": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "13.98"
+            },
+            {
+                "homicide_rate": "1.63"
+            }
+        ],
+        "2014": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "13.71"
+            },
+            {
+                "homicide_rate": "1.35"
+            }
+        ],
+        "2015": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "16.07"
+            },
+            {
+                "homicide_rate": "2.17"
+            }
+        ],
+        "2016": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
+            {
+                "suicide_rate": "NR"
+            },
+            {
+                "homicide_rate": "NR"
+            }
+        ]
+    }
 }

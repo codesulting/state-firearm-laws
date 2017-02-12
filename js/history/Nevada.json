@@ -1,1562 +1,1666 @@
 {
-    "data": [
-        {
-            "1991": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
-                            "law": "capuses",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability applies to children less than 14 years old",
-                            "law": "cap14",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1992": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
-                            "law": "capuses",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability applies to children less than 14 years old",
-                            "law": "cap14",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1993": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
-                            "law": "capuses",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability applies to children less than 14 years old",
-                            "law": "cap14",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1994": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
-                            "law": "capuses",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Criminal liability applies to children less than 14 years old",
-                            "law": "cap14",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1995": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit renewal requires a new background check",
-                            "law": "ccrenewbackground",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "1996": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit renewal requires a new background check",
-                            "law": "ccrenewbackground",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "1997": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1998": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1999": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "2000": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "2001": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "2002": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "2003": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2004": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2005": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2006": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2007": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2008": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2009": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2010": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2011": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2012": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2013": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2014": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2015": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                            "law": "mcdv",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                            "law": "dvro",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
-                            "law": "dvrodating",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 11
-                }
-            ]
-        },
-        {
-            "2016": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Sale of ammunition is restricted to all the same categories as firearms",
-                            "law": "ammrestrict",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No possession of long guns until age 18",
-                            "law": "age18longgunpossess",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                            "law": "mcdv",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                            "law": "dvro",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
-                            "law": "dvrodating",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 11
-                }
-            ]
-        }
-    ]
+    "data": {
+        "1991": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
+                        "law": "capuses",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability applies to children less than 14 years old",
+                        "law": "cap14",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "17.46"
+            },
+            {
+                "homicide_rate": "7.15"
+            }
+        ],
+        "1992": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
+                        "law": "capuses",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability applies to children less than 14 years old",
+                        "law": "cap14",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "17.3"
+            },
+            {
+                "homicide_rate": "6.37"
+            }
+        ],
+        "1993": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
+                        "law": "capuses",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability applies to children less than 14 years old",
+                        "law": "cap14",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "16.65"
+            },
+            {
+                "homicide_rate": "7.13"
+            }
+        ],
+        "1994": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability for negligent storage of guns if child uses or carries the gun",
+                        "law": "capuses",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Criminal liability applies to children less than 14 years old",
+                        "law": "cap14",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "15.04"
+            },
+            {
+                "homicide_rate": "7.19"
+            }
+        ],
+        "1995": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "17.12"
+            },
+            {
+                "homicide_rate": "6.8"
+            }
+        ],
+        "1996": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "13.38"
+            },
+            {
+                "homicide_rate": "7.38"
+            }
+        ],
+        "1997": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "15.57"
+            },
+            {
+                "homicide_rate": "6.13"
+            }
+        ],
+        "1998": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "13.26"
+            },
+            {
+                "homicide_rate": "6.26"
+            }
+        ],
+        "1999": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "13.9"
+            },
+            {
+                "homicide_rate": "5.18"
+            }
+        ],
+        "2000": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "12.26"
+            },
+            {
+                "homicide_rate": "4.43"
+            }
+        ],
+        "2001": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "10.58"
+            },
+            {
+                "homicide_rate": "5.15"
+            }
+        ],
+        "2002": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "11.35"
+            },
+            {
+                "homicide_rate": "5.22"
+            }
+        ],
+        "2003": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "11.43"
+            },
+            {
+                "homicide_rate": "5.03"
+            }
+        ],
+        "2004": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "10.84"
+            },
+            {
+                "homicide_rate": "5.1"
+            }
+        ],
+        "2005": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "10.84"
+            },
+            {
+                "homicide_rate": "4.73"
+            }
+        ],
+        "2006": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "10.27"
+            },
+            {
+                "homicide_rate": "5.28"
+            }
+        ],
+        "2007": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "10.34"
+            },
+            {
+                "homicide_rate": "5.03"
+            }
+        ],
+        "2008": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "10.91"
+            },
+            {
+                "homicide_rate": "3.74"
+            }
+        ],
+        "2009": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "10.92"
+            },
+            {
+                "homicide_rate": "3.67"
+            }
+        ],
+        "2010": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "10.51"
+            },
+            {
+                "homicide_rate": "3.36"
+            }
+        ],
+        "2011": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.68"
+            },
+            {
+                "homicide_rate": "3.18"
+            }
+        ],
+        "2012": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.57"
+            },
+            {
+                "homicide_rate": "2.87"
+            }
+        ],
+        "2013": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "10.02"
+            },
+            {
+                "homicide_rate": "3.18"
+            }
+        ],
+        "2014": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "10.39"
+            },
+            {
+                "homicide_rate": "3.82"
+            }
+        ],
+        "2015": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
+                        "law": "dvrodating",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 11
+            },
+            {
+                "suicide_rate": "9.48"
+            },
+            {
+                "homicide_rate": "4.49"
+            }
+        ],
+        "2016": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Sale of ammunition is restricted to all the same categories as firearms",
+                        "law": "ammrestrict",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
+                        "law": "dvrodating",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 11
+            },
+            {
+                "suicide_rate": "NR"
+            },
+            {
+                "homicide_rate": "NR"
+            }
+        ]
+    }
 }

@@ -1,1490 +1,1594 @@
 {
-    "data": [
-        {
-            "1991": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law does not preempt local regulation of firearms",
-                            "law": "preemption",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "1992": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "State law does not preempt local regulation of firearms",
-                            "law": "preemption",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "1993": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "1994": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "1995": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1996": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1997": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1998": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "1999": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2000": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2001": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2002": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2003": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2004": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2005": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2006": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2007": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2008": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2009": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2010": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2011": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2012": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                            "law": "collegeconcealed",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 8
-                }
-            ]
-        },
-        {
-            "2013": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "2014": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "2015": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        },
-        {
-            "2016": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying allowed on college campuses",
-                            "law": "college",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 7
-                }
-            ]
-        }
-    ]
+    "data": {
+        "1991": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.51"
+            },
+            {
+                "homicide_rate": "8.48"
+            }
+        ],
+        "1992": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "8.23"
+            },
+            {
+                "homicide_rate": "8.97"
+            }
+        ],
+        "1993": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.66"
+            },
+            {
+                "homicide_rate": "8.22"
+            }
+        ],
+        "1994": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "10.46"
+            },
+            {
+                "homicide_rate": "8.17"
+            }
+        ],
+        "1995": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "10.41"
+            },
+            {
+                "homicide_rate": "8.35"
+            }
+        ],
+        "1996": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "9.23"
+            },
+            {
+                "homicide_rate": "6.42"
+            }
+        ],
+        "1997": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "9.34"
+            },
+            {
+                "homicide_rate": "7.61"
+            }
+        ],
+        "1998": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "9.54"
+            },
+            {
+                "homicide_rate": "6.01"
+            }
+        ],
+        "1999": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "8.75"
+            },
+            {
+                "homicide_rate": "4.52"
+            }
+        ],
+        "2000": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9"
+            },
+            {
+                "homicide_rate": "5.21"
+            }
+        ],
+        "2001": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "10.11"
+            },
+            {
+                "homicide_rate": "4.13"
+            }
+        ],
+        "2002": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.43"
+            },
+            {
+                "homicide_rate": "5.47"
+            }
+        ],
+        "2003": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.25"
+            },
+            {
+                "homicide_rate": "4.55"
+            }
+        ],
+        "2004": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "8.26"
+            },
+            {
+                "homicide_rate": "5.18"
+            }
+        ],
+        "2005": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.24"
+            },
+            {
+                "homicide_rate": "5.52"
+            }
+        ],
+        "2006": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "8.69"
+            },
+            {
+                "homicide_rate": "5.57"
+            }
+        ],
+        "2007": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "8.42"
+            },
+            {
+                "homicide_rate": "5.61"
+            }
+        ],
+        "2008": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.37"
+            },
+            {
+                "homicide_rate": "5.39"
+            }
+        ],
+        "2009": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9.58"
+            },
+            {
+                "homicide_rate": "5.62"
+            }
+        ],
+        "2010": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "9"
+            },
+            {
+                "homicide_rate": "4.68"
+            }
+        ],
+        "2011": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "10.2"
+            },
+            {
+                "homicide_rate": "5.2"
+            }
+        ],
+        "2012": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 8
+            },
+            {
+                "suicide_rate": "10.13"
+            },
+            {
+                "homicide_rate": "5.84"
+            }
+        ],
+        "2013": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "10.51"
+            },
+            {
+                "homicide_rate": "5.29"
+            }
+        ],
+        "2014": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "10.37"
+            },
+            {
+                "homicide_rate": "5.72"
+            }
+        ],
+        "2015": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "10.78"
+            },
+            {
+                "homicide_rate": "5.34"
+            }
+        ],
+        "2016": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
+            {
+                "suicide_rate": "NR"
+            },
+            {
+                "homicide_rate": "NR"
+            }
+        ]
+    }
 }

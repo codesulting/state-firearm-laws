@@ -1,2006 +1,2110 @@
 {
-    "data": [
-        {
-            "1991": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                            "law": "showing",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "1992": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                            "law": "showing",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "1993": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                            "law": "showing",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 11
-                }
-            ]
-        },
-        {
-            "1994": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "\"May issue\" state",
-                            "law": "mayissue",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                            "law": "showing",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 14
-                }
-            ]
-        },
-        {
-            "1995": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 12
-                }
-            ]
-        },
-        {
-            "1996": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 12
-                }
-            ]
-        },
-        {
-            "1997": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 13
-                }
-            ]
-        },
-        {
-            "1998": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 13
-                }
-            ]
-        },
-        {
-            "1999": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                            "law": "immunity",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 13
-                }
-            ]
-        },
-        {
-            "2000": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 12
-                }
-            ]
-        },
-        {
-            "2001": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 12
-                }
-            ]
-        },
-        {
-            "2002": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 12
-                }
-            ]
-        },
-        {
-            "2003": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State dealer license required for handgun sales",
-                            "law": "dealerh",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "A license or permit is required to purchase handguns",
-                            "law": "permith",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 12
-                }
-            ]
-        },
-        {
-            "2004": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2005": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2006": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2007": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2008": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2009": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2010": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2011": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "One handgun per month with no or limited exceptions",
-                            "law": "onepermonth",
-                            "link": "",
-                            "status": "Repealed"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 10
-                }
-            ]
-        },
-        {
-            "2012": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2013": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2014": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2015": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 9
-                }
-            ]
-        },
-        {
-            "2016": [
-                {
-                    "history": [
-                        {
-                            "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                            "law": "felony",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invcommitment",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                            "law": "invoutpatient",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                            "law": "elementary",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Permit required to carry concealed weapons",
-                            "law": "permitconcealed",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Concealed carry permit process requires a background check",
-                            "law": "ccbackground",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                            "law": "ccrevoke",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No stand your ground law",
-                            "law": "nosyg",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                            "law": "dvro",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
-                            "law": "dvrodating",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "State law requires DVRO subjects to surrender their firearms",
-                            "law": "dvrosurrender",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "No additional finding is required before the firearm surrender provisions apply",
-                            "law": "dvrosurrendernoconditions",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "The surrender provisions apply if the subject is a dating partner of the petitioner",
-                            "law": "dvrosurrenderdating",
-                            "link": "",
-                            "status": "Current"
-                        },
-                        {
-                            "definition": "A stalking conviction is prohibitive for firearm possession",
-                            "law": "stalking",
-                            "link": "",
-                            "status": "Current"
-                        }
-                    ]
-                },
-                {
-                    "num_laws": 14
-                }
-            ]
-        }
-    ]
+    "data": {
+        "1991": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "8.84"
+            },
+            {
+                "homicide_rate": "5.54"
+            }
+        ],
+        "1992": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "8.98"
+            },
+            {
+                "homicide_rate": "5.84"
+            }
+        ],
+        "1993": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 11
+            },
+            {
+                "suicide_rate": "8.25"
+            },
+            {
+                "homicide_rate": "5.8"
+            }
+        ],
+        "1994": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 14
+            },
+            {
+                "suicide_rate": "8.42"
+            },
+            {
+                "homicide_rate": "5.96"
+            }
+        ],
+        "1995": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 12
+            },
+            {
+                "suicide_rate": "8.32"
+            },
+            {
+                "homicide_rate": "5.15"
+            }
+        ],
+        "1996": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 12
+            },
+            {
+                "suicide_rate": "8.44"
+            },
+            {
+                "homicide_rate": "4.98"
+            }
+        ],
+        "1997": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 13
+            },
+            {
+                "suicide_rate": "7.39"
+            },
+            {
+                "homicide_rate": "5.2"
+            }
+        ],
+        "1998": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 13
+            },
+            {
+                "suicide_rate": "7.74"
+            },
+            {
+                "homicide_rate": "4.13"
+            }
+        ],
+        "1999": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 13
+            },
+            {
+                "suicide_rate": "7.2"
+            },
+            {
+                "homicide_rate": "3.9"
+            }
+        ],
+        "2000": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 12
+            },
+            {
+                "suicide_rate": "6.87"
+            },
+            {
+                "homicide_rate": "3.9"
+            }
+        ],
+        "2001": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 12
+            },
+            {
+                "suicide_rate": "6.48"
+            },
+            {
+                "homicide_rate": "3.74"
+            }
+        ],
+        "2002": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 12
+            },
+            {
+                "suicide_rate": "6.76"
+            },
+            {
+                "homicide_rate": "3.86"
+            }
+        ],
+        "2003": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "law": "dealerh",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "law": "permith",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 12
+            },
+            {
+                "suicide_rate": "6.09"
+            },
+            {
+                "homicide_rate": "4.46"
+            }
+        ],
+        "2004": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "6.55"
+            },
+            {
+                "homicide_rate": "3.89"
+            }
+        ],
+        "2005": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "6.59"
+            },
+            {
+                "homicide_rate": "4.58"
+            }
+        ],
+        "2006": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "6.31"
+            },
+            {
+                "homicide_rate": "3.62"
+            }
+        ],
+        "2007": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "6.15"
+            },
+            {
+                "homicide_rate": "3.87"
+            }
+        ],
+        "2008": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "6.51"
+            },
+            {
+                "homicide_rate": "3.17"
+            }
+        ],
+        "2009": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "6.39"
+            },
+            {
+                "homicide_rate": "3.44"
+            }
+        ],
+        "2010": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "6.99"
+            },
+            {
+                "homicide_rate": "3.37"
+            }
+        ],
+        "2011": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "One handgun per month with no or limited exceptions",
+                        "law": "onepermonth",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
+            {
+                "suicide_rate": "7.12"
+            },
+            {
+                "homicide_rate": "2.84"
+            }
+        ],
+        "2012": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "6.99"
+            },
+            {
+                "homicide_rate": "2.7"
+            }
+        ],
+        "2013": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "6.94"
+            },
+            {
+                "homicide_rate": "2.79"
+            }
+        ],
+        "2014": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "7.1"
+            },
+            {
+                "homicide_rate": "2.83"
+            }
+        ],
+        "2015": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 9
+            },
+            {
+                "suicide_rate": "7.06"
+            },
+            {
+                "homicide_rate": "3.29"
+            }
+        ],
+        "2016": [
+            {
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
+                        "law": "dvrodating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires DVRO subjects to surrender their firearms",
+                        "law": "dvrosurrender",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No additional finding is required before the firearm surrender provisions apply",
+                        "law": "dvrosurrendernoconditions",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "The surrender provisions apply if the subject is a dating partner of the petitioner",
+                        "law": "dvrosurrenderdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
+            },
+            {
+                "num_laws": 14
+            },
+            {
+                "suicide_rate": "NR"
+            },
+            {
+                "homicide_rate": "NR"
+            }
+        ]
+    }
 }
