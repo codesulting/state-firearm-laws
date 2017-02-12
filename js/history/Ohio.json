@@ -1,1927 +1,2265 @@
 {
-    "history": {
+    "data": {
         "1991": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.01"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.89"
             }
         ],
         "1992": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.47"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.86"
             }
         ],
         "1993": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.51"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.74"
             }
         ],
         "1994": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.18"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.68"
             }
         ],
         "1995": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.61"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.97"
             }
         ],
         "1996": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.36"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.83"
             }
         ],
         "1997": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.44"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.57"
             }
         ],
         "1998": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.63"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.39"
             }
         ],
         "1999": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.48"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.28"
             }
         ],
         "2000": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.1"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.25"
             }
         ],
         "2001": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.82"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.81"
             }
         ],
         "2002": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.8"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.14"
             }
         ],
         "2003": [
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "history": [
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms",
+                        "law": "preemption",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "4.9"
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law does not preempt local regulation of firearms",
-                "law": "preemption",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "2.85"
             }
         ],
         "2004": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 13
             },
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "5.6"
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.03"
             }
         ],
         "2005": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 13
             },
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "5.62"
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.66"
             }
         ],
         "2006": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 13
             },
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "5.25"
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.08"
             }
         ],
         "2007": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 13
             },
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "5.53"
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.74"
             }
         ],
         "2008": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 13
             },
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "5.74"
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.68"
             }
         ],
         "2009": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 13
             },
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "4.88"
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.31"
             }
         ],
         "2010": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
+                        "law": "drugmisdemeanor",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 13
             },
             {
-                "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                "law": "drugmisdemeanor",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "6.08"
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.62"
             }
         ],
         "2011": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.98"
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.11"
             }
         ],
         "2012": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.42"
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.02"
             }
         ],
         "2013": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.54"
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.08"
             }
         ],
         "2014": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.06"
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.82"
             }
         ],
         "2015": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.09"
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.38"
             }
         ],
         "2016": [
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "law": "alcoholism",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
+                        "law": "age21handgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
+                        "law": "loststolen",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "law": "incidentremoval",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 12
             },
             {
-                "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                "law": "alcoholism",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "NR"
             },
             {
-                "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                "law": "age21handgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Mandatory reporting of lost and stolen guns by firearm owners",
-                "law": "loststolen",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                "law": "incidentremoval",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ]
     }

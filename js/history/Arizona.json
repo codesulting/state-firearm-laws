@@ -1,1219 +1,1557 @@
 {
-    "history": {
+    "data": {
         "1991": [
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Repealed"
+                "num_laws": 6
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "11.99"
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "5.57"
             }
         ],
         "1992": [
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Repealed"
+                "num_laws": 6
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "11.41"
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "5.99"
             }
         ],
         "1993": [
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "12.75"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "5.73"
             }
         ],
         "1994": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "12.29"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "7.38"
             }
         ],
         "1995": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "12.37"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "8.46"
             }
         ],
         "1996": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.87"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "6.48"
             }
         ],
         "1997": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.54"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.86"
             }
         ],
         "1998": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.99"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.82"
             }
         ],
         "1999": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.6"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.88"
             }
         ],
         "2000": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.69"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.27"
             }
         ],
         "2001": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "6.13"
             }
         ],
         "2002": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.4"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "6.49"
             }
         ],
         "2003": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.88"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.69"
             }
         ],
         "2004": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.06"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.93"
             }
         ],
         "2005": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.83"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "6.44"
             }
         ],
         "2006": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.27"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "6.42"
             }
         ],
         "2007": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.93"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.71"
             }
         ],
         "2008": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.45"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.36"
             }
         ],
         "2009": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.44"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.69"
             }
         ],
         "2010": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.53"
             },
             {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.36"
             }
         ],
         "2011": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.11"
             },
             {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.09"
             }
         ],
         "2012": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.67"
             },
             {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.97"
             }
         ],
         "2013": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.65"
             },
             {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.82"
             }
         ],
         "2014": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                "law": "invoutpatient",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.64"
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.31"
             }
         ],
         "2015": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                "law": "invoutpatient",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.82"
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.56"
             }
         ],
         "2016": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invoutpatient",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No possession of long guns until age 18",
+                        "law": "age18longgunpossess",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "law": "mcdvdating",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-                "law": "invoutpatient",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "NR"
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No possession of long guns until age 18",
-                "law": "age18longgunpossess",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-                "law": "mcdvdating",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ]
     }

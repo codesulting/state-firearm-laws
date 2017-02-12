@@ -1,841 +1,1179 @@
 {
-    "history": {
+    "data": {
         "1991": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "8.85"
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.84"
             }
         ],
         "1992": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.94"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.56"
             }
         ],
         "1993": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "11.89"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.84"
             }
         ],
         "1994": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "15.57"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.33"
             }
         ],
         "1995": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "12.59"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "5.47"
             }
         ],
         "1996": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "15.02"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "4.46"
             }
         ],
         "1997": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "14.54"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "4.47"
             }
         ],
         "1998": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "14.65"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "4.34"
             }
         ],
         "1999": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.52"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "4.51"
             }
         ],
         "2000": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "14.98"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.4"
             }
         ],
         "2001": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.31"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.81"
             }
         ],
         "2002": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "14.79"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.86"
             }
         ],
         "2003": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "13.2"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "4.62"
             }
         ],
         "2004": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "14.19"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.91"
             }
         ],
         "2005": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "13.43"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.28"
             }
         ],
         "2006": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "12.06"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "4.04"
             }
         ],
         "2007": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "14.57"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "3.51"
             }
         ],
         "2008": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "17.12"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.22"
             }
         ],
         "2009": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.93"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.7"
             }
         ],
         "2010": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "15.43"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "4.17"
             }
         ],
         "2011": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "13.47"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.43"
             }
         ],
         "2012": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "13.23"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "2.28"
             }
         ],
         "2013": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 3
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "16.59"
+            },
+            {
+                "homicide_rate": "2.27"
             }
         ],
         "2014": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 3
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "15.31"
+            },
+            {
+                "homicide_rate": "2.61"
             }
         ],
         "2015": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 3
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "16.48"
+            },
+            {
+                "homicide_rate": "5.22"
             }
         ],
         "2016": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "num_laws": 3
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "NR"
+            },
+            {
+                "homicide_rate": "NR"
             }
         ]
     }

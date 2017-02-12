@@ -1,1159 +1,1497 @@
 {
-    "history": {
+    "data": {
         "1991": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "12.29"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.34"
             }
         ],
         "1992": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "12.85"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.61"
             }
         ],
         "1993": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "11.46"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.83"
             }
         ],
         "1994": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "12.13"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "6.25"
             }
         ],
         "1995": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "11.58"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.37"
             }
         ],
         "1996": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "12.03"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "6.24"
             }
         ],
         "1997": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "10.16"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.11"
             }
         ],
         "1998": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "9.96"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.23"
             }
         ],
         "1999": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "10.3"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5"
             }
         ],
         "2000": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 5
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
+                "suicide_rate": "9.84"
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "5.31"
             }
         ],
         "2001": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.53"
             },
             {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.64"
             }
         ],
         "2002": [
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 4
             },
             {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "11.6"
             },
             {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.35"
             }
         ],
         "2003": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "11.41"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.64"
             }
         ],
         "2004": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.26"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.27"
             }
         ],
         "2005": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.29"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.02"
             }
         ],
         "2006": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.76"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.8"
             }
         ],
         "2007": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.43"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.03"
             }
         ],
         "2008": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.54"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.46"
             }
         ],
         "2009": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.1"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.6"
             }
         ],
         "2010": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.82"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.89"
             }
         ],
         "2011": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.55"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.71"
             }
         ],
         "2012": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.8"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.97"
             }
         ],
         "2013": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.26"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.05"
             }
         ],
         "2014": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "11.1"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "3.74"
             }
         ],
         "2015": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "12.49"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "4.79"
             }
         ],
         "2016": [
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "law": "ccrenewbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "NR"
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit renewal requires a new background check",
-                "law": "ccrenewbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ]
     }

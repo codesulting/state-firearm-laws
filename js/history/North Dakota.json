@@ -1,1579 +1,1917 @@
 {
-    "history": {
+    "data": {
         "1991": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.8"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "NR"
             }
         ],
         "1992": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.13"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "NR"
             }
         ],
         "1993": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.92"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.69"
             }
         ],
         "1994": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.52"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "1995": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.57"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "1996": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.98"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "1997": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.52"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "1998": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.89"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "1999": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.85"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2000": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.3"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2001": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.6"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2002": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.31"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2003": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.16"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.78"
             }
         ],
         "2004": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.02"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2005": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.17"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2006": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.95"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2007": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.11"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2008": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.88"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2009": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.4"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2010": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.39"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2011": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "law": "alctreatment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.29"
             },
             {
-                "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
-                "law": "alctreatment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2012": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "law": "alctreatment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.05"
             },
             {
-                "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
-                "law": "alctreatment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2013": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "law": "alctreatment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.02"
             },
             {
-                "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
-                "law": "alctreatment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2014": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "law": "alctreatment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.72"
             },
             {
-                "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
-                "law": "alctreatment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2015": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "law": "alctreatment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.24"
             },
             {
-                "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
-                "law": "alctreatment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.69"
             }
         ],
         "2016": [
             {
-                "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                "law": "felony",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "law": "felony",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "law": "invcommitment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "law": "danger",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "law": "alctreatment",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "law": "showing",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "law": "stalking",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                "law": "invcommitment",
-                "link": "",
-                "status": "Current"
+                "num_laws": 11
             },
             {
-                "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-                "law": "danger",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "NR"
             },
             {
-                "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
-                "law": "alctreatment",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
-                "law": "showing",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "A stalking conviction is prohibitive for firearm possession",
-                "law": "stalking",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ]
     }

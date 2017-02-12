@@ -1,1315 +1,1653 @@
 {
-    "history": {
+    "data": {
         "1991": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.98"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "NR"
             }
         ],
         "1992": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.33"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "1.04"
             }
         ],
         "1993": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.89"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "0.84"
             }
         ],
         "1994": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.75"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "1.63"
             }
         ],
         "1995": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.37"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "0.86"
             }
         ],
         "1996": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.31"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "1.06"
             }
         ],
         "1997": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.3"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "0.85"
             }
         ],
         "1998": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.3"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "0.89"
             }
         ],
         "1999": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.87"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.24"
             }
         ],
         "2000": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.41"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "0.89"
             }
         ],
         "2001": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.31"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2002": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.92"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2003": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.15"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2004": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.04"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "0.86"
             }
         ],
         "2005": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.07"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ],
         "2006": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "5.9"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.17"
             }
         ],
         "2007": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.25"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.18"
             }
         ],
         "2008": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.96"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "0.96"
             }
         ],
         "2009": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.47"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.05"
             }
         ],
         "2010": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "6.47"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.06"
             }
         ],
         "2011": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.64"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.22"
             }
         ],
         "2012": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.56"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.2"
             }
         ],
         "2013": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.4"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "0.83"
             }
         ],
         "2014": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.98"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "0.96"
             }
         ],
         "2015": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.64"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "1.14"
             }
         ],
         "2016": [
             {
-                "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                "law": "violentpartial",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "law": "violentpartial",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
+                        "law": "recordsdealer",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Record keeping and retention required for licensed dealers for handgun sales",
+                        "law": "recordsdealerh",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for all firearm sales",
-                "law": "recordsdealer",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "Record keeping and retention required for licensed dealers for handgun sales",
-                "law": "recordsdealerh",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "NR"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ]
     }

@@ -1,1285 +1,1623 @@
 {
-    "history": {
+    "data": {
         "1991": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "10.52"
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "13.49"
             }
         ],
         "1992": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
+                "num_laws": 6
             },
             {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.95"
             },
             {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "13.27"
             }
         ],
         "1993": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.7"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "16.15"
             }
         ],
         "1994": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.89"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "16.19"
             }
         ],
         "1995": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "law": "mayissue",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.74"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "\"May issue\" state",
-                "law": "mayissue",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "13.27"
             }
         ],
         "1996": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.04"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "13.43"
             }
         ],
         "1997": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.93"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "11.67"
             }
         ],
         "1998": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "law": "immunity",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 9
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.97"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
-            },
-            {
-                "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                "law": "immunity",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "9.66"
             }
         ],
         "1999": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.95"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "7.52"
             }
         ],
         "2000": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.44"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "9.32"
             }
         ],
         "2001": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.01"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "8.79"
             }
         ],
         "2002": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.82"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "10.17"
             }
         ],
         "2003": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.02"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "10.33"
             }
         ],
         "2004": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.26"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "10.16"
             }
         ],
         "2005": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "law": "nosyg",
+                        "link": "",
+                        "status": "Repealed"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 8
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.57"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "No stand your ground law",
-                "law": "nosyg",
-                "link": "",
-                "status": "Repealed"
+                "homicide_rate": "9.65"
             }
         ],
         "2006": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.69"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "10.01"
             }
         ],
         "2007": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.6"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "11.12"
             }
         ],
         "2008": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.81"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "9.6"
             }
         ],
         "2009": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "7.2"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "10.06"
             }
         ],
         "2010": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.52"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "9.58"
             }
         ],
         "2011": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.16"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "9.38"
             }
         ],
         "2012": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.15"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "9.35"
             }
         ],
         "2013": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 7
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "8.64"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "9.73"
             }
         ],
         "2014": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
+                        "law": "dvrodating",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.18"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
-                "law": "dvrodating",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "9.13"
             }
         ],
         "2015": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
+                        "law": "dvrodating",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "9.77"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
-                "law": "dvrodating",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "9.96"
             }
         ],
         "2016": [
             {
-                "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
-                "law": "age18longgunsale",
-                "link": "",
-                "status": "Current"
+                "history": [
+                    {
+                        "definition": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
+                        "law": "age18longgunsale",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "law": "college",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "law": "collegeconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "law": "elementary",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "law": "permitconcealed",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "law": "ccbackground",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "law": "ccrevoke",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "law": "mcdv",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "law": "dvro",
+                        "link": "",
+                        "status": "Current"
+                    },
+                    {
+                        "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
+                        "law": "dvrodating",
+                        "link": "",
+                        "status": "Current"
+                    }
+                ]
             },
             {
-                "definition": "No gun carrying allowed on college campuses",
-                "law": "college",
-                "link": "",
-                "status": "Current"
+                "num_laws": 10
             },
             {
-                "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                "law": "collegeconcealed",
-                "link": "",
-                "status": "Current"
+                "suicide_rate": "NR"
             },
             {
-                "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                "law": "elementary",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Permit required to carry concealed weapons",
-                "law": "permitconcealed",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Concealed carry permit process requires a background check",
-                "law": "ccbackground",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                "law": "ccrevoke",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                "law": "mcdv",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
-                "law": "dvro",
-                "link": "",
-                "status": "Current"
-            },
-            {
-                "definition": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
-                "law": "dvrodating",
-                "link": "",
-                "status": "Current"
+                "homicide_rate": "NR"
             }
         ]
     }
