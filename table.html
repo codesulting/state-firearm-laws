@@ -25,30 +25,47 @@
     <h2> State Laws By Year</h2>
   </div>
   <div class="row">
-    <!-- State, year, category, subcategory, provision -->
 
     <div class="col-xs-4">
-      <!-- include category filters here -->
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Filters</h3>
+
+      <!-- download options -->
+      <div class="row">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><span class="glyphicon glyphicon-download-alt"></span> Download Table</h3>
+          </div>
+          <div class="panel-body">
+            <button type="button" class="btn btn-default" aria-label="Download As CSV">CSV</button>
+            <button type="button" class="btn btn-default" aria-label="Download As TXT">TXT</button>
+            <button type="button" class="btn btn-default" aria-label="Download As XLS">XLS</button>
+          </div>
         </div>
-        <div class="panel-body">
-          <h5>State</h5>
-          <select class="selectpicker" multiple title="State">
-            <option>California</option>
-            <option>Kentucky</option>
-            <option>Wyoming</option>
-          </select>
-          <h5>Year</h5>
-          <select class="selectpicker" multiple title="Year">
-            <option>2012</option>
-            <option>2013</option>
-            <option>2014</option>
-          </select>
+      </div>
+
+      <div class="row">
+        <!-- filter optionsState, year, category, subcategory, provision -->
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"> <span class="glyphicon glyphicon-filter"></span> Filters</h3>
+          </div>
+          <div class="panel-body">
+            <h5>State</h5>
+            <select class="selectpicker" multiple title="State">
+              <option>California</option>
+              <option>Kentucky</option>
+              <option>Wyoming</option>
+            </select>
+            <h5>Year</h5>
+            <select class="selectpicker" multiple title="Year">
+              <option>2012</option>
+              <option>2013</option>
+              <option>2014</option>
+            </select>
+          </div>
         </div>
       </div>
     </div>
+
     <div class="col-xs-8">
       <!-- include table here -->
       <table class='table table-responsive table-hover'>

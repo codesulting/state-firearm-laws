@@ -19,7 +19,7 @@ def glossary_conversion(csvreader):
 
     exported = {"rows": rows_arr, "categories": list(categories), "subcategories": list(subcategories)}
 
-    with open("out.json", "w") as outfile:
+    with open("glossary.json", "w") as outfile:
         json.dump(exported, outfile, sort_keys=True, indent=4)
 
 
@@ -61,6 +61,7 @@ def history_conversion(csvreader):
 
 
 # converts csv with homicide, suicide rates
+# rates_conversion must be run after history conversion
 def rates_conversion(csvreader):
     # get list of files
     cwd = os.getcwd()
@@ -78,14 +79,15 @@ def rates_conversion(csvreader):
         if row["state"] not in rates_states_dict:
             rates_states_dict[row["state"]] = dict()
         # gather relevant info from row
-        rates_states_dict[row["state"]][row["year"]] = [{"suicide_rate": row["suicide"]}, {"homicide_rate": row["homicide"]}]
+        rates_states_dict[row["state"]][row["year"]] = [{"suicide_rate": row["suicide"]},
+                                                        {"homicide_rate": row["homicide"]}]
 
         # then merge with json files
     for state_file in json_files:
         with open(os.path.join(cwd, "js/history", state_file), 'r') as current_state_dict:
             current_state_dict = json.load(current_state_dict)
-            state = state_file[:-5] # name of state
-            years = list(rates_states_dict[state].keys())   # valid year entries for given state
+            state = state_file[:-5]  # name of state
+            years = list(rates_states_dict[state].keys())  # valid year entries for given state
             for y in years:
                 # merge entries by year for a given state
                 current_state_dict["data"][y] = current_state_dict["data"][y] + rates_states_dict[state][y]
@@ -95,15 +97,30 @@ def rates_conversion(csvreader):
                 json.dump(current_state_dict, updated_state_file, sort_keys=True, indent=4)
 
 
+# converts raw data table (csv format) to json
+def raw_data_conversion(csvreader):
+    exported = dict()
+    exported["columns"] = list(csvreader.fieldnames)
+    exported["rows"] = []
+    for row in csvreader:
+        exported["rows"].append({i: row[i] for i in exported["columns"]})
 
-# with open(sys.argv[1], 'r') as csvfile:
-#  csvreader = csv.DictReader(csvfile)
-#  glossary_conversion(csvreader)
+    with open("raw-data.json", "w") as outfile:
+        json.dump(exported, outfile, sort_keys=True, indent=4)
 
-# with open(sys.argv[2], 'r') as csvfile2:
-#  csvreader = csv.DictReader(csvfile2)
-#  history_conversion(csvreader)
+
+with open(sys.argv[1], 'r') as csvfile:
+    csvreader = csv.DictReader(csvfile)
+    glossary_conversion(csvreader)
+
+with open(sys.argv[2], 'r') as csvfile2:
+    csvreader = csv.DictReader(csvfile2)
+    history_conversion(csvreader)
 
 with open(sys.argv[3], 'r') as csvfile3:
     csvreader = csv.DictReader(csvfile3)
     rates_conversion(csvreader)
+
+with open(sys.argv[4], 'r') as csvfile4:
+    csvreader = csv.DictReader(csvfile4)
+    raw_data_conversion(csvreader)
