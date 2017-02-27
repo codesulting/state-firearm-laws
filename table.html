@@ -14,6 +14,9 @@
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
 
+  <!-- DataTables -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css"
+
   <link rel="stylesheet" href="css/general.css">
   <link rel="stylesheet" href="css/table.css">
 </head>
@@ -43,47 +46,39 @@
       </div>
 
       <div class="row">
-        <!-- filter optionsState, year, category, subcategory, provision -->
+        <!-- filter options State, year, category, subcategory, provision -->
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title"> <span class="glyphicon glyphicon-filter"></span> Filters</h3>
           </div>
           <div class="panel-body">
             <h5>State</h5>
-            <select class="selectpicker" multiple title="State">
-              <option>California</option>
-              <option>Kentucky</option>
-              <option>Wyoming</option>
-            </select>
+            <div id="state_menu_placeholder">
+            </div>
+
             <h5>Year</h5>
-            <select class="selectpicker" multiple title="Year">
-              <option>2012</option>
-              <option>2013</option>
-              <option>2014</option>
-            </select>
+            <div id="year_menu_placeholder">
+            </div>
+
+            <h5>Category</h5>
+            <div id="category_menu_placeholder">
+            </div>
+
+            <h5>Subcategory</h5>
+            <div id="subcategory_menu_placeholder">
+            </div>
+
+            <h5>Provision</h5>
+            <div id="provision_menu_placeholder">
+            </div>
+
           </div>
         </div>
       </div>
     </div>
 
-    <div class="col-xs-8">
+    <div class="col-xs-8" id="raw_data_table_placeholder">
       <!-- include table here -->
-      <table class='table table-responsive table-hover'>
-        <thead>
-        <tr>
-          <th> State</th>
-          <th> Year</th>
-          <th> age18longgunpossess</th>
-        </tr>
-        </thead>
-        <tbody class='list'>
-        <tr>
-          <td>Alabama</td>
-          <td> 1991</td>
-          <td> 0</td>
-        </tr>
-        </tbody>
-      </table>
     </div>
   </div>
 </div>
@@ -103,6 +98,10 @@
 
 <!-- list js -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.4.0/list.min.js"></script>
+
+<!-- DataTables js-->
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.13/js/dataTables.bootstrap.min.js"></script>
 
 <script src="js/table.js"></script>
 
