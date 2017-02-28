@@ -24,13 +24,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     provisions[i] = provisionsObj[i]["variable"];
   }
 
-  generateInitialTable(rawDataColumns, rawDataRows);
   generateInitialMenu(states, "State", "state_menu");
   generateInitialMenu(years, "Year", "year_menu");
   generateInitialMenu(categories, "Category", "category_menu");
   generateInitialMenu(subcategories, "Subcategory", "subcategory_menu");
   generateInitialMenu(provisions, "Provision", "provision_menu");
-
+  generateInitialTable(rawDataColumns, rawDataRows);
 
 });
 
@@ -72,7 +71,7 @@ function generateInitialTable(columns, rows) {
 
 function generateInitialMenu(listItems, titleName, idName) {
   // create dropdown menu
-  var content = "<select class='selectpicker' multiple title=titleName id=idName>";
+  var content = "<select class='selectpicker' multiple data-width='75%' title=" + titleName + " id=" + idName + ">";
 
   for (var i = 0; i < listItems.length; i++) {
     content += "<option>" + listItems[i] + "</option>";
