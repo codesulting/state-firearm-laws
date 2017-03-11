@@ -16,7 +16,6 @@
 
   <!-- DataTables -->
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css">
-
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.2.4/css/buttons.dataTables.min.css">
 
   <link rel="stylesheet" href="css/general.css">
@@ -34,17 +33,21 @@
     <div class="col-xs-4">
 
       <!-- download options -->
-      <div class="row" id="download_container">
-      </div>
       <div class="row">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title"><span class="glyphicon glyphicon-download-alt"></span> Download Table</h3>
           </div>
           <div class="panel-body">
-            <button type="button" class="btn btn-default" id="csv-button" aria-label="Download As CSV">CSV</button>
-            <button type="button" class="btn btn-default" id="txt-button" aria-label="Download As TXT">TXT</button>
-            <button type="button" class="btn btn-default" id="xls-button" aria-label="Download As XLS">XLS</button>
+            <button type="button" class="btn btn-default btn-lg" id="csv_button" aria-label="Download As CSV"><span
+              class="glyphicon glyphicon-save-file"></span> CSV
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="txt_button" aria-label="Download As TXT"><span
+              class="glyphicon glyphicon-save-file"></span>TXT
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="xls_button" aria-label="Download As XLS"><span
+              class="glyphicon glyphicon-save-file"></span>XLS
+            </button>
           </div>
         </div>
       </div>
@@ -53,7 +56,7 @@
         <!-- filter options State, year, category, subcategory, provision -->
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title"> <span class="glyphicon glyphicon-filter"></span> Filters</h3>
+            <h3 class="panel-title"><span class="glyphicon glyphicon-filter"></span> Filters</h3>
           </div>
           <div class="panel-body">
             <h5>State</h5>
@@ -75,13 +78,14 @@
             <h5>Provision</h5>
             <div class="dropdown" id="provision_menu_placeholder">
             </div>
+
+            <br>
+
+            <div>
+              <button type="button" class="btn btn-default btn-block" id="update_button">Update Table</button>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="row">
-
-
-
       </div>
     </div>
 
@@ -114,7 +118,14 @@
 
 <!-- DataTables Buttons Extension -->
 <script src="https://cdn.datatables.net/buttons/1.2.4/js/dataTables.buttons.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js"></script>
+<script src="//cdn.rawgit.com/bpampuch/pdfmake/0.1.24/build/pdfmake.min.js"></script>
+<script src="//cdn.rawgit.com/bpampuch/pdfmake/0.1.24/build/vfs_fonts.js"></script>
+<script src="//cdn.datatables.net/buttons/1.2.4/js/buttons.html5.min.js"></script>
 
+
+<!-- xlsx js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.9.0/xlsx.core.min.js"></script>
 
 <!-- FileSaver js -->
 <script src="js/FileSaver.min.js"></script>

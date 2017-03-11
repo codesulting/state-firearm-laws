@@ -61,6 +61,13 @@ function generateInitialTable(columns, rows) {
 
   tableContent += "</tbody></table>";
 
+
+  // generate column names for DataTable
+  colNamesDT = []
+  for (var i = 0; i < columns.length; i++) {
+    colNamesDT.push({"name": columns[i]});
+  }
+
 //js-generated table is appended to div
   $('#raw_data_table_placeholder').append(tableContent);
   var rawTable = $('#raw_table').DataTable({
@@ -68,17 +75,86 @@ function generateInitialTable(columns, rows) {
     'paging': false, // true,
     'scrollX': true,
     'scrollY': true,
-    'order': [[0, 'asc']]
+    'order': [[0, 'asc']],
+    'columns': colNamesDT
   });
 
+  // event for updating table
+
+  $('#update_button').click(function () {
+    // collect values from dropdowns for states and years
+    var statesSelected = $('#state_menu').val();
+    // create regex and search datatable
+
+    var stateSearchSeq = "";
+    if (statesSelected !== null) {
+      for (var i = 0; i < statesSelected.length; i++) {
+        stateSearchSeq += statesSelected[i];
+        if (i < statesSelected.length - 1) {
+          stateSearchSeq += "\|";
+        }
+      }
+    } else {
+      stateSearchSeq = ".";
+    }
+
+    console.log(stateSearchSeq);
+
+    var yearsSelected = $('#year_menu').val();
+    var yearsSearchSeq = "";
+
+
+    // update provisions based on dropdown selection
+
+    // uses DataTable column selection and visibility
+
+    var provisionsSelected = $('#provision_menu').val();
+
+    if (provisionsSelected !== null) {
+      for (var i = 0; i < columns.length; i++) {
+        rawTable.column(i).visible(false, false);
+      }
+
+      rawTable.column("state:name").visible(true, false);
+      rawTable.column("year:name").visible(true, false);
+      // update columns based on provision/category/subcategory selected
+      for (var i = 0; i < provisionsSelected.length; i++) {
+        rawTable.column(provisionsSelected[i] + ':name').visible(true, false);
+      }
+    }
+
+    // categories chosen
+    var categoriesSelected = $('#category_menu').val();
+
+    // subcategories chosen
+    var subcategoriesSelected = $('#category_menu').val();
+
+    // redraw columns afterwards
+
+    // rawTable.column("state:name").search(stateSearchSeq, true, false);
+    // rawTable.columns.adjust().draw();
+    rawTable.columns.adjust().draw(false);
+
+
+    // draw
+  });
 }
 
-//$('#csv-button').click(downloadCSV());
 
-$('#txt-button').click(function () {
+// events for download buttons
+
+//$('#csv_button').click(function() {
+//   var csvData = arrToCSV(getTableData());
+//   saveAs(new Blob([csvData], {type: "text/plain;charset=utf-8"}), "raw_data.csv");
+// );
+
+$('#txt_button').click(function () {
   var txtData = arrToTXT(getTableData());
   saveAs(new Blob([txtData], {type: "text/plain;charset=utf-8"}), "data.txt");
 });
+
+
+///// helper functions
 
 
 // generates dropdown menus for state, year, etc. using dropdown-select
@@ -96,23 +172,17 @@ function generateInitialMenu(listItems, titleName, idName) {
   $("#" + idName).selectpicker('refresh');
 }
 
-// // modified from the amicus-net project
-//
-// function downloadCSV() {
-//   var csvData = arrToCSV(getTableData());
-//   saveAs(new Blob(csvData, "raw_data.csv", {type: "text/plain;charset=utf-8"}));
-// }
+// concatenates array in csv friendly format
+function arrToCSV(arr) {
+  var textArray = [];
+  arr.forEach(function (row, index) {
+    var line = row.join(",");
+    textArray.push(line);
+  });
+  return textArray.join("\r\n");
+}
 
-// function arrToCSV(arr) {
-//   var textArray = [];
-//   arr.forEach(function (row, index) {
-//     var line = row.join(",");
-//     textArray.push(line);
-//   });
-//   return textArray.join("\n");
-// }
-
-// concatenates array
+// concatenates array in txt friendly format
 function arrToTXT(arr) {
   var textArray = [];
   arr.forEach(function (row, index) {
@@ -127,7 +197,7 @@ function getTableData() {
   var data = [];
   var headers = [];
   // include table headers
-  $("thead").find("th").each(function(index, value) {
+  $("thead").find("th").each(function (index, value) {
     headers.push(value.innerText);
   });
 
