@@ -50,9 +50,9 @@ import sys, os
 def glossary_conversion(csvreader):
     cwd = os.getcwd()
     rows_arr = []
-    rows_arr2 = []
     categories = set()
     subcategories = set()
+    prov_list = []
     exported_headers = ["code", "category", "subcategory", "description", "variable"]
 
     for row in csvreader:
@@ -60,24 +60,56 @@ def glossary_conversion(csvreader):
         entry2 = dict()
         entry2["category"] = row["category"]
         entry2["variable"] = row["variable"]
+        prov_list += [row["variable"]]
         entry2["subcategory"] = row["subcategory"]
         # each row in table as a dictionary
         rows_arr.append(entry)
-        rows_arr2.append(entry2)
 
         categories.add(row["category"])
         subcategories.add(row["subcategory"])
 
     exported = {"rows": rows_arr, "categories": list(categories), "subcategories": list(subcategories)}
 
+    # create mappings of categories -> provisions, subcategories -> provisions, and vice versa
+    # to be used in filters
+
+    cat_map = dict() # maps cat to prov and subcat
+    subcat_map = dict() # maps subcat to prov and cat
+    prov_map = dict() # maps prov to subcat and cat
+
+    for row in rows_arr:
+        subcat = row["subcategory"]
+        cat = row["category"]
+        prov = row["variable"]
+        prov_map[prov] = {"subcategory": subcat, "category": cat}
+        if cat not in cat_map:
+            cat_map[cat] = {"subcategories": {subcat}, "provisions": {prov}}
+        else:
+            cat_map[cat]["subcategories"] = cat_map[cat]["subcategories"] | {subcat}
+            cat_map[cat]["provisions"] = cat_map[cat]["provisions"] | {prov}
+        if subcat not in subcat_map:
+            subcat_map[subcat] = {"categories": {cat}, "provisions": {prov}}
+        else:
+            subcat_map[subcat]["categories"] = subcat_map[subcat]["categories"] | {cat}
+            subcat_map[subcat]["provisions"] = subcat_map[subcat]["provisions"] | {prov}
+
+    cat_map = convert_map(cat_map, ["subcategories", "provisions"])
+    subcat_map = convert_map(subcat_map, ["categories", "provisions"])
+
     # export glossary file
     with open(os.path.join("js", "glossary.json"), "w") as outfile:
         json.dump(exported, outfile, sort_keys=True, indent=4)
     # add to raw-data-table file
     with open(os.path.join(cwd, "js", "raw-data.json"),'w') as outfile2:
-        exported = {"provisions": rows_arr2, "categories": list(categories), "subcategories": list(subcategories)}
+        exported = {"provisions": prov_list, "maps": {"categorymap": cat_map, "subcategorymap": subcat_map, "provmap": prov_map}, "categories": list(categories), "subcategories": list(subcategories)}
         json.dump(exported, outfile2, sort_keys=True, indent=4)
 
+
+def convert_map(map, labels):
+    for entry in map:
+        for label in labels:
+            map[entry][label] = list(map[entry][label])
+    return map
 
 
 # for converting current/repealed list to a state-based json file
@@ -164,8 +196,10 @@ def raw_data_conversion(csvreader):
     for row in csvreader:
         exported["rows"].append({i: row[i] for i in exported["columns"]})
 
-    cwd = os.getcwd()
+    year_range = {r["year"] for r in exported["rows"]}
+    exported["yearbounds"] = [min(year_range), max(year_range)]
 
+    cwd = os.getcwd()
 
     # add existing raw_data info
     with open(os.path.join(cwd, "js", "raw-data.json"), "r") as inputfile:
@@ -181,7 +215,6 @@ def raw_data_conversion(csvreader):
         # update json file
         with open( os.path.join("js", "raw-data.json"), "w") as outfile:
             json.dump(raw_data_export, outfile, sort_keys=True, indent=4)
-
 
 
 with open(sys.argv[1], 'r') as csvfile:
