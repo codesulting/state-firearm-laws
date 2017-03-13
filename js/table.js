@@ -25,12 +25,30 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     provisions[i] = provisionsObj[i]["variable"];
   }
 
+  // set up menus and table
   generateInitialMenu(states, "State", "state_menu");
   generateInitialMenu(years, "Year", "year_menu");
   generateInitialMenu(categories, "Category", "category_menu");
   generateInitialMenu(subcategories, "Subcategory", "subcategory_menu");
   generateInitialMenu(provisions, "Provision", "provision_menu");
   generateInitialTable(rawDataColumns, rawDataRows);
+
+  // generate buttons for downloading complete dataset (ie complete table)
+  $('#csv_complete_button').click(function () {
+    var data = generateArray(rawDataColumns, rawDataRows);
+    CSVOutput(data);
+  });
+
+  $('#txt_complete_button').click(function () {
+    var data = generateArray(rawDataColumns, rawDataRows);
+    TXTOutput(data);
+  })
+
+  $('#xls_complete_button').click(function () {
+    var data = generateArray(rawDataColumns, rawDataRows);
+    XLSOutput(data);
+  })
+
 
 });
 
@@ -143,30 +161,20 @@ function generateInitialTable(columns, rows) {
 
 // events for download buttons
 
-$('#csv_button').click(function() {
-  var csvData = arrToCSV(getTableData());
-  saveAs(new Blob([csvData], {type: "data:text/csv;charset=utf-8"}), "raw_data.csv");
+$('#csv_button').click(function () {
+  CSVOutput(getTableData());
 });
 
 $('#txt_button').click(function () {
-  var txtData = arrToTXT(getTableData());
-  saveAs(new Blob([txtData], {type: "text/plain;charset=utf-8"}), "data.txt");
+  TXTOutput(getTableData());
 });
 
 $('#xls_button').click(function () {
-  var ws = sheet_from_array_of_arrays(getTableData());
-  var wb = new Workbook();
-  var ws_name = "data"
-  wb.SheetNames.push(ws_name);
-  wb.Sheets[ws_name] = ws;
-  var wbout = XLSX.write(wb, {bookType: 'biff2', bookSST: false, type: 'binary'});
-  var fname = "data.xls";
-  saveAs(new Blob([s2ab(wbout)], {type: "application/octet-stream"}), fname);
+  XLSOutput(getTableData());
 });
 
 
 ///// helper functions
-
 
 // generates dropdown menus for state, year, etc. using dropdown-select
 function generateInitialMenu(listItems, titleName, idName) {
@@ -181,6 +189,30 @@ function generateInitialMenu(listItems, titleName, idName) {
 
   $("#" + idName + "_placeholder").append(content);
   $("#" + idName).selectpicker('refresh');
+}
+
+// uses Filesaver to write out csv
+function CSVOutput(data) {
+  var csvData = arrToCSV(data);
+  saveAs(new Blob([csvData], {type: "data:text/csv;charset=utf-8"}), "raw_data.csv");
+}
+
+// uses Filesaver to write out txt
+function TXTOutput(data) {
+  var txtData = arrToTXT(data);
+  saveAs(new Blob([txtData], {type: "text/plain;charset=utf-8"}), "data.txt");
+}
+
+// uses XLSX-js and FileSaver to write out xls
+function XLSOutput(data) {
+  var ws = sheet_from_array_of_arrays(data);
+  var wb = new Workbook();
+  var ws_name = "data"
+  wb.SheetNames.push(ws_name);
+  wb.Sheets[ws_name] = ws;
+  var wbout = XLSX.write(wb, {bookType: 'biff2', bookSST: false, type: 'binary'});
+  var fname = "data.xls";
+  saveAs(new Blob([s2ab(wbout)], {type: "application/octet-stream"}), fname);
 }
 
 // concatenates array in csv friendly format
@@ -203,12 +235,12 @@ function arrToTXT(arr) {
   return textArray.join("\r\n");
 }
 
-// convert <table> to array
+// convert html <table> to array
 function getTableData() {
   var data = [];
   var headers = [];
   // include table headers
-  $("#raw_table").find("th").each(function(index, value){
+  $("#raw_table").find("th").each(function (index, value) {
     headers.push(value.innerText);
   });
 
@@ -223,6 +255,7 @@ function getTableData() {
   return data
 }
 
+// helper function to convert html <table> rows to array
 // from the amicus-net project
 function getRowData(data) {
   //This function takes in the data object array containing data: <td><data><td>
@@ -233,7 +266,22 @@ function getRowData(data) {
   return finalList;
 }
 
+// helper function to generate array based on rows/columns json input of complete dataset
+function generateArray(columns, rows) {
+  var arr = [];
+  for (var i = 0; i < rows.length; i++) {
+    var arrRow = [];
+    for (var j = 0; j < columns.length; j++) {
+      arrRow.push(rows[i][columns[j]]);
+    }
+    arr.push(arrRow);
+  }
+  return arr;
+}
 
+/* functions from xlsx-js package help to convert js arrays to compatible Workbook format
+ for output as csv/xls files
+ */
 // from xlsx-js package's demo
 
 function datenum(v/*:Date*/, date1904/*:?boolean*/)/*:number*/ {
