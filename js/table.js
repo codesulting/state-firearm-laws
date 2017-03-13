@@ -1,7 +1,3 @@
-// import glossary info for filter data
-
-// also import raw data
-
 var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var rawDataColumns = obj["columns"];
   var rawDataRows = obj["rows"];
@@ -42,119 +38,122 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#txt_complete_button').click(function () {
     var data = generateArray(rawDataColumns, rawDataRows);
     TXTOutput(data);
-  })
+  });
 
   $('#xls_complete_button').click(function () {
     var data = generateArray(rawDataColumns, rawDataRows);
     XLSOutput(data);
-  })
+  });
 
 
 });
 
-
-// generates DataTable on initial page load
 function generateInitialTable(columns, rows) {
   //Generate table header section
-  var tableContent = "";
+  var header = []
+
   //tableContent += "<table class='table table-bordered table-responsive table-hover' id='raw_table'><thead><tr>";
-  tableContent += "<table class='table table-bordered' id='raw_table'><thead><tr>";
+  header.push("<div class='clusterize-headers'><table class='table' id='headersArea'><thead><tr>");
 
   for (var i = 0; i < columns.length; i++) {
-    tableContent += "<th>" + columns[i] + "</th>";
+    header.push("<th>" + columns[i] + "</th>");
   }
-  tableContent += "</tr></thead><tbody class='list'>";
+  header.push("</tr></thead></table></div>");
 
+  $('#raw_data_table_placeholder').append(header.join(""));
+
+  var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered"> <tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
+  $('#raw_data_table_placeholder').append(loadingString);
+
+  var tableContent = [];
 
 //Generate all table rows
 
   for (var i = 0; i < rows.length; i++) {
     var rowData = rows[i];
-    tableContent += "<tr>";
+    var row = ""
+    row += "<tr>";
     for (var j = 0; j < columns.length; j++) {
-      tableContent += "<td>" + rowData[columns[j]] + "</td>";
+      row += "<td>" + rowData[columns[j]] + "</td>";
     }
-    tableContent += "</tr>";
+    row += "</tr>";
+    tableContent.push(row);
   }
 
-  tableContent += "</tbody></table>";
+
+  var $scroll = $('#scrollArea');
+  var $content = $('#contentArea');
+  var $headers = $("#headersArea");
 
 
-  // generate column names for DataTable
-  var colNamesDT = []
-  for (var i = 0; i < columns.length; i++) {
-    colNamesDT.push({"name": columns[i]});
+  /**
+   * Makes header columns equal width to content columns
+   */
+  var fitHeaderColumns = (function () {
+    var prevWidth = [];
+    return function () {
+      var $firstRow = $content.find('tr:not(.clusterize-extra-row):first');
+      var columnsWidth = [];
+      $firstRow.children().each(function () {
+        columnsWidth.push($(this).width());
+      });
+      if (columnsWidth.toString() == prevWidth.toString()) return;
+      $headers.find('tr').children().each(function (i) {
+        $(this).width(columnsWidth[i]);
+      });
+      prevWidth = columnsWidth;
+    }
+  })();
+
+  /**
+   * Keep header equal width to tbody
+   */
+  var setHeaderWidth = function () {
+    $headers.width($content.width());
   }
 
-//js-generated table is appended to div
-  $('#raw_data_table_placeholder').append(tableContent);
-  var rawTable = $('#raw_table').DataTable({
-    'searching': false,
-    'paging': false, // true,
-    'scrollX': true,
-    'scrollY': true,
-    'order': [[0, 'asc']],
-    'columns': colNamesDT
+  /**
+   * Set left offset to header to keep equal horizontal scroll position
+   */
+  var setHeaderLeftMargin = function (scrollLeft) {
+    $headers.css('margin-left', -scrollLeft);
+  }
+
+  /*
+   * Init clusterize.js
+   */
+  var clusterize = new Clusterize({
+    rows: tableContent,
+    scrollId: 'scrollArea',
+    contentId: 'contentArea'
   });
+
+
+  /**
+   * Update header columns width on window resize
+   */
+  $(window).resize(fitHeaderColumns);
+
+  /**
+   * Update header left offset on scroll
+   */
+  $scroll.on('scroll', (function () {
+    var prevScrollLeft = 0;
+    return function () {
+      var scrollLeft = $(this).scrollLeft();
+      if (scrollLeft == prevScrollLeft) return;
+      prevScrollLeft = scrollLeft;
+
+      setHeaderLeftMargin(scrollLeft);
+    }
+  }()));
+
+  return;
 
   // event for updating table
 
   $('#update_button').click(function () {
-    // collect values from dropdowns for states and years
-    var statesSelected = $('#state_menu').val();
-    // create regex and search datatable
-
-    var stateSearchSeq = "";
-    if (statesSelected !== null) {
-      for (var i = 0; i < statesSelected.length; i++) {
-        stateSearchSeq += statesSelected[i];
-        if (i < statesSelected.length - 1) {
-          stateSearchSeq += "|";
-        }
-      }
-    } else {
-      stateSearchSeq = ".";
-    }
-
-    console.log(stateSearchSeq);
-
-    var yearsSelected = $('#year_menu').val();
-    var yearsSearchSeq = "";
-
-
-    // update provisions based on dropdown selection
-
-    // uses DataTable column selection and visibility
-
-    var provisionsSelected = $('#provision_menu').val();
-
-    if (provisionsSelected !== null) {
-      for (var i = 0; i < columns.length; i++) {
-        rawTable.column(i).visible(false, false);
-      }
-
-      rawTable.column("state:name").visible(true, false);
-      rawTable.column("year:name").visible(true, false);
-      // update columns based on provision/category/subcategory selected
-      for (var i = 0; i < provisionsSelected.length; i++) {
-        rawTable.column(provisionsSelected[i] + ':name').visible(true, false);
-      }
-    }
-
-    // categories chosen
-    var categoriesSelected = $('#category_menu').val();
-
-    // subcategories chosen
-    var subcategoriesSelected = $('#category_menu').val();
-
-    // redraw columns afterwards
-
-    rawTable.column(0).search(stateSearchSeq, true, false, true).draw();
-    // rawTable.columns.adjust().draw();
-    // rawTable.columns.adjust().draw(false);
-
-
-    // draw
+    // not implemented
   });
 }
 
@@ -190,6 +189,7 @@ function generateInitialMenu(listItems, titleName, idName) {
   $("#" + idName + "_placeholder").append(content);
   $("#" + idName).selectpicker('refresh');
 }
+
 
 // uses Filesaver to write out csv
 function CSVOutput(data) {
@@ -240,13 +240,13 @@ function getTableData() {
   var data = [];
   var headers = [];
   // include table headers
-  $("#raw_table").find("th").each(function (index, value) {
+  $("#headersArea").find("th").each(function (index, value) {
     headers.push(value.innerText);
   });
 
   data.push(headers);
   // add rows
-  $("table.dataTable").find("tr").each(function (index) {
+  $("#contentArea").find("tr").each(function (index) {
     var rowData = getRowData($(this).find("td"));
     if (rowData.length > 0) {
       data.push(rowData);
@@ -269,6 +269,7 @@ function getRowData(data) {
 // helper function to generate array based on rows/columns json input of complete dataset
 function generateArray(columns, rows) {
   var arr = [];
+  arr.push(columns);
   for (var i = 0; i < rows.length; i++) {
     var arrRow = [];
     for (var j = 0; j < columns.length; j++) {
