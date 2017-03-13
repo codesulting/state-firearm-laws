@@ -208,15 +208,17 @@ function getTableData() {
   var data = [];
   var headers = [];
   // include table headers
-  $("thead").find("th").each(function (index, value) {
+  $("#raw_table").find("th").each(function(index, value){
     headers.push(value.innerText);
   });
 
   data.push(headers);
   // add rows
-  $("table").find("tr").each(function (index) {
+  $("table.dataTable").find("tr").each(function (index) {
     var rowData = getRowData($(this).find("td"));
-    data.push(rowData);
+    if (rowData.length > 0) {
+      data.push(rowData);
+    }
   });
   return data
 }
