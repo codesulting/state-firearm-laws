@@ -14,99 +14,100 @@
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
 
-  <!-- DataTables -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.2.4/css/buttons.dataTables.min.css">
+  <!-- Clusterize JS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.17.6/clusterize.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.17.6/clusterize.min.css.map">
 
-  <link rel="stylesheet" href="css/general.css">
+  <!-- <link rel="stylesheet" href="css/general.css">-->
   <link rel="stylesheet" href="css/table.css">
-</head>
 
+</head>
 <body>
 
 <div class="container">
+  <!-- <input type="text" id="search" placeholder="Type row number or percent"/>-->
+
+  <h2> State Laws By Year</h2>
+
   <div class="row">
-    <h2> State Laws By Year</h2>
-  </div>
-  <div class="row">
-
-    <div class="col-xs-4">
-
-      <!-- download options -->
-      <div class="row">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title"><span class="glyphicon glyphicon-download-alt"></span> Download Table</h3>
-          </div>
-          <div class="panel-body">
-            <p> Download selection as: </p>
-            <button type="button" class="btn btn-default btn-lg" id="csv_button" aria-label="Download As CSV"><span
-              class="glyphicon glyphicon-save-file"></span> CSV
-            </button>
-            <button type="button" class="btn btn-default btn-lg" id="txt_button" aria-label="Download As TXT"><span
-              class="glyphicon glyphicon-save-file"></span>TXT
-            </button>
-            <button type="button" class="btn btn-default btn-lg" id="xls_button" aria-label="Download As XLS"><span
-              class="glyphicon glyphicon-save-file"></span>XLS
-            </button>
-
-            <p> Download complete dataset as:</p>
-            <button type="button" class="btn btn-default btn-lg" id="csv_complete_button" aria-label="Download As CSV"><span
-              class="glyphicon glyphicon-save-file"></span> CSV
-            </button>
-            <button type="button" class="btn btn-default btn-lg" id="txt_complete_button" aria-label="Download As TXT"><span
-              class="glyphicon glyphicon-save-file"></span>TXT
-            </button>
-            <button type="button" class="btn btn-default btn-lg" id="xls_complete_button" aria-label="Download As XLS"><span
-              class="glyphicon glyphicon-save-file"></span>XLS
-            </button>
-          </div>
+    <div class="col-xs-6">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title"><span class="glyphicon glyphicon-download-alt"></span> Download Table</h3>
         </div>
-      </div>
+        <div class="panel-body">
+          <p> Download selection as: </p>
+          <button type="button" class="btn btn-default btn-lg" id="csv_button" aria-label="Download As CSV"><span
+            class="glyphicon glyphicon-save-file"></span> CSV
+          </button>
+          <button type="button" class="btn btn-default btn-lg" id="txt_button" aria-label="Download As TXT"><span
+            class="glyphicon glyphicon-save-file"></span>TXT
+          </button>
+          <button type="button" class="btn btn-default btn-lg" id="xls_button" aria-label="Download As XLS"><span
+            class="glyphicon glyphicon-save-file"></span>XLS
+          </button>
 
-      <div class="row">
-        <!-- filter options State, year, category, subcategory, provision -->
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title"><span class="glyphicon glyphicon-filter"></span> Filters</h3>
-          </div>
-          <div class="panel-body">
-            <h5>State</h5>
-            <div class="dropdown" id="state_menu_placeholder">
-            </div>
-
-            <h5>Year</h5>
-            <div class="dropdown" id="year_menu_placeholder">
-            </div>
-
-            <h5>Category</h5>
-            <div class="dropdown" id="category_menu_placeholder">
-            </div>
-
-            <h5>Subcategory</h5>
-            <div class="dropdown" id="subcategory_menu_placeholder">
-            </div>
-
-            <h5>Provision</h5>
-            <div class="dropdown" id="provision_menu_placeholder">
-            </div>
-
-            <br>
-
-            <div>
-              <button type="button" class="btn btn-default btn-block" id="update_button">Update Table</button>
-            </div>
-          </div>
+          <p> Download complete dataset as:</p>
+          <button type="button" class="btn btn-default btn-lg" id="csv_complete_button"
+                  aria-label="Download As CSV"><span
+            class="glyphicon glyphicon-save-file"></span> CSV
+          </button>
+          <button type="button" class="btn btn-default btn-lg" id="txt_complete_button"
+                  aria-label="Download As TXT"><span
+            class="glyphicon glyphicon-save-file"></span>TXT
+          </button>
+          <button type="button" class="btn btn-default btn-lg" id="xls_complete_button"
+                  aria-label="Download As XLS"><span
+            class="glyphicon glyphicon-save-file"></span>XLS
+          </button>
         </div>
       </div>
     </div>
 
+    <div class="col-xs-6">
+      <!-- filter options State, year, category, subcategory, provision -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title"><span class="glyphicon glyphicon-filter"></span> Filters</h3>
+        </div>
+        <div class="panel-body">
+          <h5>State</h5>
+          <div class="dropdown" id="state_menu_placeholder">
+          </div>
 
-    <div class="col-xs-8" id="raw_data_table_placeholder">
-      <!-- include table here -->
+          <h5>Year</h5>
+          <div class="dropdown" id="year_menu_placeholder">
+          </div>
+
+          <h5>Category</h5>
+          <div class="dropdown" id="category_menu_placeholder">
+          </div>
+
+          <h5>Subcategory</h5>
+          <div class="dropdown" id="subcategory_menu_placeholder">
+          </div>
+
+          <h5>Provision</h5>
+          <div class="dropdown" id="provision_menu_placeholder">
+          </div>
+
+          <br>
+
+          <div>
+            <button type="button" class="btn btn-default btn-block" id="update_button">Update Table</button>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
+
+  <div class="row">
+    <div class="clusterize" id="raw_data_table_placeholder">
+    </div>
+  </div>
+
 </div>
+
 
 <!-- Bootstrap  -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -124,18 +125,15 @@
 <!-- list js -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.4.0/list.min.js"></script>
 
-<!-- DataTables js-->
-<script type="text/javascript" src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/1.10.13/js/dataTables.bootstrap.min.js"></script>
+<!-- clusterize js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.17.6/clusterize.min.js"></script>
 
 <!-- xlsx js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.9.1/xlsx.core.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.9.0/xlsx.core.min.js"></script>
 
 <!-- FileSaver js -->
 <script src="js/FileSaver.min.js"></script>
-
 <script src="js/table.js"></script>
 
 </body>
 </html>
-
