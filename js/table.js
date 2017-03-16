@@ -110,6 +110,9 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     updateMenu(categories, "#category_menu");
     updateMenu(subcategories, "#subcategory_menu");
     updateMenu(provisions, "#provision_menu");
+    $("#state_menu").selectpicker('selectAll');
+    $("#year_menu").selectpicker('selectAll');
+
   });
 
 
@@ -139,7 +142,7 @@ function initializeTable(columns, rows) {
   var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered"> <tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
   $('#raw_data_table_placeholder').append(loadingString);
 
- var tableContent = filterRows(columns, rows);
+ var tableContent = createTableContent(columns, rows);
 
   var clusterize = new Clusterize({
     rows: tableContent,
@@ -163,7 +166,7 @@ function initializeTable(columns, rows) {
     var header = ["<thead><tr>"];
     var oldColumns = ["state", "year"];
     var newColumns =  oldColumns.concat(provisionsChosen);
-    newColumns = newColumns.concat(["intimatetotal", "lawtotal"])
+    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
     for (var i = 0; i < newColumns.length; i++) {
       header.push("<th>" + newColumns[i] + "</th>");
     }
@@ -172,8 +175,10 @@ function initializeTable(columns, rows) {
     $('#headersArea').empty();
     $('#headersArea').append(header);
 
+    // Remove rows based on states and year
+    var newRows = filterRows(rows, statesChosen, yearsChosen);
     // Remove columns based on provisions chosen
-    tableContent = filterRows(newColumns, rows);
+    tableContent = createTableContent(newColumns, newRows);
 
     clusterize = new Clusterize({
       rows: tableContent,
@@ -181,11 +186,23 @@ function initializeTable(columns, rows) {
       contentId: 'contentArea'
     });
 
-    // Remove rows based on states and year
+
 
   });
 }
-function filterRows(columns, rows) {
+
+function filterRows(rows, stateValues, yearValues) {
+  var newRows = [];
+  for (var i = 0; i < rows.length; i++) {
+    var rowData = rows[i];
+    if (stateValues.indexOf(rowData["state"]) !== -1 && yearValues.indexOf(rowData["year"]) !== -1) {
+      newRows.push(rowData);
+    }
+  }
+  return newRows;
+}
+
+function createTableContent(columns, rows) {
   var tableContent = [];
 
 //Generate all table rows
@@ -381,7 +398,7 @@ function TXTOutput(data) {
 
 // uses XLSX-js and FileSaver to write out xls
 function XLSOutput(data) {
-  var ws = sheet_from_array_of_arrays(data);
+  var ws = sheetFromArrayOfArrays(data);
   var wb = new Workbook();
   var ws_name = "data"
   wb.SheetNames.push(ws_name);
@@ -461,14 +478,14 @@ function generateArray(columns, rows) {
  */
 // from xlsx-js package's demo
 
-function datenum(v/*:Date*/, date1904/*:?boolean*/)/*:number*/ {
+function dateNum(v/*:Date*/, date1904/*:?boolean*/)/*:number*/ {
   var epoch = v.getTime();
   if (date1904) epoch += 1462 * 24 * 60 * 60 * 1000;
   return (epoch + 2209161600000) / (24 * 60 * 60 * 1000);
 }
 
 // from xlsx-js package's demo
-function sheet_from_array_of_arrays(data, opts) {
+function sheetFromArrayOfArrays(data, opts) {
   var ws = {};
   var range = {s: {c: 10000000, r: 10000000}, e: {c: 0, r: 0}};
   for (var R = 0; R != data.length; ++R) {
@@ -486,7 +503,7 @@ function sheet_from_array_of_arrays(data, opts) {
       else if (cell.v instanceof Date) {
         cell.t = 'n';
         cell.z = XLSX.SSF._table[14];
-        cell.v = datenum(cell.v);
+        cell.v = dateNum(cell.v);
       }
       else cell.t = 's';
 
