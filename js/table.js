@@ -30,7 +30,13 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   initializeMenu(categories, "Category", "category_menu");
   initializeMenu(subcategories, "Subcategory", "subcategory_menu");
   initializeMenu(provisions, "Provision", "provision_menu");
+
+  // will be changed based on updated button
+  var statesDisplayed = states;
+  var yearsDisplayed = years;
+  var provisionsDisplayed = provisions;
   initializeTable(rawDataColumns, rawDataRows);
+
 
   // generate buttons for downloading complete dataset (ie complete table)
   $('#csv_complete_button').click(function () {
@@ -49,43 +55,38 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   });
 
 
+  // generate buttons for downloading partial dataset
+  // events for download buttons
+
+  $('#csv_button').click(function () {
+    //CSVOutput();
+  });
+
+  $('#txt_button').click(function () {
+    //TXTOutput();
+  });
+
+  $('#xls_button').click(function () {
+    // XLSOutput();
+  });
+
+
   /*
    * 3 change events for the menus
    * Follows the behavior of Tableau-implemented version of the table
    * where any changes to the provision menu only change the subcategories menu;
    * any changes to the categories menu  changes both the provisions and subcategories
    * and any changes to the subcategories menu changes the provisions menu
-  * */
+   * */
   $('#provision_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
       // update subcategory menu on dropdown
 
-
       // prevents provision menu event from being triggered immediately by another menu event
-      if ($('#provision_menu').val().length === $('#provision_menu > option').length) {
-        return;
+      if ($('#provision_menu').val().length !== $('#provision_menu > option').length) {
+        triggerMenuChangesAlt(obj["maps"]["provmap"]);
       }
-      // get current list of provisions
-      var provisionsSelected = $('#provision_menu').val();
 
-      if (provisionsSelected !== null) {
-        var updatedSubcategories = [];
-
-        // collect all subcategories that are included with the provisions
-        // based on mappings from raw-data.json
-
-        for (var i = 0; i < provisionsSelected.length; i++) {
-          updatedSubcategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["subcategory"]);
-        }
-
-        // deduplicate list
-        updatedSubcategories = _.uniq(updatedSubcategories);
-
-        // then update menu
-        updateMenu(updatedSubcategories, "#subcategory_menu");
-      } else {
-        updateMenu([], "#subcategory_menu");
-      }
     });
 
   $('#category_menu').on('change',
@@ -104,6 +105,20 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
         triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
       }
     });
+
+  // event for updating table
+
+  $('#update_button').click(function () {
+    // based on state, year and provision, create updated table
+    statesDisplayed = $('#state_menu').val();
+    yearsDisplayed = $('#year_menu').val();
+    provisionsDisplayed = $('#provision_menu').val();
+    provisionsDisplayed.sort();
+
+    updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+
+
+  });
 
   // resets menus
   $('#reset_button').on('click', function () {
@@ -125,6 +140,24 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
 // sets up table using clusterize js, which helps optimize loading
 
+function createTableContent(columns, rows) {
+  var tableContent = [];
+
+//Generate all table rows
+
+  for (var i = 0; i < rows.length; i++) {
+    var rowData = rows[i];
+    var row = ""
+    row += "<tr>";
+    for (var j = 0; j < columns.length; j++) {
+      row += "<td>" + rowData[columns[j]] + "</td>";
+    }
+    row += "</tr>";
+    tableContent.push(row);
+  }
+  return tableContent;
+}
+
 function initializeTable(columns, rows) {
   //Generate table header section
   var header = []
@@ -142,7 +175,7 @@ function initializeTable(columns, rows) {
   var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered"> <tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
   $('#raw_data_table_placeholder').append(loadingString);
 
- var tableContent = createTableContent(columns, rows);
+  var tableContent = createTableContent(columns, rows);
 
   var clusterize = new Clusterize({
     rows: tableContent,
@@ -153,42 +186,6 @@ function initializeTable(columns, rows) {
   initializeHeaderScrolling();
 
 
-  // event for updating table
-
-  $('#update_button').click(function () {
-    // based on state, year and provision, create updated table
-    var statesChosen = $('#state_menu').val();
-    var yearsChosen = $('#year_menu').val();
-    var provisionsChosen = $('#provision_menu').val();
-    provisionsChosen.sort();
-
-    // update header area
-    var header = ["<thead><tr>"];
-    var oldColumns = ["state", "year"];
-    var newColumns =  oldColumns.concat(provisionsChosen);
-    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
-    for (var i = 0; i < newColumns.length; i++) {
-      header.push("<th>" + newColumns[i] + "</th>");
-    }
-    header.push("</tr></thead>");
-
-    $('#headersArea').empty();
-    $('#headersArea').append(header);
-
-    // Remove rows based on states and year
-    var newRows = filterRows(rows, statesChosen, yearsChosen);
-    // Remove columns based on provisions chosen
-    tableContent = createTableContent(newColumns, newRows);
-
-    clusterize = new Clusterize({
-      rows: tableContent,
-      scrollId: 'scrollArea',
-      contentId: 'contentArea'
-    });
-
-
-
-  });
 }
 
 function filterRows(rows, stateValues, yearValues) {
@@ -202,22 +199,30 @@ function filterRows(rows, stateValues, yearValues) {
   return newRows;
 }
 
-function createTableContent(columns, rows) {
-  var tableContent = [];
-
-//Generate all table rows
-
-  for (var i = 0; i < rows.length; i++) {
-    var rowData = rows[i];
-    var row = ""
-    row += "<tr>";
-    for (var j = 0; j < columns.length; j++) {
-      row += "<td>" + rowData[columns[j]] + "</td>";
-    }
-    row += "</tr>";
-    tableContent.push(row);
+function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
+  // update header area
+  var header = ["<thead><tr>"];
+  var oldColumns = ["state", "year"];
+  var newColumns = oldColumns.concat(provisionsChosen);
+  newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+  for (var i = 0; i < newColumns.length; i++) {
+    header.push("<th>" + newColumns[i] + "</th>");
   }
-  return tableContent;
+  header.push("</tr></thead>");
+
+  $('#headersArea').empty();
+  $('#headersArea').append(header);
+
+  // Remove rows based on states and year
+  var newRows = filterRows(rawDataRows, statesChosen, yearsChosen);
+  // Remove columns based on provisions chosen
+  var tableContent = createTableContent(newColumns, newRows);
+
+  var clusterize = new Clusterize({
+    rows: tableContent,
+    scrollId: 'scrollArea',
+    contentId: 'contentArea'
+  });
 }
 
 // from clusterize js, intended to synchronize table head and body scrolling
@@ -278,12 +283,7 @@ function initializeHeaderScrolling() {
       setHeaderLeftMargin(scrollLeft);
     }
   }()));
-
 }
-
-
-
-
 
 
 /*
@@ -345,6 +345,31 @@ function triggerMenusChanges(initialMenuID, otherMenus, map) {
 
 }
 
+// based on provisions selected, updates subcategory menu
+function triggerMenuChangesAlt(map) {
+  // get current list of provisions
+  var provisionsSelected = $('#provision_menu').val();
+
+  if (provisionsSelected !== null) {
+    var updatedSubcategories = [];
+
+    // collect all subcategories that are included with the provisions
+    // based on mappings from raw-data.json
+
+    for (var i = 0; i < provisionsSelected.length; i++) {
+      updatedSubcategories.push(map[provisionsSelected[i]]["subcategory"]);
+    }
+
+    // deduplicate list
+    updatedSubcategories = _.uniq(updatedSubcategories);
+
+    // then update menu
+    updateMenu(updatedSubcategories, "#subcategory_menu");
+  } else {
+    updateMenu([], "#subcategory_menu");
+  }
+}
+
 // function that updates a dropdown menu with new list of entries
 function updateMenu(updatedList, dropdownID) {
   updatedList.sort();
@@ -363,26 +388,10 @@ function updateMenu(updatedList, dropdownID) {
 }
 
 
-
 /*
  * download associated functions
  *
  */
-
-// events for download buttons
-
-$('#csv_button').click(function () {
-  CSVOutput(getTableData());
-});
-
-$('#txt_button').click(function () {
-  TXTOutput(getTableData());
-});
-
-$('#xls_button').click(function () {
-  XLSOutput(getTableData());
-});
-
 
 // uses Filesaver to write out csv
 function CSVOutput(data) {
@@ -428,36 +437,6 @@ function arrToTXT(arr) {
   return textArray.join("\r\n");
 }
 
-// convert html <table> to array
-function getTableData() {
-  var data = [];
-  var headers = [];
-  // include table headers
-  $("#headersArea").find("th").each(function (index, value) {
-    headers.push(value.innerText);
-  });
-
-  data.push(headers);
-  // add rows
-  $("#contentArea").find("tr").each(function (index) {
-    var rowData = getRowData($(this).find("td"));
-    if (rowData.length > 0) {
-      data.push(rowData);
-    }
-  });
-  return data
-}
-
-// helper function to convert html <table> rows to array
-// from the amicus-net project
-function getRowData(data) {
-  //This function takes in the data object array containing data: <td><data><td>
-  var finalList = [];
-  for (var c = 0; c < data.length; c++) {
-    finalList.push(data.eq(c).text());
-  }
-  return finalList;
-}
 
 // helper function to generate array based on rows/columns json input of complete dataset
 function generateArray(columns, rows) {
