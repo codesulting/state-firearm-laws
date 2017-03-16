@@ -49,46 +49,50 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   });
 
   // update category and subcategory menus on dropdown
-  $('#provision_menu').on('changed.bs.select',
+  $('#provision_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
 
-    // get current list of provisions
-    var provisionsSelected = $('#provision_menu').val();
-    console.log($('#provision_menu').val());
+      // get current list of provisions
+      var provisionsSelected = $('#provision_menu').val();
+      console.log($('#provision_menu').val());
 
-    if (provisionsSelected !== null) {
-      var updatedCategories = [];
-      var updatedSubcategories = [];
+      if (provisionsSelected !== null) {
+        var updatedCategories = [];
+        var updatedSubcategories = [];
 
-      // collect all categories and subcategories that are included with the provisions
+        // collect all categories and subcategories that are included with the provisions
+        // based on mappings from raw-data.json
 
-      for (var i = 0; i < provisionsSelected.length; i++) {
-        updatedCategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["category"]);
-        updatedSubcategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["subcategory"]);
+        for (var i = 0; i < provisionsSelected.length; i++) {
+          updatedCategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["category"]);
+          updatedSubcategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["subcategory"]);
+        }
+
+        // deduplicate lists
+        updatedCategories = _.uniq(updatedCategories);
+        updatedSubcategories = _.uniq(updatedSubcategories);
+
+        // then update menus
+        updateMenu(updatedCategories, "#category_menu");
+        updateMenu(updatedSubcategories, "#subcategory_menu");
+      } else {
+        updateMenu([], "#category_menu");
+        updateMenu([], "#subcategory_menu");
       }
+    });
 
-      // deduplicate lists
+  $('#category_menu').on('change',
+    function (event, clickedIndex, newValue, oldValue) {
+      // update subcategory and provision menus
+      triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
 
-      updatedCategories = _.uniq(updatedCategories);
-      updatedSubcategories = _.uniq(updatedSubcategories);
+    });
 
-      // then update menus
-
-      updateMenu(updatedCategories, "#category_menu");
-      updateMenu(updatedSubcategories, "#subcategory_menu");
-    } else {
-      updateMenu([], "#category_menu");
-      updateMenu([], "#subcategory_menu");
-    }
-  });
-
-  $('#category_menu').change(function () {
-    // update subcategory and provision menus
-  });
-
-  $('#subcategory_menu').change(function () {
-    // update provision and category menus
-  });
+  $('#subcategory_menu').on('change',
+    function (event, clickedIndex, newValue, oldValue) {
+      // update category and provision menus
+      triggerMenusChanges("#subcategory_menu", ["category", "provision", "categories", "provisions"], obj["maps"]["subcategorymap"]);
+    });
 
 
 });
@@ -242,14 +246,43 @@ function generateInitialMenu(listItems, titleName, idName) {
 
 }
 
+// function that changes other menus based on input to initial menu
+// uses a mapping provided in raw-data.json
 
+function triggerMenusChanges(initialMenuID, otherMenus, map) {
+  // selected values on the initial menu
+  var entriesSelected =  $(initialMenuID).val();
+  console.log($(initialMenuID).val());
+  if (entriesSelected !== null) {
+    var updatedMenuOne = [];
+    var updatedMenuTwo = [];
 
-// function that updates category/subcategory dropdown
+    // collect relevant values for other menus
+    // (e.g. given an initial category menu,
+    // collect relevant provisions and subcategories)
+    // based on mappings from raw-data.json
+
+    for (var i = 0; i < entriesSelected.length; i++) {
+      updatedMenuOne = _.union(updatedMenuOne, map[entriesSelected[i]][otherMenus[2]]);
+      updatedMenuTwo = _.union(updatedMenuTwo, map[entriesSelected[i]][otherMenus[3]]);
+    }
+
+    // then update menus
+    updateMenu(updatedMenuOne, "#" + otherMenus[0] +"_menu");
+    updateMenu(updatedMenuTwo, "#" + otherMenus[1] +"_menu");
+
+  } else {
+  // empty menus
+    updateMenu([], "#" + otherMenus[0] +"_menu");
+    updateMenu([], "#" + otherMenus[1] +"_menu");
+  }
+}
+
+// function that updates a dropdown menu with new list of entries
 function updateMenu(updatedList, dropdownID) {
   updatedList.sort();
   var categoryContent = "";
-  console.log($(dropdownID).val());
-  // remove all options
+  // remove all options from current menu
   $(dropdownID).empty();
 
   for (var i = 0; i < updatedList.length; i++) {
@@ -257,15 +290,18 @@ function updateMenu(updatedList, dropdownID) {
   }
   // update dropdown
   $(dropdownID).append(categoryContent);
-  $(dropdownID).selectpicker('selectAll');
   $(dropdownID).selectpicker('refresh');
-  $(dropdownID).selectpicker('selectAll');
 
 }
 
 function filterRows() {
 
 }
+
+/*
+ * download associated functions
+ *
+ */
 
 // uses Filesaver to write out csv
 function CSVOutput(data) {
