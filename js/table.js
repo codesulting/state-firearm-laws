@@ -31,7 +31,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   initializeMenu(subcategories, "Subcategory", "subcategory_menu");
   initializeMenu(provisions, "Provision", "provision_menu");
 
-  // will be changed based on updated button
+  // will be changed based on update button
   var statesDisplayed = states;
   var yearsDisplayed = years;
   var provisionsDisplayed = provisions;
@@ -59,15 +59,35 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   // events for download buttons
 
   $('#csv_button').click(function () {
-    //CSVOutput();
+
+    var oldColumns = ["state", "year"];
+    var newColumns = oldColumns.concat(provisionsDisplayed);
+    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+    var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
+    var data = generateArray(newColumns, newRows);
+
+    CSVOutput(data);
+
   });
 
   $('#txt_button').click(function () {
-    //TXTOutput();
+    var oldColumns = ["state", "year"];
+    var newColumns = oldColumns.concat(provisionsDisplayed);
+    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+    var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
+    var data = generateArray(newColumns, newRows);
+
+    TXTOutput(data);
   });
 
   $('#xls_button').click(function () {
-    // XLSOutput();
+    var oldColumns = ["state", "year"];
+    var newColumns = oldColumns.concat(provisionsDisplayed);
+    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+    var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
+    var data = generateArray(newColumns, newRows);
+
+    XLSOutput(data);
   });
 
 
@@ -116,7 +136,6 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     provisionsDisplayed.sort();
 
     updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-
 
   });
 
