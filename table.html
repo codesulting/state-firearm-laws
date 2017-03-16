@@ -28,83 +28,84 @@
   <h2> State Laws By Year</h2>
 
   <div class="row">
-    <div class="col-xs-6">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title"><span class="glyphicon glyphicon-download-alt"></span> Download Table</h3>
-        </div>
-        <div class="panel-body">
-          <p> Download filtered selection as: </p>
-          <button type="button" class="btn btn-default btn-lg" id="csv_button" aria-label="Download As CSV"><span
-            class="glyphicon glyphicon-save-file"></span> CSV
-          </button>
-          <button type="button" class="btn btn-default btn-lg" id="txt_button" aria-label="Download As TXT"><span
-            class="glyphicon glyphicon-save-file"></span>TXT
-          </button>
-          <button type="button" class="btn btn-default btn-lg" id="xls_button" aria-label="Download As XLS"><span
-            class="glyphicon glyphicon-save-file"></span>XLS
-          </button>
+    <div class="col-xs-4">
+      <div class="row">
+        <!-- filter options State, year, category, subcategory, provision -->
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><span class="glyphicon glyphicon-filter"></span> Filters</h3>
+          </div>
+          <div class="panel-body">
+            <h5>State</h5>
+            <div class="dropdown" id="state_menu_placeholder">
+            </div>
 
-          <p> Download complete dataset as:</p>
-          <button type="button" class="btn btn-default btn-lg" id="csv_complete_button"
-                  aria-label="Download As CSV"><span
-            class="glyphicon glyphicon-save-file"></span> CSV
-          </button>
-          <button type="button" class="btn btn-default btn-lg" id="txt_complete_button"
-                  aria-label="Download As TXT"><span
-            class="glyphicon glyphicon-save-file"></span>TXT
-          </button>
-          <button type="button" class="btn btn-default btn-lg" id="xls_complete_button"
-                  aria-label="Download As XLS"><span
-            class="glyphicon glyphicon-save-file"></span>XLS
-          </button>
+            <h5>Year</h5>
+            <div class="dropdown" id="year_menu_placeholder">
+            </div>
+
+            <h5>Category</h5>
+            <div class="dropdown" id="category_menu_placeholder">
+            </div>
+
+            <h5>Subcategory</h5>
+            <div class="dropdown" id="subcategory_menu_placeholder">
+            </div>
+
+            <h5>Provision</h5>
+            <div class="dropdown" id="provision_menu_placeholder">
+            </div>
+
+            <br>
+
+            <div>
+              <button type="button" class="btn btn-default btn-block" id="update_button">Update Table</button>
+            </div>
+            <br>
+            <div>
+              <button type="button" class="btn btn-default btn-block" id="reset_button">Reset Filters</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><span class="glyphicon glyphicon-download-alt"></span> Download Table</h3>
+          </div>
+          <div class="panel-body">
+            <p> Download filtered selection as: </p>
+            <button type="button" class="btn btn-default btn-lg" id="csv_button" aria-label="Download As CSV"><span
+              class="glyphicon glyphicon-save-file"></span> CSV
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="txt_button" aria-label="Download As TXT"><span
+              class="glyphicon glyphicon-save-file"></span>TXT
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="xls_button" aria-label="Download As XLS"><span
+              class="glyphicon glyphicon-save-file"></span>XLS
+            </button>
+
+            <p> Download complete dataset as:</p>
+            <button type="button" class="btn btn-default btn-lg" id="csv_complete_button"
+                    aria-label="Download As CSV"><span
+              class="glyphicon glyphicon-save-file"></span> CSV
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="txt_complete_button"
+                    aria-label="Download As TXT"><span
+              class="glyphicon glyphicon-save-file"></span>TXT
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="xls_complete_button"
+                    aria-label="Download As XLS"><span
+              class="glyphicon glyphicon-save-file"></span>XLS
+            </button>
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="col-xs-6">
-      <!-- filter options State, year, category, subcategory, provision -->
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title"><span class="glyphicon glyphicon-filter"></span> Filters</h3>
-        </div>
-        <div class="panel-body">
-          <h5>State</h5>
-          <div class="dropdown" id="state_menu_placeholder">
-          </div>
-
-          <h5>Year</h5>
-          <div class="dropdown" id="year_menu_placeholder">
-          </div>
-
-          <h5>Category</h5>
-          <div class="dropdown" id="category_menu_placeholder">
-          </div>
-
-          <h5>Subcategory</h5>
-          <div class="dropdown" id="subcategory_menu_placeholder">
-          </div>
-
-          <h5>Provision</h5>
-          <div class="dropdown" id="provision_menu_placeholder">
-          </div>
-
-          <br>
-
-          <div>
-            <button type="button" class="btn btn-default btn-block" id="update_button">Update Table</button>
-          </div>
-          <br>
-          <div>
-            <button type="button" class="btn btn-default btn-block" id="reset_button">Reset Filters</button>
-          </div>
-        </div>
+    <div class="col-xs-8">
+      <div class="clusterize" id="raw_data_table_placeholder">
       </div>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="clusterize" id="raw_data_table_placeholder">
     </div>
   </div>
 

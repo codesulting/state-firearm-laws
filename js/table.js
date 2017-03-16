@@ -67,7 +67,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
       }
       // get current list of provisions
       var provisionsSelected = $('#provision_menu').val();
-      
+
       if (provisionsSelected !== null) {
         var updatedSubcategories = [];
 

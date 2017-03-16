@@ -1,0 +1,6 @@
+thead, tbody { display: block; }
+
+tbody {
+  height: 200px;       /*  fixed height     */
+  overflow-y: auto;    /* Trigger vertical scroll    */
+}
