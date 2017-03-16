@@ -51,32 +51,30 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   // update category and subcategory menus on dropdown
   $('#provision_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
-
+      // prevents provision menu event from being triggered immediately by another menu event
+      if ($('#provision_menu').val().length === $('#provision_menu > option').length) {
+        return;
+      }
       // get current list of provisions
       var provisionsSelected = $('#provision_menu').val();
       console.log($('#provision_menu').val());
 
       if (provisionsSelected !== null) {
-        var updatedCategories = [];
         var updatedSubcategories = [];
 
         // collect all categories and subcategories that are included with the provisions
         // based on mappings from raw-data.json
 
         for (var i = 0; i < provisionsSelected.length; i++) {
-          updatedCategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["category"]);
           updatedSubcategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["subcategory"]);
         }
 
         // deduplicate lists
-        updatedCategories = _.uniq(updatedCategories);
         updatedSubcategories = _.uniq(updatedSubcategories);
 
         // then update menus
-        updateMenu(updatedCategories, "#category_menu");
         updateMenu(updatedSubcategories, "#subcategory_menu");
       } else {
-        updateMenu([], "#category_menu");
         updateMenu([], "#subcategory_menu");
       }
     });
@@ -84,15 +82,26 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#category_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
       // update subcategory and provision menus
-      triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
+      if ($('#category_menu').val().length !== $('#category_menu > option').length) {
+        triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
+      }
 
     });
 
   $('#subcategory_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
       // update category and provision menus
-      triggerMenusChanges("#subcategory_menu", ["category", "provision", "categories", "provisions"], obj["maps"]["subcategorymap"]);
+      if ($('#subcategory_menu').val().length !== $('#subcategory_menu > option').length) {
+        triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
+      }
     });
+
+  // resets menus
+  $('#reset_button').on('click', function () {
+    updateMenu(categories, "#category_menu");
+    updateMenu(subcategories, "#subcategory_menu");
+    updateMenu(provisions, "#provision_menu");
+  });
 
 
 });
@@ -200,11 +209,10 @@ function generateInitialTable(columns, rows) {
   // event for updating table
 
   $('#update_button').click(function () {
+    // based on state, year and provision, create updated table
     var statesChosen = $('#state_menu').val();
     var yearsChosen = $('#year_menu').val();
     var provisionsChosen = $('#provision_menu').val();
-    var categoriesChosen = $('#category_menu').val();
-    var subcategoriesChosen = $('#subcategory_menu').val();
 
     // Remove rows based on states and year
   });
@@ -251,11 +259,11 @@ function generateInitialMenu(listItems, titleName, idName) {
 
 function triggerMenusChanges(initialMenuID, otherMenus, map) {
   // selected values on the initial menu
-  var entriesSelected =  $(initialMenuID).val();
+  var entriesSelected = $(initialMenuID).val();
   console.log($(initialMenuID).val());
+  var updatedMenuOne = [];
+  var updatedMenuTwo = [];
   if (entriesSelected !== null) {
-    var updatedMenuOne = [];
-    var updatedMenuTwo = [];
 
     // collect relevant values for other menus
     // (e.g. given an initial category menu,
@@ -263,19 +271,24 @@ function triggerMenusChanges(initialMenuID, otherMenus, map) {
     // based on mappings from raw-data.json
 
     for (var i = 0; i < entriesSelected.length; i++) {
-      updatedMenuOne = _.union(updatedMenuOne, map[entriesSelected[i]][otherMenus[2]]);
+      if (otherMenus[0] !== "") {
+        updatedMenuOne = _.union(updatedMenuOne, map[entriesSelected[i]][otherMenus[2]]);
+      }
+
       updatedMenuTwo = _.union(updatedMenuTwo, map[entriesSelected[i]][otherMenus[3]]);
     }
 
-    // then update menus
-    updateMenu(updatedMenuOne, "#" + otherMenus[0] +"_menu");
-    updateMenu(updatedMenuTwo, "#" + otherMenus[1] +"_menu");
-
-  } else {
-  // empty menus
-    updateMenu([], "#" + otherMenus[0] +"_menu");
-    updateMenu([], "#" + otherMenus[1] +"_menu");
   }
+
+  if (otherMenus[0] === "") {
+    // then update menus
+    updateMenu(updatedMenuTwo, "#" + otherMenus[1] + "_menu");
+  } else {
+    // then update menus
+    updateMenu(updatedMenuOne, "#" + otherMenus[0] + "_menu");
+    updateMenu(updatedMenuTwo, "#" + otherMenus[1] + "_menu");
+  }
+
 }
 
 // function that updates a dropdown menu with new list of entries
@@ -291,6 +304,7 @@ function updateMenu(updatedList, dropdownID) {
   // update dropdown
   $(dropdownID).append(categoryContent);
   $(dropdownID).selectpicker('refresh');
+  $(dropdownID).selectpicker('selectAll');
 
 }
 
