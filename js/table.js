@@ -1,27 +1,30 @@
 var rawData = $.getJSON("js/raw-data.json", function (obj) {
+  // data for table
   var rawDataColumns = obj["columns"];
   var rawDataRows = obj["rows"];
+
+  // data for dropdowns
   var statesObj = obj["states"];
   var states = [];
   // get state names
   for (var i = 0; i < statesObj.length; i++) {
     states[i] = statesObj[i]["name"];
   }
-  // load year dropdown
+  // for loading year dropdown
   var years = [];
-  for (var i = 0; i < 26; i++) {
-    years[i] = 1991 + i;
-  }
-  var categories = obj["categories"];
-  var subcategories = obj["subcategories"];
-  var provisionsObj = obj["provisions"];
-  var provisions = [];
-  // provision names only
-  for (var i = 0; i < provisionsObj.length; i++) {
-    provisions[i] = provisionsObj[i]["variable"];
+  var min_year = Number(obj["yearbounds"][0]);
+  var max_year = Number(obj["yearbounds"][1]);
+  for (var i = 0; i < max_year - min_year + 1; i++) {
+    years[i] = min_year + i;
   }
 
+
+  var categories = obj["categories"];
+  var subcategories = obj["subcategories"];
+  var provisions = obj["provisions"];
+
   // set up menus and table
+  // returns reference to list objects that control menu display
   generateInitialMenu(states, "State", "state_menu");
   generateInitialMenu(years, "Year", "year_menu");
   generateInitialMenu(categories, "Category", "category_menu");
@@ -43,6 +46,48 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#xls_complete_button').click(function () {
     var data = generateArray(rawDataColumns, rawDataRows);
     XLSOutput(data);
+  });
+
+  // update category and subcategory menus on dropdown
+  $('#provision_menu').on('changed.bs.select',
+    function (event, clickedIndex, newValue, oldValue) {
+
+    // get current list of provisions
+    var provisionsSelected = $('#provision_menu').val();
+    console.log($('#provision_menu').val());
+
+    if (provisionsSelected !== null) {
+      var updatedCategories = [];
+      var updatedSubcategories = [];
+
+      // collect all categories and subcategories that are included with the provisions
+
+      for (var i = 0; i < provisionsSelected.length; i++) {
+        updatedCategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["category"]);
+        updatedSubcategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["subcategory"]);
+      }
+
+      // deduplicate lists
+
+      updatedCategories = _.uniq(updatedCategories);
+      updatedSubcategories = _.uniq(updatedSubcategories);
+
+      // then update menus
+
+      updateMenu(updatedCategories, "#category_menu");
+      updateMenu(updatedSubcategories, "#subcategory_menu");
+    } else {
+      updateMenu([], "#category_menu");
+      updateMenu([], "#subcategory_menu");
+    }
+  });
+
+  $('#category_menu').change(function () {
+    // update subcategory and provision menus
+  });
+
+  $('#subcategory_menu').change(function () {
+    // update provision and category menus
   });
 
 
@@ -83,7 +128,7 @@ function generateInitialTable(columns, rows) {
 
   var $scroll = $('#scrollArea');
   var $content = $('#contentArea');
-  var $headers = $("#headersArea");
+  var $headers = $('#headersArea');
 
 
   /**
@@ -148,12 +193,16 @@ function generateInitialTable(columns, rows) {
     }
   }()));
 
-  return;
-
   // event for updating table
 
   $('#update_button').click(function () {
-    // not implemented
+    var statesChosen = $('#state_menu').val();
+    var yearsChosen = $('#year_menu').val();
+    var provisionsChosen = $('#provision_menu').val();
+    var categoriesChosen = $('#category_menu').val();
+    var subcategoriesChosen = $('#subcategory_menu').val();
+
+    // Remove rows based on states and year
   });
 }
 
@@ -177,6 +226,7 @@ $('#xls_button').click(function () {
 
 // generates dropdown menus for state, year, etc. using dropdown-select
 function generateInitialMenu(listItems, titleName, idName) {
+  listItems.sort();
   // create dropdown menu
   var content = "<select class='selectpicker' multiple data-width='75%' data-actions-box='true' title=" + titleName + " id=" + idName + ">";
 
@@ -187,9 +237,35 @@ function generateInitialMenu(listItems, titleName, idName) {
   content += "</select>"
 
   $("#" + idName + "_placeholder").append(content);
+  $("#" + idName).selectpicker('selectAll');
   $("#" + idName).selectpicker('refresh');
+
 }
 
+
+
+// function that updates category/subcategory dropdown
+function updateMenu(updatedList, dropdownID) {
+  updatedList.sort();
+  var categoryContent = "";
+  console.log($(dropdownID).val());
+  // remove all options
+  $(dropdownID).empty();
+
+  for (var i = 0; i < updatedList.length; i++) {
+    categoryContent += "<option>" + updatedList[i] + "</option>";
+  }
+  // update dropdown
+  $(dropdownID).append(categoryContent);
+  $(dropdownID).selectpicker('selectAll');
+  $(dropdownID).selectpicker('refresh');
+  $(dropdownID).selectpicker('selectAll');
+
+}
+
+function filterRows() {
+
+}
 
 // uses Filesaver to write out csv
 function CSVOutput(data) {
