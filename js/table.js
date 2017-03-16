@@ -25,12 +25,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   // set up menus and table
   // returns reference to list objects that control menu display
-  generateInitialMenu(states, "State", "state_menu");
-  generateInitialMenu(years, "Year", "year_menu");
-  generateInitialMenu(categories, "Category", "category_menu");
-  generateInitialMenu(subcategories, "Subcategory", "subcategory_menu");
-  generateInitialMenu(provisions, "Provision", "provision_menu");
-  generateInitialTable(rawDataColumns, rawDataRows);
+  initializeMenu(states, "State", "state_menu");
+  initializeMenu(years, "Year", "year_menu");
+  initializeMenu(categories, "Category", "category_menu");
+  initializeMenu(subcategories, "Subcategory", "subcategory_menu");
+  initializeMenu(provisions, "Provision", "provision_menu");
+  initializeTable(rawDataColumns, rawDataRows);
 
   // generate buttons for downloading complete dataset (ie complete table)
   $('#csv_complete_button').click(function () {
@@ -48,31 +48,40 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     XLSOutput(data);
   });
 
-  // update category and subcategory menus on dropdown
+
+  /*
+   * 3 change events for the menus
+   * Follows the behavior of Tableau-implemented version of the table
+   * where any changes to the provision menu only change the subcategories menu;
+   * any changes to the categories menu  changes both the provisions and subcategories
+   * and any changes to the subcategories menu changes the provisions menu
+  * */
   $('#provision_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
+      // update subcategory menu on dropdown
+
+
       // prevents provision menu event from being triggered immediately by another menu event
       if ($('#provision_menu').val().length === $('#provision_menu > option').length) {
         return;
       }
       // get current list of provisions
       var provisionsSelected = $('#provision_menu').val();
-      console.log($('#provision_menu').val());
-
+      
       if (provisionsSelected !== null) {
         var updatedSubcategories = [];
 
-        // collect all categories and subcategories that are included with the provisions
+        // collect all subcategories that are included with the provisions
         // based on mappings from raw-data.json
 
         for (var i = 0; i < provisionsSelected.length; i++) {
           updatedSubcategories.push(obj["maps"]["provmap"][provisionsSelected[i]]["subcategory"]);
         }
 
-        // deduplicate lists
+        // deduplicate list
         updatedSubcategories = _.uniq(updatedSubcategories);
 
-        // then update menus
+        // then update menu
         updateMenu(updatedSubcategories, "#subcategory_menu");
       } else {
         updateMenu([], "#subcategory_menu");
@@ -90,7 +99,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   $('#subcategory_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
-      // update category and provision menus
+      // update provision menu
       if ($('#subcategory_menu').val().length !== $('#subcategory_menu > option').length) {
         triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
       }
@@ -106,7 +115,14 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
 });
 
-function generateInitialTable(columns, rows) {
+
+/*
+ * table-related functions
+ */
+
+// sets up table using clusterize js, which helps optimize loading
+
+function initializeTable(columns, rows) {
   //Generate table header section
   var header = []
 
@@ -123,6 +139,53 @@ function generateInitialTable(columns, rows) {
   var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered"> <tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
   $('#raw_data_table_placeholder').append(loadingString);
 
+ var tableContent = filterRows(columns, rows);
+
+  var clusterize = new Clusterize({
+    rows: tableContent,
+    scrollId: 'scrollArea',
+    contentId: 'contentArea'
+  });
+
+  initializeHeaderScrolling();
+
+
+  // event for updating table
+
+  $('#update_button').click(function () {
+    // based on state, year and provision, create updated table
+    var statesChosen = $('#state_menu').val();
+    var yearsChosen = $('#year_menu').val();
+    var provisionsChosen = $('#provision_menu').val();
+    provisionsChosen.sort();
+
+    // update header area
+    var header = ["<thead><tr>"];
+    var oldColumns = ["state", "year"];
+    var newColumns =  oldColumns.concat(provisionsChosen);
+    newColumns = newColumns.concat(["intimatetotal", "lawtotal"])
+    for (var i = 0; i < newColumns.length; i++) {
+      header.push("<th>" + newColumns[i] + "</th>");
+    }
+    header.push("</tr></thead>");
+
+    $('#headersArea').empty();
+    $('#headersArea').append(header);
+
+    // Remove columns based on provisions chosen
+    tableContent = filterRows(newColumns, rows);
+
+    clusterize = new Clusterize({
+      rows: tableContent,
+      scrollId: 'scrollArea',
+      contentId: 'contentArea'
+    });
+
+    // Remove rows based on states and year
+
+  });
+}
+function filterRows(columns, rows) {
   var tableContent = [];
 
 //Generate all table rows
@@ -137,8 +200,11 @@ function generateInitialTable(columns, rows) {
     row += "</tr>";
     tableContent.push(row);
   }
+  return tableContent;
+}
 
-
+// from clusterize js, intended to synchronize table head and body scrolling
+function initializeHeaderScrolling() {
   var $scroll = $('#scrollArea');
   var $content = $('#contentArea');
   var $headers = $('#headersArea');
@@ -177,16 +243,6 @@ function generateInitialTable(columns, rows) {
     $headers.css('margin-left', -scrollLeft);
   }
 
-  /*
-   * Init clusterize.js
-   */
-  var clusterize = new Clusterize({
-    rows: tableContent,
-    scrollId: 'scrollArea',
-    contentId: 'contentArea'
-  });
-
-
   /**
    * Update header columns width on window resize
    */
@@ -206,38 +262,19 @@ function generateInitialTable(columns, rows) {
     }
   }()));
 
-  // event for updating table
-
-  $('#update_button').click(function () {
-    // based on state, year and provision, create updated table
-    var statesChosen = $('#state_menu').val();
-    var yearsChosen = $('#year_menu').val();
-    var provisionsChosen = $('#provision_menu').val();
-
-    // Remove rows based on states and year
-  });
 }
 
 
-// events for download buttons
-
-$('#csv_button').click(function () {
-  CSVOutput(getTableData());
-});
-
-$('#txt_button').click(function () {
-  TXTOutput(getTableData());
-});
-
-$('#xls_button').click(function () {
-  XLSOutput(getTableData());
-});
 
 
-///// helper functions
+
+
+/*
+ * helper functions for menus
+ */
 
 // generates dropdown menus for state, year, etc. using dropdown-select
-function generateInitialMenu(listItems, titleName, idName) {
+function initializeMenu(listItems, titleName, idName) {
   listItems.sort();
   // create dropdown menu
   var content = "<select class='selectpicker' multiple data-width='75%' data-actions-box='true' title=" + titleName + " id=" + idName + ">";
@@ -253,6 +290,7 @@ function generateInitialMenu(listItems, titleName, idName) {
   $("#" + idName).selectpicker('refresh');
 
 }
+
 
 // function that changes other menus based on input to initial menu
 // uses a mapping provided in raw-data.json
@@ -274,7 +312,6 @@ function triggerMenusChanges(initialMenuID, otherMenus, map) {
       if (otherMenus[0] !== "") {
         updatedMenuOne = _.union(updatedMenuOne, map[entriesSelected[i]][otherMenus[2]]);
       }
-
       updatedMenuTwo = _.union(updatedMenuTwo, map[entriesSelected[i]][otherMenus[3]]);
     }
 
@@ -308,14 +345,27 @@ function updateMenu(updatedList, dropdownID) {
 
 }
 
-function filterRows() {
 
-}
 
 /*
  * download associated functions
  *
  */
+
+// events for download buttons
+
+$('#csv_button').click(function () {
+  CSVOutput(getTableData());
+});
+
+$('#txt_button').click(function () {
+  TXTOutput(getTableData());
+});
+
+$('#xls_button').click(function () {
+  XLSOutput(getTableData());
+});
+
 
 // uses Filesaver to write out csv
 function CSVOutput(data) {
