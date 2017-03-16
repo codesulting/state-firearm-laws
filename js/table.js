@@ -31,11 +31,16 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   initializeMenu(subcategories, "Subcategory", "subcategory_menu");
   initializeMenu(provisions, "Provision", "provision_menu");
 
+  var initialColumns = provisions.slice();
+  initialColumns.sort();
+  initialColumns.unshift("state", "year");
+  initialColumns.push("intimatetotal", "lawtotal");
+
   // will be changed based on update button
   var statesDisplayed = states;
   var yearsDisplayed = years;
   var provisionsDisplayed = provisions;
-  initializeTable(rawDataColumns, rawDataRows);
+  initializeTable(initialColumns, rawDataRows);
 
 
   // generate buttons for downloading complete dataset (ie complete table)
@@ -137,6 +142,13 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
     updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
+    if ($('#csv_button').prop('disabled')) {
+      $('#csv_button').prop('disabled', false);
+      $('#txt_button').prop('disabled', false);
+      $('#xls_button').prop('disabled', false);
+    }
+
+
   });
 
   // resets menus
@@ -179,7 +191,7 @@ function createTableContent(columns, rows) {
 
 function initializeTable(columns, rows) {
   //Generate table header section
-  var header = []
+  var header = [];
 
   //tableContent += "<table class='table table-bordered table-responsive table-hover' id='raw_table'><thead><tr>";
   header.push("<div class='clusterize-headers'><table class='table' id='headersArea'><thead><tr>");
