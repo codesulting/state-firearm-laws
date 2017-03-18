@@ -69,6 +69,9 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
   // change both dropdown menus on search event
   $('#glossary_search').keyup(function () {
+    var searchTerm = $('#glossary_search').val();
+    //console.log(searchTerm);
+    glossaryList.search(searchTerm);
     updateDropdown(categories, glossaryList, false);
     updateDropdown(subcategories, glossaryList, true);
   });
@@ -107,7 +110,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         var tableCategory = item.values().category;
         tableCategory = tableCategory.slice(tableCategory.indexOf("<br>") + 4);
 
-        return (tableCategory === categoryOption && item.visible());
+        return (tableCategory === categoryOption);
       });
 
       // update subcategory dropdown
