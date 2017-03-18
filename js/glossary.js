@@ -68,18 +68,31 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
 
   // change both dropdown menus on search event
-  $('#glossary_search').keyup(function () {
+  $('#glossary_search').keyup(function (event) {
+    // get current phrase in search input
     var searchTerm = $('#glossary_search').val();
-    //console.log(searchTerm);
-    glossaryList.search(searchTerm);
-    updateDropdown(categories, glossaryList, false);
-    updateDropdown(subcategories, glossaryList, true);
+
+    if (event.which == 46 || event.which == 8) {
+      // on backspace or delete event, want the table to update
+      glossaryList.search();
+      glossaryList.filter();
+      glossaryList.search(searchTerm);
+      // then update dropdown
+      updateDropdown(categories, glossaryList, false);
+      updateDropdown(subcategories, glossaryList, true);
+    } else {
+      glossaryList.search(searchTerm);
+      updateDropdown(categories, glossaryList, false);
+      updateDropdown(subcategories, glossaryList, true);
+    }
+
   });
 
   // changes table based on category filter
   $('#category_menu').on('changed.bs.select',
     function (event, clickedIndex, newValue, oldValue) {
 
+    console.log($('#glossary_search').val(), "hello");
       // option from category menu
       var categoryOption = $('#category_menu option:selected').text();
 
@@ -110,7 +123,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         var tableCategory = item.values().category;
         tableCategory = tableCategory.slice(tableCategory.indexOf("<br>") + 4);
 
-        return (tableCategory === categoryOption);
+        return (tableCategory === categoryOption && item.visible());
       });
 
       // update subcategory dropdown
