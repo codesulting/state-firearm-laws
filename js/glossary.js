@@ -5,7 +5,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   var categories = obj['categories'];
   var subcategories = obj['subcategories'];
 
-  var headers = ["Code", "Definition", "Category"];
+  var headers = ["Code", "Definition", "Category/Subcategory"];
 
 
 //Generate table header section

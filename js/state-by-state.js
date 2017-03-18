@@ -83,7 +83,7 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
       if (stateData.hasOwnProperty(year)) {
         for (var entry in stateData[year][0]["history"]) {
           tableContent += "<tr class='" + year + "'>";
-          tableContent += "<td>" + stateData[year][0]["history"][entry]["law"] + "</td>";
+          tableContent += "<td><i>" + stateData[year][0]["history"][entry]["law"] + "</i></td>";
           tableContent += "<td>" + stateData[year][0]["history"][entry]["definition"] + "</td>";
           tableContent += "<td>" + stateData[year][0]["history"][entry]["status"];
           if (stateData[year][0]["history"][entry]["status"] === "Current") {

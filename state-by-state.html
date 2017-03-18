@@ -43,14 +43,16 @@
       <a class="nav-link" href="index.html">Home </a>
     </li>
     <li>
-      <a class="nav-link" href="about.html">About</a>
+      <a class="nav-link" href="about.html">About Us</a>
+    </li>
+    <li>
+      <a class="nav-link" href="categories.html">About the Categories</a>
     </li>
     <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Law Data <span class="caret"></span></a>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="law-data.html">National Trends</a></li>
+        <li><a class="dropdown-item" href="law-data.html">Visualization and Dataset Download</a></li>
         <li><a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a></li>
-        <li><a class="dropdown-item" href="categories.html">About the Categories</a></li>
         <li><a class="dropdown-item" href="#">Read the Manuscript</a></li>
         <li><a class="dropdown-item" href="#">Read the Report</a></li>
       </ul>
@@ -77,6 +79,7 @@
 
 <div class="container">
   <div class="row">
+    <h2> State-by-State</h2>
     <h3> Choose a state from the list below to see its gun law history.</h3>
   </div>
   <div class="dropdown mx-auto" id="state_dropdown_div">
@@ -84,6 +87,11 @@
 </div>
 
 <div class="container-fluid" id="state_info" style="display:none">
+
+  <div class="row">
+    Click and drag the slider knob to change the year of the information displayed. You can view laws by year alongside their
+    corresponding firearm-related homicide and suicide rates. You can also access links to current statutes.
+  </div>
   <br>
 
   <h2 id="state_title"> N/A </h2>
@@ -96,7 +104,6 @@
       </div>
     </div>
     <div class="col-md-4 rate">
-      <h3><span id="num_gun_laws" class="rate">N/A</span></h3>
     </div>
     <div class="rate col-md-4">
     </div>
@@ -105,7 +112,7 @@
     <div class="col-md-4 align-middle">
       <div class="row">
         <h3><span id="firearm_homicides" class="rate">N/A</span></h3>
-        <h6> Firearm-Related Homicide Rate</h6>
+        <h4> Firearm-Related Homicide Rate</h4>
       </div>
     </div>
     <div class="col-md-4" id="state_icon">
@@ -113,7 +120,7 @@
     </div>
     <div class="col-md-4 align-middle">
       <h3><span id="firearm_suicides" class="rate">N/A</span></h3>
-      <h6> Firearm-Related Suicide Rate</h6>
+      <h4> Firearm-Related Suicide Rate</h4>
     </div>
   </div>
   <div class="row">
@@ -122,7 +129,7 @@
       </div>
     </div>
     <div class="col-md-4 rate">
-      <h4> # of gun laws</h4>
+      <h4> Number of State Gun Laws: </h4> <h3><span id="num_gun_laws" class="rate">N/A</span> </h3>
     </div>
     <div class="rate col-md-4">
     </div>
