@@ -4,6 +4,8 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   data = obj['rows'];
   var categories = obj['categories'];
   var subcategories = obj['subcategories'];
+  categories.sort();
+  subcategories.sort();
 
   var headers = ["Code", "Definition", "Category/Subcategory"];
 
@@ -29,11 +31,18 @@ var data = $.getJSON("js/glossary.json", function (obj) {
     tableContent += "</tr>";
   }
 
-  tableContent += "</tbody></table>"
-
+  tableContent += "</tbody></table>";
 
 //js-generated table is appended to div
   $('#glossary_table').append(tableContent);
+
+  // create new List using list.js for manipulating the glossary table
+  var glossaryOptions = {
+    valueNames: ["variable", "description", "category"]
+  };
+  var glossaryList = new List('glossary_table', glossaryOptions);
+
+  glossaryList.sort("variable", {order: "asc"});
 
   // create category dropdown menu
   var categoryContent = "<select class='selectpicker' title='Category' id='category_menu'>";
@@ -60,12 +69,6 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#subcategory_menu_placeholder').append(subcategoryContent);
 
 
-  // create new List using list.js for manipulating the glossary table
-  var glossaryOptions = {
-    valueNames: ["variable", "description", "category"]
-  };
-  var glossaryList = new List('glossary_table', glossaryOptions);
-
 
   // change both dropdown menus on search event
   $('#glossary_search').keyup(function (event) {
@@ -73,7 +76,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
     var searchTerm = $('#glossary_search').val();
 
     if (event.which == 46 || event.which == 8) {
-      // on backspace or delete event, want the table to update
+      // on backspace or delete event, table updates
       glossaryList.search();
       glossaryList.filter();
       glossaryList.search(searchTerm);
