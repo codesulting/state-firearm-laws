@@ -75,19 +75,13 @@ var data = $.getJSON("js/glossary.json", function (obj) {
     // get current phrase in search input
     var searchTerm = $('#glossary_search').val();
 
-    if (event.which == 46 || event.which == 8) {
-      // on backspace or delete event, table updates
-      glossaryList.search();
-      glossaryList.filter();
-      glossaryList.search(searchTerm);
-      // then update dropdown
-      updateDropdown(categories, glossaryList, false);
-      updateDropdown(subcategories, glossaryList, true);
-    } else {
-      glossaryList.search(searchTerm);
-      updateDropdown(categories, glossaryList, false);
-      updateDropdown(subcategories, glossaryList, true);
-    }
+
+    glossaryList.search();
+    glossaryList.filter();
+    glossaryList.search(searchTerm);
+    // then update dropdown
+    updateDropdown(categories, glossaryList, false);
+    updateDropdown(subcategories, glossaryList, true);
 
   });
 
@@ -95,7 +89,16 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#category_menu').on('changed.bs.select',
     function (event, clickedIndex, newValue, oldValue) {
 
-    console.log($('#glossary_search').val(), "hello");
+
+      var searchTerm = $('#glossary_search').val();
+
+
+      glossaryList.search();
+      glossaryList.filter();
+      if (searchTerm !== null) {
+        glossaryList.search(searchTerm);
+      }
+
       // option from category menu
       var categoryOption = $('#category_menu option:selected').text();
 
@@ -105,7 +108,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         var tableCategory = item.values().category;
         tableCategory = tableCategory.slice(0, tableCategory.indexOf("<br>"));
 
-        return (tableCategory === categoryOption && item.visible());
+        return (tableCategory === categoryOption /*&& item.visible()*/);
       });
 
       // update subcategory dropdown
@@ -118,20 +121,35 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#subcategory_menu').on('changed.bs.select',
     function (event, clickedIndex, newValue, oldValue) {
 
+      var searchTerm = $('#glossary_search').val();
+      glossaryList.search();
+      glossaryList.filter();
+      if (searchTerm !== null || searchTerm !== "") {
+        glossaryList.search(searchTerm);
+      }
+
       // option from category menu
-      var categoryOption = $('#subcategory_menu option:selected').text();
+      var subcategoryOption = $('#subcategory_menu option:selected').text();
+      var categoryOption = $('#category_menu option:selected').text();
 
       glossaryList.filter(function (item) {
         // from table, includes category and subcategory
-        var tableCategory = item.values().category;
-        tableCategory = tableCategory.slice(tableCategory.indexOf("<br>") + 4);
+        var tableCatString = item.values().category;
+        var tableCategory = tableCatString.slice(0, tableCatString.indexOf("<br>"));
+        var tableSubcategory = tableCatString.slice(tableCatString.indexOf("<br>") + 4);
 
-        return (tableCategory === categoryOption && item.visible());
+        if (categoryOption === null || categoryOption === "Category") {
+          return (tableSubcategory === subcategoryOption);
+        } else {
+          return (tableCategory === categoryOption && tableSubcategory === subcategoryOption);
+        }
+
       });
 
-      // update subcategory dropdown
-      updateDropdown(categories, glossaryList, false);
-      updateDropdown(subcategories, glossaryList, true);
+      // update category dropdown
+      if ($('#category_menu option:selected').text() === null) {
+        updateDropdown(categories, glossaryList, false);
+      }
 
     });
 
