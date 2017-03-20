@@ -45,17 +45,17 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   // generate buttons for downloading complete dataset (ie complete table)
   $('#csv_complete_button').click(function () {
-    var data = generateArray(rawDataColumns, rawDataRows);
+    var data = generateArray(initialColumns, rawDataRows);
     CSVOutput(data);
   });
 
   $('#txt_complete_button').click(function () {
-    var data = generateArray(rawDataColumns, rawDataRows);
+    var data = generateArray(initialColumns, rawDataRows);
     TXTOutput(data);
   });
 
   $('#xls_complete_button').click(function () {
-    var data = generateArray(rawDataColumns, rawDataRows);
+    var data = generateArray(initialColumns, rawDataRows);
     XLSOutput(data);
   });
 
@@ -203,7 +203,11 @@ function initializeTable(columns, rows) {
 
   $('#raw_data_table_placeholder').append(header.join(""));
 
-  var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered"> <tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
+  var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered"><thead id="hiddenScrollHeader">';
+  for (var i = 0; i < columns.length; i++) {
+    loadingString += "<th></th>";
+  }
+  loadingString += '</thead><tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
   $('#raw_data_table_placeholder').append(loadingString);
 
   var tableContent = createTableContent(columns, rows);
@@ -242,10 +246,19 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   header.push("</tr></thead>");
 
   $('#headersArea').empty();
-  $('#headersArea').append(header);
+  $('#headersArea').append(header.join(""));
 
   // Remove rows based on states and year
   var newRows = filterRows(rawDataRows, statesChosen, yearsChosen);
+
+  $('#hiddenScrollHeader').empty();
+  var hiddenHeader = "";
+  for (var i = 0; i < newColumns.length; i++) {
+    hiddenHeader += "<th></th>";
+  }
+  $('#hiddenScrollHeader').append(hiddenHeader);
+
+
   // Remove columns based on provisions chosen
   var tableContent = createTableContent(newColumns, newRows);
 

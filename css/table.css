@@ -11,3 +11,16 @@ td {
   overflow: hidden;
 }
 
+.clusterize thead th {
+  width: 100px;
+  overflow:hidden;
+}
+
+.clusterize td {
+  width: 100px;
+}
+
+.table {
+  table-layout: fixed;
+  width: 550px;
+}
