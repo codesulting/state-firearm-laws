@@ -42,7 +42,7 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
 
 // rates displayed change based on year input to slider
-  $("#year").on("slide", function (slideEvt) {
+  $("#year").on("slideStop", function (slideEvt) {
     $("#firearm_suicides").text(stateData[slideEvt.value][2]["suicide_rate"] + "%");
     $("#firearm_homicides").text(stateData[slideEvt.value][3]["homicide_rate"] + "%");
     $("#num_gun_laws").text(stateData[slideEvt.value][1]["num_laws"]);
