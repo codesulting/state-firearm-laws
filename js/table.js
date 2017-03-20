@@ -193,17 +193,17 @@ function initializeTable(columns, rows) {
   //Generate table header section
   var header = [];
 
-  //tableContent += "<table class='table table-bordered table-responsive table-hover' id='raw_table'><thead><tr>";
   header.push("<div class='clusterize-headers'><table class='table' id='headersArea'><thead><tr>");
 
   for (var i = 0; i < columns.length; i++) {
-    header.push("<th>" + columns[i] + "</th>");
+    header.push("<th data-toggle='tooltip' title='" + columns[i] + "'>" + columns[i] + "</th>");
   }
   header.push("</tr></thead></table></div>");
 
   $('#raw_data_table_placeholder').append(header.join(""));
 
-  var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered"><thead id="hiddenScrollHeader">';
+
+  var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered table-hover table-responsive"><thead id="hiddenScrollHeader">';
   for (var i = 0; i < columns.length; i++) {
     loadingString += "<th></th>";
   }
@@ -219,10 +219,9 @@ function initializeTable(columns, rows) {
   });
 
   initializeHeaderScrolling();
-
-
 }
 
+// adds rows to table only if state and year in the row match the input lists' values
 function filterRows(rows, stateValues, yearValues) {
   var newRows = [];
   for (var i = 0; i < rows.length; i++) {
@@ -241,16 +240,14 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   var newColumns = oldColumns.concat(provisionsChosen);
   newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
   for (var i = 0; i < newColumns.length; i++) {
-    header.push("<th>" + newColumns[i] + "</th>");
+    header.push("<th data-toggle='tooltip' title='" + newColumns[i] + "'>" + newColumns[i] + "</th>");
   }
   header.push("</tr></thead>");
 
   $('#headersArea').empty();
   $('#headersArea').append(header.join(""));
 
-  // Remove rows based on states and year
-  var newRows = filterRows(rawDataRows, statesChosen, yearsChosen);
-
+  // update hidden header area for scrolling
   $('#hiddenScrollHeader').empty();
   var hiddenHeader = "";
   for (var i = 0; i < newColumns.length; i++) {
@@ -258,6 +255,8 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   }
   $('#hiddenScrollHeader').append(hiddenHeader);
 
+  // Remove rows based on states and year
+  var newRows = filterRows(rawDataRows, statesChosen, yearsChosen);
 
   // Remove columns based on provisions chosen
   var tableContent = createTableContent(newColumns, newRows);
