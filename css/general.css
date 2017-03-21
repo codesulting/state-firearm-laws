@@ -1,7 +1,22 @@
+/* font of links in menus at top of page */
 .nav-link {
   font-size:large;
 }
 
+
+/* font of links in menus at top of page */
 a.dropdown-toggle {
   font-size:large;
+}
+
+/* social media buttons */
+
+.social-toolbar {
+  right:0px;
+  position:absolute;
+  /*padding: 10px 0;*/
+}
+
+.footer-text {
+  padding: 10px 0;
 }
