@@ -43,8 +43,20 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
 // rates displayed change based on year input to slider
   $("#year").on("slideStop", function (slideEvt) {
-    $("#firearm_suicides").text(stateData[slideEvt.value][2]["suicide_rate"] + "%");
-    $("#firearm_homicides").text(stateData[slideEvt.value][3]["homicide_rate"] + "%");
+    var sr = stateData[slideEvt.value][2]["suicide_rate"];
+    var hr = stateData[slideEvt.value][3]["homicide_rate"];
+    if ($.isNumeric(sr)) {
+      $("#firearm_suicides").text(sr + "%");
+    } else {
+      $("#firearm_suicides").text(sr);
+    }
+
+    if ($.isNumeric(hr)) {
+      $("#firearm_homicides").text(hr + "%");
+    } else {
+      $("#firearm_homicides").text(hr);
+    }
+
     $("#num_gun_laws").text(stateData[slideEvt.value][1]["num_laws"]);
     $("#year_label").text(slideEvt.value);
     updateHistoryTable(slideEvt.value);
@@ -78,14 +90,14 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
   // table is hidden on initialization
   function createDataTable(stateData) {
     var tableContent = "<table class='table table-responsive table-hover'>" +
-      "<thead> <tr class='header'> <th>Gun Law Data</th> <th></th> <th>Status</th> </tr> </thead><tbody class='text-xs-left'>";
+      "<thead> <tr class='header'> <th>Gun Law Data</th> <th></th> <th>Status</th> </tr> </thead><tbody class='text-xs-left list'>";
     for (var year in stateData) {
       if (stateData.hasOwnProperty(year)) {
         for (var entry in stateData[year][0]["history"]) {
           tableContent += "<tr class='" + year + "'>";
-          tableContent += "<td><i>" + stateData[year][0]["history"][entry]["law"] + "</i></td>";
-          tableContent += "<td>" + stateData[year][0]["history"][entry]["definition"] + "</td>";
-          tableContent += "<td>" + stateData[year][0]["history"][entry]["status"];
+          tableContent += "<td class='provision'><i>" + stateData[year][0]["history"][entry]["law"] + "</i></td>";
+          tableContent += "<td class='definition'>" + stateData[year][0]["history"][entry]["definition"] + "</td>";
+          tableContent += "<td class='status'>" + stateData[year][0]["history"][entry]["status"];
           if (stateData[year][0]["history"][entry]["status"] === "Current") {
             tableContent += "; " + "<a href='" + stateData[year][0]["history"][entry]["link"] + "'> Read the statute here </a></td>";
           } else {
@@ -100,6 +112,15 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
     // create table and hide
     $('#history_table').append(tableContent);
     $('#history_table').css('display', 'none');
+
+    // create new List using list.js for manipulating the table
+    var tableOptions = {
+      valueNames: ["provision", "definition", "status"]
+    };
+    var historyList = new List('history_table', tableOptions);
+
+    historyList.sort("provision", {order: "asc"});
+
   }
 
   // on change of year via range input, will update gun law history table

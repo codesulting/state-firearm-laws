@@ -121,6 +121,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#subcategory_menu').on('changed.bs.select',
     function (event, clickedIndex, newValue, oldValue) {
 
+    // filter by search term first
       var searchTerm = $('#glossary_search').val();
       glossaryList.search();
       glossaryList.filter();
@@ -128,16 +129,17 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         glossaryList.search(searchTerm);
       }
 
-      // option from category menu
+      // get input from category/subcategory menu
       var subcategoryOption = $('#subcategory_menu option:selected').text();
       var categoryOption = $('#category_menu option:selected').text();
 
       glossaryList.filter(function (item) {
-        // from table, includes category and subcategory
+        // from table, parse out category and subcategory
         var tableCatString = item.values().category;
         var tableCategory = tableCatString.slice(0, tableCatString.indexOf("<br>"));
         var tableSubcategory = tableCatString.slice(tableCatString.indexOf("<br>") + 4);
 
+        // filter based on input from dropdown menus
         if (categoryOption === null || categoryOption === "Category") {
           return (tableSubcategory === subcategoryOption);
         } else {
@@ -146,7 +148,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
       });
 
-      // update category dropdown
+      // update category dropdown if needed
       if ($('#category_menu option:selected').text() === null) {
         updateDropdown(categories, glossaryList, false);
       }
