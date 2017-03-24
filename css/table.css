@@ -12,15 +12,19 @@ td {
 }
 
 .clusterize thead th {
-  width: 110px;
+  width: 140px;
   overflow:hidden;
 }
 
 .clusterize td {
-  width: 110px;
+  width: 140px;
 }
 
 .table {
   table-layout: fixed;
   width: 550px;
+}
+
+.table-area {
+  padding-left:30px;
 }

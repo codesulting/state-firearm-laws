@@ -36,6 +36,8 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   initialColumns.unshift("state", "year");
   initialColumns.push("intimatetotal", "lawtotal");
 
+  $('#raw_data_empty').css("display", "none");
+
   // will be changed based on update button
   var statesDisplayed = states;
   var yearsDisplayed = years;
@@ -117,7 +119,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#category_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
       // update subcategory and provision menus
-      if ($('#category_menu').val().length !== $('#category_menu > option').length) {
+      if ($('#category_menu').val() === null || $('#category_menu').val().length !== $('#category_menu > option').length) {
         triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
       }
 
@@ -126,7 +128,8 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#subcategory_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
       // update provision menu
-      if ($('#subcategory_menu').val().length !== $('#subcategory_menu > option').length) {
+
+      if ($('#subcategory_menu').val() === null || $('#subcategory_menu').val().length !== $('#subcategory_menu > option').length) {
         triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
       }
     });
@@ -138,7 +141,15 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     statesDisplayed = $('#state_menu').val();
     yearsDisplayed = $('#year_menu').val();
     provisionsDisplayed = $('#provision_menu').val();
-    provisionsDisplayed.sort();
+
+
+    if (statesDisplayed === null || yearsDisplayed === null || provisionsDisplayed === null) {
+      updateTable(rawDataRows, [], [], [], false);
+    }
+
+    if (provisionsDisplayed !== null) {
+      provisionsDisplayed.sort();
+    }
 
     updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
@@ -234,6 +245,21 @@ function filterRows(rows, stateValues, yearValues) {
 }
 
 function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
+  // if user has not chosen states or years or provisions, table should be empty
+  if ((statesChosen.length === 0 || yearsChosen.length === 0 || provisionsChosen.length === 0)) {
+    $('#raw_data_empty').css("display", "block");
+    $('#raw_data_table_placeholder').css("display", "none");
+    $('#csv_button').prop('disabled', true);
+    $('#txt_button').prop('disabled', true);
+    $('#xls_button').prop('disabled', true);
+
+  } else {
+    $('#raw_data_empty').css("display", "none");
+    $('#raw_data_table_placeholder').css("display", "block");
+    $('#csv_button').prop('disabled', false);
+    $('#txt_button').prop('disabled', false);
+    $('#xls_button').prop('disabled', false);
+  }
   // update header area
   var header = ["<thead><tr>"];
   var oldColumns = ["state", "year"];
@@ -358,9 +384,9 @@ function initializeMenu(listItems, titleName, idName) {
 function triggerMenusChanges(initialMenuID, otherMenus, map) {
   // selected values on the initial menu
   var entriesSelected = $(initialMenuID).val();
-  console.log($(initialMenuID).val());
   var updatedMenuOne = [];
   var updatedMenuTwo = [];
+
   if (entriesSelected !== null) {
 
     // collect relevant values for other menus
