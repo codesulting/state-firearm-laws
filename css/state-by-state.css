@@ -1,12 +1,8 @@
-/* restrict size of container on larger screens instead of full-width*/
-.container-fluid {
-  max-width: 680px;
-  text-align: center;
-}
-
 /* for map-glyphs, enlarges map image */
 .map-large {
-  font-size: 15em;
+  font-size: 12em;
+  color: #a2cd5a;
+  text-shadow: 3px 3px 3px #d3d3d3;
 }
 
 
@@ -35,4 +31,21 @@
   text-align: center;
   vertical-align: middle;
   font-size: inherit
+}
+
+#state_title {
+  text-align:center;
+}
+
+#state_info {
+  text-align:center;
+}
+
+#history_table {
+  padding-left:30px;
+}
+
+.info-box {
+  padding-top:30px;
+  padding-bottom:30px;
 }
