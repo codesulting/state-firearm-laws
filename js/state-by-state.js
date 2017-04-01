@@ -45,17 +45,13 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
   $("#year").on("slideStop", function (slideEvt) {
     var sr = stateData[slideEvt.value][2]["suicide_rate"];
     var hr = stateData[slideEvt.value][3]["homicide_rate"];
-    if ($.isNumeric(sr)) {
-      $("#firearm_suicides").text(sr + "%");
-    } else if (sr === null) {
+    if (sr === null) {
       $("#firearm_suicides").text("N/A");
     } else {
       $("#firearm_suicides").text(sr);
     }
 
-    if ($.isNumeric(hr)) {
-      $("#firearm_homicides").text(hr + "%");
-    } else if (hr === null) {
+    if (hr === null) {
       $("#firearm_homicides").text("N/A");
     } else {
       $("#firearm_homicides").text(hr);
