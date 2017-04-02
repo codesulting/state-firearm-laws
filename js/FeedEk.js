@@ -42,7 +42,7 @@
 
           else {
             s += '<div class="panel panel-default">';
-            s += '<div class="itemTitle panel-heading" id="News' + tmpCount + '"><a href="' + itm.channel.item.link + '" >' + itm.channel.item.title + '</a></div>';
+            s += '<div class="itemTitle panel-heading" id="News' + tmpCount + '"><a href="' + itm.channel.item.link + '">' + itm.channel.item.title + '</a></div>';
             tmpCount++;
           }
 
@@ -68,7 +68,9 @@
           if (def.ShowDesc) {
             s += '<div class="itemContent">';
             if (def.DescCharacterLimit > 0 && itm.channel.item.description.length > def.DescCharacterLimit) {
-              s += itm.channel.item.description.substring(0, def.DescCharacterLimit) + '...';
+              var substr = itm.channel.item.description.substring(0, def.DescCharacterLimit);
+              console.log(substr);
+              s += '<p>' + substr + '...</p>';
             }
             else {
               s += itm.channel.item.description;
