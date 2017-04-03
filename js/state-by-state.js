@@ -56,6 +56,8 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
 });
 
+
+
 // resets page based on state selected
 // updates icons, titles, and labels
 function displayState(stateSelected, stateData, defaultYear) {
@@ -81,6 +83,7 @@ function displayState(stateSelected, stateData, defaultYear) {
     }
   }
 }
+
 
 // changes divs to show new suicide, homicide rates and gun law numbers
 function displayRates(stateData, year) {
@@ -109,6 +112,8 @@ function displayRates(stateData, year) {
   $("#year_label").text(year);
   updateHistoryTable(year);
 }
+
+
 
 // takes info from <state>.json and creates a full table of all statutes for that state
 // table is hidden on initialization
@@ -147,6 +152,8 @@ function createHistoryTable(stateData) {
   historyList.sort("provision", {order: "asc"});
 
 }
+
+
 
 // on change of year via range input, will update gun law history table
 function updateHistoryTable(year) {

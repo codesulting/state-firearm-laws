@@ -36,13 +36,15 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   initialColumns.unshift("state", "year");
   initialColumns.push("intimatetotal", "lawtotal");
 
-  $('#raw_data_empty').css("display", "none");
+  $('#no_data_warning').css("display", "none");
 
   // will be changed based on update button
   var statesDisplayed = states;
   var yearsDisplayed = years;
   var provisionsDisplayed = provisions;
   initializeTable(initialColumns, rawDataRows);
+
+  hideTableWarning();
 
 
   // generate buttons for downloading complete dataset (ie complete table)
@@ -110,8 +112,9 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
       // update subcategory menu on dropdown
 
       // prevents provision menu event from being triggered immediately by another menu event
-      if ($('#provision_menu').val().length !== $('#provision_menu > option').length) {
+      if ($('#provision_menu').val() === null || $('#provision_menu').val().length !== $('#provision_menu > option').length) {
         triggerMenuChangesAlt(obj["maps"]["provmap"]);
+        showTableWarning();
       }
 
     });
@@ -121,6 +124,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
       // update subcategory and provision menus
       if ($('#category_menu').val() === null || $('#category_menu').val().length !== $('#category_menu > option').length) {
         triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
+        showTableWarning();
       }
 
     });
@@ -131,7 +135,11 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
       if ($('#subcategory_menu').val() === null || $('#subcategory_menu').val().length !== $('#subcategory_menu > option').length) {
         triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
+
+        showTableWarning();
       }
+
+
     });
 
   // event for updating table
@@ -143,6 +151,8 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     provisionsDisplayed = $('#provision_menu').val();
 
 
+    hideTableWarning();
+
     if (statesDisplayed === null || yearsDisplayed === null || provisionsDisplayed === null) {
       updateTable(rawDataRows, [], [], [], false);
     }
@@ -151,6 +161,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
       provisionsDisplayed.sort();
     }
 
+
     updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
     if ($('#csv_button').prop('disabled')) {
@@ -158,7 +169,6 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
       $('#txt_button').prop('disabled', false);
       $('#xls_button').prop('disabled', false);
     }
-
 
   });
 
@@ -169,6 +179,13 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     updateMenu(provisions, "#provision_menu");
     $("#state_menu").selectpicker('selectAll');
     $("#year_menu").selectpicker('selectAll');
+
+    hideTableWarning();
+
+    statesDisplayed = $('#state_menu').val();
+    yearsDisplayed = $('#year_menu').val();
+    provisionsDisplayed = $('#provision_menu').val();
+    updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
   });
 
@@ -246,15 +263,16 @@ function filterRows(rows, stateValues, yearValues) {
 
 function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   // if user has not chosen states or years or provisions, table should be empty
-  if ((statesChosen.length === 0 || yearsChosen.length === 0 || provisionsChosen.length === 0)) {
-    $('#raw_data_empty').css("display", "block");
+  if ((statesChosen === null || yearsChosen === null || provisionsChosen === null ||
+    statesChosen.length === 0 || yearsChosen.length === 0 || provisionsChosen.length === 0)) {
+    $('#no_data_warning').css("display", "block");
     $('#raw_data_table_placeholder').css("display", "none");
     $('#csv_button').prop('disabled', true);
     $('#txt_button').prop('disabled', true);
     $('#xls_button').prop('disabled', true);
 
   } else {
-    $('#raw_data_empty').css("display", "none");
+    $('#no_data_warning').css("display", "none");
     $('#raw_data_table_placeholder').css("display", "block");
     $('#csv_button').prop('disabled', false);
     $('#txt_button').prop('disabled', false);
@@ -454,6 +472,22 @@ function updateMenu(updatedList, dropdownID) {
   $(dropdownID).selectpicker('refresh');
   $(dropdownID).selectpicker('selectAll');
 
+}
+
+
+// hide/show error box indicating user should update table
+function showTableWarning() {
+  $('#raw_data_table_placeholder').css('border-style', 'dashed');
+  $('#raw_data_table_placeholder').css('border-width', '5px 5px 5px 5px');
+  $('#raw_data_table_placeholder').css('border-color', '#d9534f');
+  $('#no_update_warning').css('display', '');
+  $('#update_button').addClass('btn-danger').removeClass('btn-default');
+}
+
+function hideTableWarning() {
+  $('#raw_data_table_placeholder').css('border-style', 'none');
+  $('#no_update_warning').css('display', 'none');
+  $('#update_button').addClass('btn-default').removeClass('btn-danger');
 }
 
 
