@@ -12,12 +12,14 @@
   width:100%;
 }
 
-#yearSlider .slider-selection {
-
+#year_slider .slider-selection {
+  background:none;
+  background-image:none;
 }
 
-#yearSlider .slider-handle {
-  background: #0275d8;
+#year_slider .slider-handle {
+  background: #428bca;
+  background-image: none;
 }
 
 /* dropdown menu of states */

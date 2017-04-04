@@ -23,8 +23,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var subcategories = obj["subcategories"];
   var provisions = obj["provisions"];
 
+
   // set up menus and table
   // returns reference to list objects that control menu display
+
+  hideTableWarning();
+  $('#no_data_warning').css("display", "none");
   initializeMenu(states, "State", "state_menu");
   initializeMenu(years, "Year", "year_menu");
   initializeMenu(categories, "Category", "category_menu");
@@ -36,16 +40,11 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   initialColumns.unshift("state", "year");
   initialColumns.push("intimatetotal", "lawtotal");
 
-  $('#no_data_warning').css("display", "none");
-
   // will be changed based on update button
   var statesDisplayed = states;
   var yearsDisplayed = years;
   var provisionsDisplayed = provisions;
   initializeTable(initialColumns, rawDataRows);
-
-  hideTableWarning();
-
 
   // generate buttons for downloading complete dataset (ie complete table)
   $('#csv_complete_button').click(function () {

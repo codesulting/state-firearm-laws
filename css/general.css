@@ -1,4 +1,5 @@
 /* font of links in menus at top of page */
+
 .nav-link {
   font-size:large;
 }
@@ -18,5 +19,10 @@ a.dropdown-toggle {
 }
 
 .footer-text {
-  padding: 10px 0;
+  padding: 40px 10px;
+  font-family: 'Libre Franklin', san-serif;
+}
+
+.footer {
+  background-color:#f3f3f3;
 }
