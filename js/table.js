@@ -37,7 +37,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   var initialColumns = provisions.slice();
   initialColumns.sort();
-  initialColumns.unshift("state", "year");
+  initialColumns.unshift("state", "year"); // always comes first in list
   initialColumns.push("lawtotal");
 
   // will be changed based on update button
@@ -70,7 +70,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    newColumns = newColumns.concat(["lawsubtotal"]);
+    // show lawtotal if complete table is being shown
+    if (newColumns.length === initialColumns.length - 1) {
+      newColumns = newColumns.concat(["lawtotal"]);
+    } else {
+      newColumns = newColumns.concat(["lawsubtotal"]);
+    }
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -81,7 +86,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#txt_button').click(function () {
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    newColumns = newColumns.concat(["lawsubtotal"]);
+    // show lawtotal if complete table is being shown
+    if (newColumns.length === initialColumns.length - 1) {
+      newColumns = newColumns.concat(["lawtotal"]);
+    } else {
+      newColumns = newColumns.concat(["lawsubtotal"]);
+    }
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -91,7 +101,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#xls_button').click(function () {
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    newColumns = newColumns.concat(["lawsubtotal"]);
+    // show lawtotal if complete table is being shown
+    if (newColumns.length === initialColumns.length - 1) {
+      newColumns = newColumns.concat(["lawtotal"]);
+    } else {
+      newColumns = newColumns.concat(["lawsubtotal"]);
+    }
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -559,8 +574,19 @@ function generateArray(columns, rows) {
   arr.push(columns);
   for (var i = 0; i < rows.length; i++) {
     var arrRow = [];
+    var total = 0;
     for (var j = 0; j < columns.length; j++) {
-      arrRow.push(rows[i][columns[j]]);
+      if (columns[j] === "lawtotal" || columns[j] === "lawsubtotal") {
+        arrRow.push(total);
+      } else {
+        arrRow.push(rows[i][columns[j]]);
+      }
+
+      // to calculate total laws per row
+      if (Number(rows[i][columns[j]]) === 1) {
+        total += 1;
+      }
+
     }
     arr.push(arrRow);
   }
