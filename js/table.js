@@ -38,7 +38,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var initialColumns = provisions.slice();
   initialColumns.sort();
   initialColumns.unshift("state", "year");
-  initialColumns.push("intimatetotal", "lawtotal");
+  initialColumns.push("lawtotal");
 
   // will be changed based on update button
   var statesDisplayed = states;
@@ -70,7 +70,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+    newColumns = newColumns.concat(["lawsubtotal"]);
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -81,7 +81,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#txt_button').click(function () {
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+    newColumns = newColumns.concat(["lawsubtotal"]);
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -91,7 +91,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#xls_button').click(function () {
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+    newColumns = newColumns.concat(["lawsubtotal"]);
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -207,8 +207,17 @@ function createTableContent(columns, rows) {
     var rowData = rows[i];
     var row = ""
     row += "<tr>";
+    var lawSubtotal = 0;
     for (var j = 0; j < columns.length; j++) {
-      row += "<td>" + rowData[columns[j]] + "</td>";
+      if (columns[j] === "lawsubtotal" || columns[j] === "lawtotal") {
+        row += "<td>" + lawSubtotal + "</td>";
+      } else {
+        row += "<td>" + rowData[columns[j]] + "</td>";
+      }
+
+      if (Number(rowData[columns[j]]) === 1) {
+        lawSubtotal += 1;
+      }
     }
     row += "</tr>";
     tableContent.push(row);
@@ -229,6 +238,8 @@ function initializeTable(columns, rows) {
 
   $('#raw_data_table_placeholder').append(header.join(""));
 
+  // create clusterize table temp
+
 
   var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered table-hover table-responsive"><thead id="hiddenScrollHeader">';
   for (var i = 0; i < columns.length; i++) {
@@ -236,6 +247,8 @@ function initializeTable(columns, rows) {
   }
   loadingString += '</thead><tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
   $('#raw_data_table_placeholder').append(loadingString);
+
+  // create actual table and populate
 
   var tableContent = createTableContent(columns, rows);
 
@@ -281,7 +294,7 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   var header = ["<thead><tr>"];
   var oldColumns = ["state", "year"];
   var newColumns = oldColumns.concat(provisionsChosen);
-  newColumns = newColumns.concat(["intimatetotal", "lawtotal"]);
+  newColumns = newColumns.concat(["lawsubtotal"]);
   for (var i = 0; i < newColumns.length; i++) {
     header.push("<th data-toggle='tooltip' title='" + newColumns[i] + "'>" + newColumns[i] + "</th>");
   }

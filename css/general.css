@@ -10,13 +10,7 @@ a.dropdown-toggle {
   font-size:large;
 }
 
-/* social media buttons */
-
-.social-toolbar {
-  right:0px;
-  position:absolute;
-  /*padding: 10px 0;*/
-}
+/* footers for all pages */
 
 .footer-text {
   padding: 40px 10px;
@@ -25,4 +19,5 @@ a.dropdown-toggle {
 
 .footer {
   background-color:#f3f3f3;
+  margin-top:50px;
 }

@@ -72,7 +72,6 @@
             s += '<div class="itemContent">';
             if (def.DescCharacterLimit > 0 && itm.channel.item.description.length > def.DescCharacterLimit) {
               var substr = itm.channel.item.description.substring(0, def.DescCharacterLimit);
-              console.log(substr);
               s += '<p>' + substr + '...</p>';
             }
             else {
