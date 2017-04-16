@@ -3,6 +3,10 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var rawDataColumns = obj["columns"];
   var rawDataRows = obj["rows"];
 
+  // option to update table automatically or not
+  $('#autoupdate').attr("checked", "true");
+  var isAutoUpdated = true; // assumes true by default
+
   // data for dropdowns
   var statesObj = obj["states"];
   var states = [];
@@ -45,6 +49,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var yearsDisplayed = years;
   var provisionsDisplayed = provisions;
   initializeTable(initialColumns, rawDataRows);
+
+
+  // change in whether page should be automaticaly updated
+  $('#autoupdate').change(function () {
+    isAutoUpdated = $('#autoupdate').prop("checked");
+  })
 
   // generate buttons for downloading complete dataset (ie complete table)
   $('#csv_complete_button').click(function () {
@@ -111,6 +121,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     var data = generateArray(newColumns, newRows);
 
     XLSOutput(data);
+
   });
 
 
@@ -122,12 +133,16 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
    * and any changes to the subcategories menu changes the provisions menu
    * */
   $('#provision_menu').on('change',
-    function (event, clickedIndex, newValue, oldValue) {
-      // update subcategory menu on dropdown
+    function (event, clickedIndex, newValue, oldValue, flag) {
 
-      // prevents provision menu event from being triggered immediately by another menu event
-      if ($('#provision_menu').val() === null || $('#provision_menu').val().length !== $('#provision_menu > option').length) {
-        triggerMenuChangesAlt(obj["maps"]["provmap"]);
+
+      if (isAutoUpdated) {
+        statesDisplayed = $('#state_menu').val();
+        yearsDisplayed = $('#year_menu').val();
+        provisionsDisplayed = $('#provision_menu').val();
+
+        updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+      } else {
         showTableWarning();
       }
 
@@ -135,9 +150,17 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   $('#category_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
-      // update subcategory and provision menus
-      if ($('#category_menu').val() === null || $('#category_menu').val().length !== $('#category_menu > option').length) {
-        triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
+
+      // update subcategory and provisions dropdowns
+      triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
+
+      if (isAutoUpdated) {
+        statesDisplayed = $('#state_menu').val();
+        yearsDisplayed = $('#year_menu').val();
+        provisionsDisplayed = $('#provision_menu').val();
+
+        updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+      } else {
         showTableWarning();
       }
 
@@ -147,9 +170,16 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     function (event, clickedIndex, newValue, oldValue) {
       // update provision menu
 
-      if ($('#subcategory_menu').val() === null || $('#subcategory_menu').val().length !== $('#subcategory_menu > option').length) {
-        triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
+      triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
 
+
+      if (isAutoUpdated) {
+        statesDisplayed = $('#state_menu').val();
+        yearsDisplayed = $('#year_menu').val();
+        provisionsDisplayed = $('#provision_menu').val();
+
+        updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+      } else {
         showTableWarning();
       }
 
@@ -164,25 +194,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     yearsDisplayed = $('#year_menu').val();
     provisionsDisplayed = $('#provision_menu').val();
 
-
-    hideTableWarning();
-
-    if (statesDisplayed === null || yearsDisplayed === null || provisionsDisplayed === null) {
-      updateTable(rawDataRows, [], [], [], false);
-    }
-
-    if (provisionsDisplayed !== null) {
-      provisionsDisplayed.sort();
-    }
-
-
-    updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-
-    if ($('#csv_button').prop('disabled')) {
-      $('#csv_button').prop('disabled', false);
-      $('#txt_button').prop('disabled', false);
-      $('#xls_button').prop('disabled', false);
-    }
+    updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
   });
 
@@ -206,6 +218,29 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
 });
 
+
+// update table and disable buttons
+function updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed) {
+
+  hideTableWarning();
+
+  if (statesDisplayed === null || yearsDisplayed === null || provisionsDisplayed === null) {
+    updateTable(rawDataRows, [], [], [], false);
+  }
+
+  if (provisionsDisplayed !== null) {
+    provisionsDisplayed.sort();
+  }
+
+
+  updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+
+  if ($('#csv_button').prop('disabled')) {
+    $('#csv_button').prop('disabled', false);
+    $('#txt_button').prop('disabled', false);
+    $('#xls_button').prop('disabled', false);
+  }
+}
 
 /*
  * table-related functions
@@ -459,30 +494,6 @@ function triggerMenusChanges(initialMenuID, otherMenus, map) {
 
 }
 
-// based on provisions selected, updates subcategory menu
-function triggerMenuChangesAlt(map) {
-  // get current list of provisions
-  var provisionsSelected = $('#provision_menu').val();
-
-  if (provisionsSelected !== null) {
-    var updatedSubcategories = [];
-
-    // collect all subcategories that are included with the provisions
-    // based on mappings from raw-data.json
-
-    for (var i = 0; i < provisionsSelected.length; i++) {
-      updatedSubcategories.push(map[provisionsSelected[i]]["subcategory"]);
-    }
-
-    // deduplicate list
-    updatedSubcategories = _.uniq(updatedSubcategories);
-
-    // then update menu
-    updateMenu(updatedSubcategories, "#subcategory_menu");
-  } else {
-    updateMenu([], "#subcategory_menu");
-  }
-}
 
 // function that updates a dropdown menu with new list of entries
 function updateMenu(updatedList, dropdownID) {
