@@ -51,9 +51,17 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   initializeTable(initialColumns, rawDataRows);
 
 
-  // change in whether page should be automaticaly updated
+  // change in whether page should be automatically updated
   $('#autoupdate').change(function () {
     isAutoUpdated = $('#autoupdate').prop("checked");
+    // if ticked, will automatically update immediately
+    if (isAutoUpdated) {
+      statesDisplayed = $('#state_menu').val();
+      yearsDisplayed = $('#year_menu').val();
+      provisionsDisplayed = $('#provision_menu').val();
+
+      updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+    }
   })
 
   // generate buttons for downloading complete dataset (ie complete table)
@@ -126,14 +134,39 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
 
   /*
-   * 3 change events for the menus
+   * change events for the menus
    * Follows the behavior of Tableau-implemented version of the table
    * where any changes to the provision menu only change the subcategories menu;
    * any changes to the categories menu  changes both the provisions and subcategories
    * and any changes to the subcategories menu changes the provisions menu
    * */
+
+  $('#state_menu').on('change', function(event, clickedINdex, newValue, oldValue) {
+    if (isAutoUpdated) {
+      statesDisplayed = $('#state_menu').val();
+      yearsDisplayed = $('#year_menu').val();
+      provisionsDisplayed = $('#provision_menu').val();
+
+      updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+    } else {
+      showTableWarning();
+    }
+  });
+
+  $('#year_menu').on('change', function(event, clickedINdex, newValue, oldValue) {
+    if (isAutoUpdated) {
+      statesDisplayed = $('#state_menu').val();
+      yearsDisplayed = $('#year_menu').val();
+      provisionsDisplayed = $('#provision_menu').val();
+
+      updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+    } else {
+      showTableWarning();
+    }
+  });
+
   $('#provision_menu').on('change',
-    function (event, clickedIndex, newValue, oldValue, flag) {
+    function (event, clickedIndex, newValue, oldValue) {
 
 
       if (isAutoUpdated) {
@@ -200,6 +233,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   // resets menus
   $('#reset_button').on('click', function () {
+    // leads to lag if on autoupdate
     updateMenu(categories, "#category_menu");
     updateMenu(subcategories, "#subcategory_menu");
     updateMenu(provisions, "#provision_menu");
