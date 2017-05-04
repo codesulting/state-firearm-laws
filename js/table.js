@@ -27,6 +27,8 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var subcategories = obj["subcategories"];
   var provisions = obj["provisions"];
 
+  var isInReset = false;
+
 
   // set up menus and table
   // returns reference to list objects that control menu display
@@ -174,7 +176,9 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
         yearsDisplayed = $('#year_menu').val();
         provisionsDisplayed = $('#provision_menu').val();
 
-        updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+        if (!isInReset) {
+          updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+        }
       } else {
         showTableWarning();
       }
@@ -184,6 +188,8 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#category_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
 
+
+
       // update subcategory and provisions dropdowns
       triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
 
@@ -192,7 +198,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
         yearsDisplayed = $('#year_menu').val();
         provisionsDisplayed = $('#provision_menu').val();
 
-        updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+        // prevents table from autoupdating during reset
+        if (!isInReset) {
+          updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+        }
+
+
       } else {
         showTableWarning();
       }
@@ -211,7 +222,10 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
         yearsDisplayed = $('#year_menu').val();
         provisionsDisplayed = $('#provision_menu').val();
 
-        updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+        if (!isInReset) {
+          updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+        }
+
       } else {
         showTableWarning();
       }
@@ -233,6 +247,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   // resets menus
   $('#reset_button').on('click', function () {
+    isInReset = true;
     // leads to lag if on autoupdate
     updateMenu(categories, "#category_menu");
     updateMenu(subcategories, "#subcategory_menu");
@@ -246,6 +261,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     yearsDisplayed = $('#year_menu').val();
     provisionsDisplayed = $('#provision_menu').val();
     updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+    isInReset = false;
 
   });
 
