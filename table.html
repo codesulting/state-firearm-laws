@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Required meta tags always come first -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Bootstrap Select CSS -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
+
+  <!-- Clusterize JS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.17.6/clusterize.min.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/general.css">
+  <link rel="stylesheet" href="css/table.css">
+
+  <title>State Firearm Laws - Visualization and Dataset Download - Table</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default">
+
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+            data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="index.html">State Firearm Laws</a>
+  </div>
+
+  <ul class="nav navbar-nav">
+    <li>
+      <a class="nav-link" href="index.html">Home </a>
+    </li>
+    <li>
+      <a class="nav-link" href="about.html">About Us </a>
+    </li>
+    <li>
+      <a class="nav-link" href="categories.html">About the Categories</a>
+    </li>
+    <li class="dropdown active">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+         aria-expanded="false">Law Data <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="law-data.html">Visualization and Dataset Download</a></li>
+        <li><a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a></li>
+        <li><a class="dropdown-item" href="#" target="_blank">Read the Manuscript</a></li>
+        <li><a class="dropdown-item" href="#">Read the Report</a></li>
+      </ul>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="state-by-state.html">
+        State-By-State
+      </a>
+    </li>
+    <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+         aria-expanded="false">Research <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="news.html">Policy in the News</a></li>
+        <li><a class="dropdown-item" href="publications.html">Recent Publications</a></li>
+        <li><a class="dropdown-item" href="work.html">Our Work</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+<div class="container">
+  <h4>
+    Click on the Map tab to visualize the trends in gun laws through the years. Click on the Table tab to
+    access and download the dataset.
+  </h4>
+</div>
+
+<ul class="nav nav-tabs">
+  <li role="presentation">
+    <a href="law-data.html" aria-controls="map">Map</a>
+  </li>
+  <li role="presentation" class="active">
+    <a href="" aria-controls="table">Table</a>
+  </li>
+</ul>
+
+
+<div class="container">
+
+  <div class="row">
+    <h2> State Laws By Year</h2>
+
+    <p> Download the full dataset of state gun laws by year, or use the filters at the left to download a subset
+      of the data. If you are using an older browser and experience difficulty downloading the dataset, download the
+      dataset
+      <a href="download.html">here</a>. </p>
+    <p> Mouse over each column to see the full column name. For the definitions of the codes/column names in the table
+      below, please use the <a href="glossary.html" target="_blank"> Database Glossary Search Tool</a>.</p>
+
+  </div>
+
+
+  <div class="row">
+    <div class="col-xs-4">
+      <div class="row">
+        <!-- filter options State, year, category, subcategory, provision -->
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><span class="glyphicon glyphicon-filter"></span> Filters</h3>
+          </div>
+          <div class="panel-body">
+            <h4>State</h4>
+            <div class="dropdown" id="state_menu_placeholder">
+            </div>
+
+            <h4>Year</h4>
+            <div class="dropdown" id="year_menu_placeholder">
+            </div>
+
+            <h4>Category</h4>
+            <div class="dropdown" id="category_menu_placeholder">
+            </div>
+
+            <h4>Subcategory</h4>
+            <div class="dropdown" id="subcategory_menu_placeholder">
+            </div>
+
+            <h4>Provision</h4>
+            <div class="dropdown" id="provision_menu_placeholder">
+            </div>
+
+            <br>
+
+           <div class="checkbox">
+              <label>
+                <input type="checkbox" id="autoupdate"> Update table automatically
+              </label>
+            </div>
+
+            <div>
+              <button type="button" class="btn btn-default btn-block" id="update_button"><span
+                class="glyphicon glyphicon-refresh"></span> Update Table
+              </button>
+            </div>
+            <br>
+            <div>
+              <button type="button" class="btn btn-default btn-block" id="reset_button"><span
+                class="glyphicon glyphicon-remove"></span> Reset Filters
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title"><span class="glyphicon glyphicon-download-alt"></span> Download Table</h3>
+          </div>
+          <div class="panel-body">
+            <p> Download filtered selection as: </p>
+            <button type="button" class="btn btn-default btn-lg" disabled="true" id="csv_button"
+                    aria-label="Download As CSV"><span
+              class="glyphicon glyphicon-save-file"></span> CSV
+            </button>
+            <button type="button" class="btn btn-default btn-lg" disabled="true" id="txt_button"
+                    aria-label="Download As TXT"><span
+              class="glyphicon glyphicon-save-file"></span>TXT
+            </button>
+            <button type="button" class="btn btn-default btn-lg" disabled="true" id="xls_button"
+                    aria-label="Download As XLS"><span
+              class="glyphicon glyphicon-save-file"></span>XLS
+            </button>
+
+            <p> Download complete dataset as:</p>
+            <button type="button" class="btn btn-default btn-lg" id="csv_complete_button"
+                    aria-label="Download As CSV"><span
+              class="glyphicon glyphicon-save-file"></span> CSV
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="txt_complete_button"
+                    aria-label="Download As TXT"><span
+              class="glyphicon glyphicon-save-file"></span>TXT
+            </button>
+            <button type="button" class="btn btn-default btn-lg" id="xls_complete_button"
+                    aria-label="Download As XLS"><span
+              class="glyphicon glyphicon-save-file"></span>XLS
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xs-8 table-area">
+      <div class="row">
+        <div id="no_data_warning">
+          <h4><i> No data selected. </i></h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="clusterize" id="raw_data_table_placeholder">
+        </div>
+      </div>
+
+      <div class="row">
+        <div id="no_update_warning">
+          <h4 class="text-danger"> Please click "Update Table" button to see changes in table.</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<footer class="footer align-middle">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-5 footer-text">
+        <b>Boston University</b> School of Public Health
+      </div>
+
+      <div class="col-xs-2">
+      </div>
+
+      <!-- social media/contact-->
+
+      <div class="col-xs-5 footer-text">
+        <p> <a href="index.html">State Firearm Laws</a> | <a href="mailto:example@example.com"> Contact Us</a> </p>
+        <p>Support for this website was provided by the <a href="http://www.rwjf.org/">Robert Wood Johnson Foundation Evidence for Action Program</a>. The views expressed here do not necessarily reflect the views of the Foundation.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<!-- Bootstrap  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+
+<!-- font awesome icons -->
+<script src="https://use.fontawesome.com/ab082df5e7.js"></script>
+
+<!-- Bootstrap Select -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
+
+<!-- clusterize js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.17.6/clusterize.min.js"></script>
+
+<!-- underscore js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+
+<!-- xlsx js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.9.0/xlsx.core.min.js"></script>
+
+<!-- FileSaver js -->
+<script src="js/FileSaver.min.js"></script>
+<script src="js/table.js"></script>
+
+</body>
+</html>

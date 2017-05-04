@@ -14,8 +14,13 @@
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
 
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+
   <link rel="stylesheet" href="css/general.css">
   <link rel="stylesheet" href="css/glossary.css">
+
+  <title>State Firearm Laws - Use the Database Glossary Search Tool</title>
+
 </head>
 
 <body>
@@ -30,7 +35,7 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand" href="index.html">Changing Gun Culture</a>
+    <a class="navbar-brand" href="index.html">State Firearm Laws</a>
   </div>
 
   <ul class="nav navbar-nav">
@@ -38,16 +43,18 @@
       <a class="nav-link" href="index.html">Home </a>
     </li>
     <li>
-      <a class="nav-link" href="about.html">About </a>
+      <a class="nav-link" href="about.html">About Us </a>
+    </li>
+    <li>
+      <a class="nav-link" href="categories.html">About the Categories</a>
     </li>
     <li class="dropdown active">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
          aria-expanded="false">Law Data <span class="caret"></span></a>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="law-data.html">National Trends</a></li>
+        <li><a class="dropdown-item" href="law-data.html">Visualization and Dataset Download</a></li>
         <li><a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a></li>
-        <li><a class="dropdown-item" href="categories.html">About the Categories</a></li>
-        <li><a class="dropdown-item" href="#">Read the Manuscript</a></li>
+        <li><a class="dropdown-item" href="#" target="_blank">Read the Manuscript</a></li>
         <li><a class="dropdown-item" href="#">Read the Report</a></li>
       </ul>
     </li>
@@ -60,83 +67,87 @@
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
          aria-expanded="false">Research <span class="caret"></span></a>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#">Policy in the News</a></li>
-        <li><a class="dropdown-item" href="#">Recent Publications</a></li>
-        <li><a class="dropdown-item" href="#">Our Work</a></li>
+        <li><a class="dropdown-item" href="news.html">Policy in the News</a></li>
+        <li><a class="dropdown-item" href="publications.html">Recent Publications</a></li>
+        <li><a class="dropdown-item" href="work.html">Our Work</a></li>
       </ul>
     </li>
   </ul>
 
 </nav>
 
-<div class="container mt-1 mb-1">
+<div class="container">
+
   <div class="row">
     <h2> Glossary</h2>
   </div>
 
-</div>
-
-<div id="glossary_table">
-  <div class="container">
-
-    <!-- glossary search bar -->
-    <div class="row mt-1 mb-1">
-      <div class="col-sm-8">
-        <div class="input-group input-group-lg">
-          <span class="input-group-addon" id="basic-addon1"><i class="fa fa-search" aria-hidden="true"></i> </span>
-          <input class="search form-control" placeholder="Search" aria-describedby="basic-addon1" id="glossary_search">
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <button class="btn btn-primary" id="reset_search">
-          <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
-          Clear Search
-        </button>
-      </div>
-    </div>
-
-    <!-- glossary filters -->
-    <div class="row well">
-      <div class="col-sm-4">
-        <h4>Narrow by</h4>
-      </div>
-      <div class="col-sm-4">
-        <div class="dropdown" id="category_menu_placeholder">
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="dropdown" id="subcategory_menu_placeholder">
-        </div>
-      </div>
-    </div>
-
-    <!-- glossary table gets appended -->
+  <div class="row">
+    This glossary allows you to look up the various codes used in the dataset (which you can access on the <a
+    href="table.html">Visualization and Dataset</a> page) and see their definition and appropriate
+    category/subcategory. Type in a code or keyword below and use the category and subcategory dropdown menus as needed.
+    See <a href="categories.html">About the Categories</a> for details about the categories.
   </div>
+
+  <!-- glossary search bar -->
+  <div class="row mt-1 mb-1 spacing">
+    <div class="col-sm-8">
+      <div class="input-group input-group-lg">
+        <span class="input-group-addon" id="basic-addon1"><i class="fa fa-search" aria-hidden="true"></i> </span>
+        <input class="search form-control" placeholder="Search" aria-describedby="basic-addon1" id="glossary_search">
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <button class="btn btn-primary" id="reset_search">
+        <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+        Clear Search
+      </button>
+    </div>
+  </div>
+
+  <!-- glossary filters -->
+  <div class="row well">
+    <div class="col-sm-4">
+      <h4>Narrow by</h4>
+    </div>
+    <div class="col-sm-4">
+      <div class="dropdown" id="category_menu_placeholder">
+      </div>
+    </div>
+
+    <div class="col-sm-4">
+      <div class="dropdown" id="subcategory_menu_placeholder">
+      </div>
+    </div>
+  </div>
+
+  <!-- section with padding for table -->
+
+  <div class="row">
+    <div class="col-sm-2">
+
+    </div>
+    <div class="col-sm-8">
+      <div id="glossary_table">
+      </div>
+      <!-- glossary table gets appended -->
+    </div>
+    <div class="col-sm-4">
+    </div>
+
+  </div>
+
 </div>
 
-
-<hr>
 
 <footer class="footer align-middle">
   <div class="container">
     <div class="row">
-      <div class="col-xs-4">
-        <p>Boston University</p>
-      </div>
-
-      <!-- social media/contact-->
-
-      <div class="col-xs-5"></div>
-      <div class="col-xs-1">
-        <a href="https://www.facebook.com/busph"><i class="fa fa-facebook fa-lg"></i> </a>
-      </div>
-      <div class="col-xs-1">
-        <a href="mailto:example@example.com"><i class="fa fa-envelope fa-lg"></i> </a>
-      </div>
-      <div class="col-xs-1">
-        <a href="https://twitter.com/BUSPH"><i class="fa fa-twitter fa-lg"></i> </a>
-      </div>
+      <div class="col-xs-5 footer-text"><b>Boston University</b> School of Public Health</div>
+      <div class="col-xs-2"></div>      <!-- social media/contact-->
+      <div class="col-xs-5 footer-text"><p><a href="index.html">State Firearm Laws</a> | <a
+        href="mailto:example@example.com"> Contact Us</a></p>
+        <p>Support for this website was provided by the <a href="http://www.rwjf.org/">Robert Wood Johnson Foundation Evidence for Action Program</a>. The views expressed here do not necessarily reflect the views of the Foundation.</p></div>
     </div>
   </div>
 </footer>

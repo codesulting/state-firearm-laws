@@ -1,16 +1,67 @@
+'''
+
+*** note: the term "provision" and "variable" are used interchangeably
+
+glossary_conversion()
+
+uses:
+- codebook.csv
+
+modifies/creates:
+- glossary.json, to be used with glossary.html to show table of variables and corresponding definitions
+- raw_data_table.json, to be used with table.html to show overall table of data for download
+_____
+
+history_conversion()
+
+uses:
+- current-repealed-list.csv
+
+modifies/creates:
+- history/<state-name>.json files, to be used with state-by-state.html
+_________
+
+rates_conversion()
+
+uses:
+- state-rates.csv
+
+modifies/creates
+- history/<state-name>.json files, to be used with state-by-state.html
+_________
+
+raw_data_conversion()
+
+uses:
+- states-list.json
+- firearms.database.csv (columns for state, year, and each variable)
+
+modifies/creates:
+- raw-data.json
+
+
+'''
+
 import json, csv
 import sys, os
 
 
-# for converting codebook file to glossary
+# for converting codebook file to glossary, as well as adding variable data to raw_data table
 def glossary_conversion(csvreader):
+    cwd = os.getcwd()
     rows_arr = []
     categories = set()
     subcategories = set()
+    prov_list = []
     exported_headers = ["code", "category", "subcategory", "description", "variable"]
-    exported = dict()
+
     for row in csvreader:
         entry = {e: row[e] for e in exported_headers}
+        entry2 = dict()
+        entry2["category"] = row["category"]
+        entry2["variable"] = row["variable"]
+        prov_list += [row["variable"]]
+        entry2["subcategory"] = row["subcategory"]
         # each row in table as a dictionary
         rows_arr.append(entry)
 
@@ -19,8 +70,46 @@ def glossary_conversion(csvreader):
 
     exported = {"rows": rows_arr, "categories": list(categories), "subcategories": list(subcategories)}
 
-    with open("out.json", "w") as outfile:
+    # create mappings of categories -> provisions, subcategories -> provisions, and vice versa
+    # to be used in filters
+
+    cat_map = dict() # maps cat to prov and subcat
+    subcat_map = dict() # maps subcat to prov and cat
+    prov_map = dict() # maps prov to subcat and cat
+
+    for row in rows_arr:
+        subcat = row["subcategory"]
+        cat = row["category"]
+        prov = row["variable"]
+        prov_map[prov] = {"subcategory": subcat, "category": cat}
+        if cat not in cat_map:
+            cat_map[cat] = {"subcategories": {subcat}, "provisions": {prov}}
+        else:
+            cat_map[cat]["subcategories"] = cat_map[cat]["subcategories"] | {subcat}
+            cat_map[cat]["provisions"] = cat_map[cat]["provisions"] | {prov}
+        if subcat not in subcat_map:
+            subcat_map[subcat] = {"categories": {cat}, "provisions": {prov}}
+        else:
+            subcat_map[subcat]["categories"] = subcat_map[subcat]["categories"] | {cat}
+            subcat_map[subcat]["provisions"] = subcat_map[subcat]["provisions"] | {prov}
+
+    cat_map = convert_map(cat_map, ["subcategories", "provisions"])
+    subcat_map = convert_map(subcat_map, ["categories", "provisions"])
+
+    # export glossary file
+    with open(os.path.join("js", "glossary.json"), "w") as outfile:
         json.dump(exported, outfile, sort_keys=True, indent=4)
+    # add to raw-data-table file
+    with open(os.path.join(cwd, "js", "raw-data.json"),'w') as outfile2:
+        exported = {"provisions": prov_list, "maps": {"categorymap": cat_map, "subcategorymap": subcat_map, "provmap": prov_map}, "categories": list(categories), "subcategories": list(subcategories)}
+        json.dump(exported, outfile2, sort_keys=True, indent=4)
+
+
+def convert_map(map, labels):
+    for entry in map:
+        for label in labels:
+            map[entry][label] = list(map[entry][label])
+    return map
 
 
 # for converting current/repealed list to a state-based json file
@@ -56,11 +145,13 @@ def history_conversion(csvreader):
 
     # create output json file for each state
     for state in states_list:
-        with open(state + ".json", "w") as outfile:
+        with open(os.path.join("js", "history", state + ".json"), "w") as outfile:
             json.dump({"data": states_dict[state]}, outfile, sort_keys=True, indent=4)
 
 
+
 # converts csv with homicide, suicide rates
+# rates_conversion must be run after history conversion
 def rates_conversion(csvreader):
     # get list of files
     cwd = os.getcwd()
@@ -78,14 +169,15 @@ def rates_conversion(csvreader):
         if row["state"] not in rates_states_dict:
             rates_states_dict[row["state"]] = dict()
         # gather relevant info from row
-        rates_states_dict[row["state"]][row["year"]] = [{"suicide_rate": row["suicide"]}, {"homicide_rate": row["homicide"]}]
+        rates_states_dict[row["state"]][row["year"]] = [{"suicide_rate": row["suicide"]},
+                                                        {"homicide_rate": row["homicide"]}]
 
         # then merge with json files
     for state_file in json_files:
         with open(os.path.join(cwd, "js/history", state_file), 'r') as current_state_dict:
             current_state_dict = json.load(current_state_dict)
-            state = state_file[:-5] # name of state
-            years = list(rates_states_dict[state].keys())   # valid year entries for given state
+            state = state_file[:-5]  # name of state
+            years = list(rates_states_dict[state].keys())  # valid year entries for given state
             for y in years:
                 # merge entries by year for a given state
                 current_state_dict["data"][y] = current_state_dict["data"][y] + rates_states_dict[state][y]
@@ -96,14 +188,47 @@ def rates_conversion(csvreader):
 
 
 
-# with open(sys.argv[1], 'r') as csvfile:
-#  csvreader = csv.DictReader(csvfile)
-#  glossary_conversion(csvreader)
+# converts raw data table (csv format) to json
+def raw_data_conversion(csvreader):
+    exported = dict()
+    exported["columns"] = list(csvreader.fieldnames)
+    exported["rows"] = []
+    for row in csvreader:
+        exported["rows"].append({i: row[i] for i in exported["columns"]})
 
-# with open(sys.argv[2], 'r') as csvfile2:
-#  csvreader = csv.DictReader(csvfile2)
-#  history_conversion(csvreader)
+    year_range = {r["year"] for r in exported["rows"]}
+    exported["yearbounds"] = [min(year_range), max(year_range)]
+
+    cwd = os.getcwd()
+
+    # add existing raw_data info
+    with open(os.path.join(cwd, "js", "raw-data.json"), "r") as inputfile:
+        raw_data = json.load(inputfile)
+        raw_data_export = raw_data.copy()
+        raw_data_export.update(exported)
+
+        # add list of states to raw data
+        with open(os.path.join(cwd, "js", "states-list.json"), "r") as inputfile2:
+            states_list = json.load(inputfile2)
+            raw_data_export.update(states_list)
+
+        # update json file
+        with open( os.path.join("js", "raw-data.json"), "w") as outfile:
+            json.dump(raw_data_export, outfile, sort_keys=True, indent=4)
+
+
+with open(sys.argv[1], 'r') as csvfile:
+    csvreader = csv.DictReader(csvfile)
+    glossary_conversion(csvreader)
+
+with open(sys.argv[2], 'r') as csvfile2:
+    csvreader = csv.DictReader(csvfile2)
+    history_conversion(csvreader)
 
 with open(sys.argv[3], 'r') as csvfile3:
     csvreader = csv.DictReader(csvfile3)
     rates_conversion(csvreader)
+
+with open(sys.argv[4], 'r') as csvfile4:
+    csvreader = csv.DictReader(csvfile4)
+    raw_data_conversion(csvreader)

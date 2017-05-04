@@ -1,0 +1,30 @@
+.clusterize-scroll{
+  max-height: 500px;
+  overflow: auto;
+}
+
+td {
+  white-space: nowrap;
+}
+
+.clusterize-headers {
+  overflow: hidden;
+}
+
+.clusterize thead th {
+  width: 140px;
+  overflow:hidden;
+}
+
+.clusterize td {
+  width: 140px;
+}
+
+.table {
+  table-layout: fixed;
+  width: 550px;
+}
+
+.table-area {
+  padding-left:30px;
+}

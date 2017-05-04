@@ -1,12 +1,23 @@
-/*.footer {*/
-  /*text-align:center*/
-/*}*/
+/* font of links in menus at top of page */
+
+.nav-link {
+  font-size:large;
+}
 
 
+/* font of links in menus at top of page */
+a.dropdown-toggle {
+  font-size:large;
+}
 
-thead, tbody { display: block; }
+/* footers for all pages */
 
-tbody {
-  height: 200px;       /*  fixed height     */
-  overflow-y: auto;    /* Trigger vertical scroll    */
+.footer-text {
+  padding: 40px 10px;
+  font-family: 'Libre Franklin', san-serif;
+}
+
+.footer {
+  background-color:#f3f3f3;
+  margin-top:50px;
 }

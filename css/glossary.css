@@ -1,0 +1,19 @@
+thead, tbody { display: block;  overflow-x: auto; }
+
+tbody {
+  height: 200px;       /*  fixed height     */
+  overflow-y: auto;    /* Trigger vertical scroll    */
+
+}
+
+div .spacing {
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+thead th {
+  width:200px;
+}
+td {
+  width:200px;
+}
