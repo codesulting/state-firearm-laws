@@ -9,7 +9,7 @@ uses:
 
 modifies/creates:
 - glossary.json, to be used with glossary.html to show table of variables and corresponding definitions
-- raw_data_table.json, to be used with table.html to show overall table of data for download
+- raw_data.json, to be used with table.html to show overall table of data for download
 _____
 
 history_conversion()
@@ -217,18 +217,18 @@ def raw_data_conversion(csvreader):
             json.dump(raw_data_export, outfile, sort_keys=True, indent=4)
 
 
-with open(sys.argv[1], 'r') as csvfile:
-    csvreader = csv.DictReader(csvfile)
-    glossary_conversion(csvreader)
+# with open(sys.argv[1], 'r') as csvfile:
+#     csvreader = csv.DictReader(csvfile)
+#     glossary_conversion(csvreader)
 
-with open(sys.argv[2], 'r') as csvfile2:
-    csvreader = csv.DictReader(csvfile2)
-    history_conversion(csvreader)
+# with open(sys.argv[2], 'r') as csvfile2:
+#     csvreader = csv.DictReader(csvfile2)
+#     history_conversion(csvreader)
 
-with open(sys.argv[3], 'r') as csvfile3:
-    csvreader = csv.DictReader(csvfile3)
-    rates_conversion(csvreader)
+# with open(sys.argv[3], 'r') as csvfile3:
+#     csvreader = csv.DictReader(csvfile3)
+#     rates_conversion(csvreader)
 
-with open(sys.argv[4], 'r') as csvfile4:
-    csvreader = csv.DictReader(csvfile4)
-    raw_data_conversion(csvreader)
+# with open(sys.argv[4], 'r') as csvfile4:
+#     csvreader = csv.DictReader(csvfile4)
+#     raw_data_conversion(csvreader)
