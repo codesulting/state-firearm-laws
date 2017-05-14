@@ -1,23 +1,9 @@
 /* font of links in menus at top of page */
-
-.nav-link {
-  font-size:large;
-}
-
+.nav-link { font-size:large; }
 
 /* font of links in menus at top of page */
-a.dropdown-toggle {
-  font-size:large;
-}
+a.dropdown-toggle { font-size:large; }
 
 /* footers for all pages */
-
-.footer-text {
-  padding: 40px 10px;
-  font-family: 'Libre Franklin', san-serif;
-}
-
-.footer {
-  background-color:#f3f3f3;
-  margin-top:50px;
-}
+.footer-text { padding:40px 10px; font-family:'Libre Franklin',san-serif; }
+.footer { background-color:#f3f3f3; margin-top:50px; }

@@ -1,19 +1,7 @@
-thead, tbody { display: block;  overflow-x: auto; }
+thead, tbody { display:block; overflow-x:auto; }
 
-tbody {
-  height: 200px;       /*  fixed height     */
-  overflow-y: auto;    /* Trigger vertical scroll    */
+tbody { height:200px; /* Tixed height. */ overflow-y:auto; /* Trigger vertical scroll. */ }
 
-}
-
-div .spacing {
-  margin-top:10px;
-  margin-bottom:10px;
-}
-
-thead th {
-  width:200px;
-}
-td {
-  width:200px;
-}
+div .spacing { margin-top:10px; margin-bottom:10px; }
+thead th { width:200px; }
+td { width:200px; }
