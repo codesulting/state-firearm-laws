@@ -4,7 +4,6 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
   var stateData;
   var defaultYear = 2015;
 
-
   // create list of states dropdown
   var stateDropdownContent = "<select class='selectpicker' data-live-search='true' id='state_dropdown' title='Choose a state...'>";
 
@@ -17,7 +16,6 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
   $('#state_dropdown_div').append(stateDropdownContent);
 
   // initialize slider for years on state-by-state page
-
   $('#year').slider({
     formatter: function (value) {
       return value;
@@ -30,8 +28,6 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
     stateData = obj["data"];
     displayState($('#state_dropdown option:selected'), stateData, defaultYear);
   });
-
-
 
   // changes page based on chosen state
   $(document).ready(
@@ -48,15 +44,12 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
       })
   );
 
-
 // rates displayed change based on year input to slider
   $("#year").on("slideStop", function (slideEvt) {
     displayRates(stateData, slideEvt.value);
   });
 
 });
-
-
 
 // resets page based on state selected
 // updates icons, titles, and labels
@@ -69,6 +62,8 @@ function displayState(stateSelected, stateData, defaultYear) {
       //set default year on slider
       $('#year').slider('setValue', defaultYear);
 
+      // Update the state fact sheet link.
+      $('#fact-sheet-link').html('<a target="_blank" href="fact-sheet/' + usStates[i]["name"] + '.pdf">' + usStates[i]["name"] + '</a>');
 
       // create table
       createHistoryTable(stateData);
@@ -83,7 +78,6 @@ function displayState(stateSelected, stateData, defaultYear) {
     }
   }
 }
-
 
 // changes divs to show new suicide, homicide rates and gun law numbers
 function displayRates(stateData, year) {
@@ -112,8 +106,6 @@ function displayRates(stateData, year) {
   $("#year_label").text(year);
   updateHistoryTable(year);
 }
-
-
 
 // takes info from <state>.json and creates a full table of all statutes for that state
 // table is hidden on initialization
@@ -153,8 +145,6 @@ function createHistoryTable(stateData) {
 
 }
 
-
-
 // on change of year via range input, will update gun law history table
 function updateHistoryTable(year) {
   $("#history_table").find("tr").each(function (index) {
@@ -165,4 +155,3 @@ function updateHistoryTable(year) {
     }
   });
 }
-
