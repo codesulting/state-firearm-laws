@@ -56,7 +56,7 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 function displayState(stateSelected, stateData, defaultYear) {
   for (var i = 0; i < usStates.length; i++) {
     if (stateSelected.text().toLowerCase() === usStates[i]["name"].toLowerCase()) {
-      // update state title shown
+      // Update state title shown.
       $('#state_title').html(usStates[i]["name"]);
 
       // Set default year on slider.
@@ -81,8 +81,8 @@ function displayState(stateSelected, stateData, defaultYear) {
 
 // changes divs to show new suicide, homicide rates and gun law numbers
 function displayRates(stateData, year) {
-  var sr = (year in stateData && stateData[year].length >= 3) ? stateData[year][2]["suicide_rate"] : "N/A";
-  var hr = (year in stateData && stateData[year].length >= 4) ? stateData[year][3]["homicide_rate"] : "N/A";
+  var sr = (year in stateData && stateData[year].length >= 3) ? stateData[year][2]["suicide_rate"] : "NR";
+  var hr = (year in stateData && stateData[year].length >= 4) ? stateData[year][3]["homicide_rate"] : "NR";
 
   if (sr === null) {
     $("#firearm_suicides").text("N/A");
@@ -122,7 +122,8 @@ function createHistoryTable(stateData) {
         tableContent += "<td class='definition'>" + stateData[year][0]["history"][entry]["definition"] + "</td>";
         tableContent += "<td class='status'>" + stateData[year][0]["history"][entry]["status"];
         if (stateData[year][0]["history"][entry]["status"] === "Current") {
-          tableContent += "; " + "<a href='" + stateData[year][0]["history"][entry]["link"] + "'> Read the statute here </a></td>";
+          //tableContent += "; " + "<a href='" + stateData[year][0]["history"][entry]["link"] + "'> Read the statute here </a></td>";
+          tableContent += "</td>"
         } else {
           tableContent += "</td>"
         }
@@ -142,7 +143,6 @@ function createHistoryTable(stateData) {
   var historyList = new List('history_table', tableOptions);
 
   historyList.sort("provision", {order: "asc"});
-
 }
 
 // On change of year via range input, update gun law history table.
