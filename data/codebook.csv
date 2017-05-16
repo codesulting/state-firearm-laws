@@ -87,9 +87,9 @@ code,category,subcategory,description,variable
 9,Child Access Prevention,Child safety,Criminal liability applies to children less than 14 years old,cap14
 10,Gun Trafficking,Crime gun identification,All handguns sold must have either ballistic fingerprinting or microstamping so that they can be identified if used in a crime,microstamp
 10,Gun Trafficking,Personalized gun technology,State has a law that requires review of personalized gun technology,personalized
-11,Stand your ground laws,Stand your ground laws,No stand your ground law,nosyg
+11,Stand Your Ground,Stand your ground laws,No stand your ground law,nosyg
 12,Preemption,Preemption,State law does not preempt local regulation of firearms,preemption
-13,Immunity statutes,Industry immunity,No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers,immunity
+13,Immunity,Industry immunity,No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers,immunity
 14,Domestic Violence,MCDV,State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms,mcdv
 14,Domestic Violence,MCDV,MCDV convictions are prohibiting if the victim is a dating partner of the offender,mcdvdating
 14,Domestic Violence,MCDV,State law automatically requires MCDV offenders to surrender their firearms,mcdvsurrender
