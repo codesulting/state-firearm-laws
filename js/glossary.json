@@ -9,11 +9,11 @@
         "Dealer Regulations",
         "Domestic Violence",
         "Gun Trafficking",
-        "Immunity statutes",
+        "Immunity",
         "Possession Regulations",
         "Preemption",
         "Prohibitions of High-Risk Gun Possession",
-        "Stand your ground laws"
+        "Stand Your Ground"
     ],
     "rows": [
         {
@@ -633,7 +633,7 @@
             "variable": "personalized"
         },
         {
-            "category": "Stand your ground laws",
+            "category": "Stand Your Ground",
             "code": "11",
             "description": "No stand your ground law",
             "subcategory": "Stand your ground laws",
@@ -647,7 +647,7 @@
             "variable": "preemption"
         },
         {
-            "category": "Immunity statutes",
+            "category": "Immunity",
             "code": "13",
             "description": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
             "subcategory": "Industry immunity",
