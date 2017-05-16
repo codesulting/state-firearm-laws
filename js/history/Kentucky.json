@@ -1217,6 +1217,14 @@
             {
                 "homicide_rate": "NR"
             }
+        ],
+        "2017": [
+            {
+                "suicide_rate": "NR"
+            },
+            {
+                "homicide_rate": "NR"
+            }
         ]
     }
 }
