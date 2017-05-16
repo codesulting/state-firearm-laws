@@ -1,5 +1,4 @@
 '''
-
 *** note: the term "provision" and "variable" are used interchangeably
 
 glossary_conversion()
@@ -38,8 +37,6 @@ uses:
 
 modifies/creates:
 - raw-data.json
-
-
 '''
 
 import sys
@@ -57,7 +54,7 @@ def glossary_conversion(csvreader):
     prov_list = []
     exported_headers = ["code", "category", "subcategory", "description", "variable"]
 
-    for row in tqdm(csvreader):
+    for row in tqdm(csvreader, desc="Reading codebook file"):
         entry = {e: row[e] for e in exported_headers}
         entry2 = dict()
         entry2["category"] = row["category"]
@@ -79,7 +76,7 @@ def glossary_conversion(csvreader):
     subcat_map = dict() # Maps subcat to prov and cat.
     prov_map = dict() # Maps prov to subcat and cat.
 
-    for row in tqdm(rows_arr):
+    for row in tqdm(rows_arr, desc="Building glossary file"):
         subcat = row["subcategory"]
         cat = row["category"]
         prov = row["variable"]
@@ -103,7 +100,7 @@ def glossary_conversion(csvreader):
         json.dump(exported, outfile, sort_keys=True, indent=4)
     # Add to raw-data-table file.
     with open(os.path.join(cwd, "js", "raw-data.json"), 'w') as outfile2:
-        exported = {"provisions": prov_list, "maps": {"categorymap": cat_map, "subcategorymap": subcat_map, "provmap": prov_map}, "categories": list(categories), "subcategories": list(subcategories)}
+        exported = {"provisions": prov_list, "maps": {"categorymap": cat_map, "subcategorymap": subcat_map, "provmap": prov_map}, "categories": list(sorted(categories)), "subcategories": list(sorted(subcategories))}
         json.dump(exported, outfile2, sort_keys=True, indent=4)
 
 
@@ -119,7 +116,7 @@ def convert_map(map, labels):
 def history_conversion(csvreader):
     states_dict = dict()
     history_headers = ["definition", "law", "link", "status"]
-    for row in tqdm(csvreader):
+    for row in tqdm(csvreader, desc="Reading current/repealed list file"):
         # Add new state to dictionary.
         if row["state"] not in states_dict:
             states_dict[row["state"]] = dict()
@@ -145,7 +142,7 @@ def history_conversion(csvreader):
         states_list = list(states_dict.keys())
 
     # Create output JSON file for each state.
-    for state in tqdm(states_list):
+    for state in tqdm(states_list, desc="Generating per-state JSON files"):
         with open(os.path.join("js", "history", state + ".json"), 'w') as outfile:
             json.dump({"data": states_dict[state]}, outfile, sort_keys=True, indent=4)
 
@@ -157,13 +154,13 @@ def rates_conversion(csvreader):
 
     json_files = []
 
-    for root, dirs, files in tqdm(os.walk(os.path.join(cwd, "js/history"))):
+    for root, dirs, files in tqdm(os.walk(os.path.join(cwd, "js/history")), desc="Loading per-state JSON files"):
         json_files = [f for f in files if ".json" in f]
 
     rates_states_dict = dict()
 
     # Create dictionary from CSV files.
-    for row in tqdm(csvreader):
+    for row in tqdm(csvreader, desc="Reading rates file"):
         # State not present.
         if row["state"] not in rates_states_dict:
             rates_states_dict[row["state"]] = dict()
@@ -172,13 +169,15 @@ def rates_conversion(csvreader):
                                                         {"homicide_rate": row["homicide"]}]
 
     # Then merge with JSON files.
-    for state_file in tqdm(json_files):
+    for state_file in tqdm(json_files, desc="Updating per-state JSON files"):
         with open(os.path.join(cwd, "js/history", state_file), 'r') as current_state_dict:
             current_state_dict = json.load(current_state_dict)
             state = state_file[:-5]  # Name of state.
             years = list(rates_states_dict[state].keys())  # Valid year entries for given state.
             for y in years:
                 # Merge entries by year for a given state.
+                if y not in current_state_dict["data"]:
+                    current_state_dict["data"][y] = []
                 current_state_dict["data"][y] = current_state_dict["data"][y] + rates_states_dict[state][y]
 
             # Update JSON file.
@@ -190,7 +189,7 @@ def raw_data_conversion(csvreader):
     exported = dict()
     exported["columns"] = list(csvreader.fieldnames)
     exported["rows"] = []
-    for row in tqdm(csvreader):
+    for row in tqdm(csvreader, desc="Reading dataset file"):
         exported["rows"].append({i: row[i] for i in exported["columns"]})
 
     year_range = {r["year"] for r in exported["rows"]}
@@ -213,18 +212,18 @@ def raw_data_conversion(csvreader):
         with open(os.path.join("js", "raw-data.json"), 'w') as outfile:
             json.dump(raw_data_export, outfile, sort_keys=True, indent=4)
 
-# with open(sys.argv[1], 'r') as csvfile:
-#     csvreader = csv.DictReader(csvfile)
-#     glossary_conversion(csvreader)
+with open(sys.argv[1], 'r') as csvfile:
+    csvreader = csv.DictReader(csvfile)
+    glossary_conversion(csvreader)
 
-# with open(sys.argv[2], 'r') as csvfile2:
-#     csvreader = csv.DictReader(csvfile2)
-#     history_conversion(csvreader)
+with open(sys.argv[2], 'r') as csvfile2:
+    csvreader = csv.DictReader(csvfile2)
+    history_conversion(csvreader)
 
-# with open(sys.argv[3], 'r') as csvfile3:
-#     csvreader = csv.DictReader(csvfile3)
-#     rates_conversion(csvreader)
+with open(sys.argv[3], 'r') as csvfile3:
+    csvreader = csv.DictReader(csvfile3)
+    rates_conversion(csvreader)
 
-# with open(sys.argv[4], 'r') as csvfile4:
-#     csvreader = csv.DictReader(csvfile4)
-#     raw_data_conversion(csvreader)
+with open(sys.argv[4], 'r') as csvfile4:
+    csvreader = csv.DictReader(csvfile4)
+    raw_data_conversion(csvreader)
