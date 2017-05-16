@@ -27,12 +27,9 @@
   <link rel="stylesheet" href="css/state-by-state.css">
 
   <title>State Firearm Laws - State-by-State</title>
-
 </head>
-
 <body>
 <nav class="navbar navbar-default">
-
   <div class="navbar-header">
     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -43,10 +40,9 @@
     </button>
     <a class="navbar-brand" href="index.html">State Firearm Laws</a>
   </div>
-
   <ul class="nav navbar-nav">
     <li>
-      <a class="nav-link" href="index.html">Home </a>
+      <a class="nav-link" href="index.html">Home</a>
     </li>
     <li>
       <a class="nav-link" href="about.html">About Us</a>
@@ -60,7 +56,7 @@
       <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="law-data.html">Visualization and Dataset Download</a></li>
         <li><a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a></li>
-        <li><a class="dropdown-item" href="#" target="_blank">Read the Manuscript</a></li>
+        <li><a class="dropdown-item" target="_blank" href="#">Read the Manuscript</a></li>
         <li><a class="dropdown-item" target="_blank" href="report/SFL-Report-2016.pdf">Read the Report</a></li>
       </ul>
     </li>
@@ -80,33 +76,28 @@
       </ul>
     </li>
   </ul>
-
 </nav>
-
-<br>
+<br/>
 
 <div class="container">
   <div class="row">
-    <h2> State-by-State</h2>
-    <p> Choose a state from the list below to see its gun law history.</p>
+    <h2>State-by-State</h2>
+    <p>Choose a state from the list below to see its gun law history.</p>
   </div>
   <div class="dropdown mx-auto" id="state_dropdown_div">
   </div>
 </div>
 
 <div class="container" id="state_info">
-
   <div class="row">
     <div class="col-md-6">
       <div class="row info-box">
         <p>View the fact sheet for <span id="fact-sheet-link">the selected state</span>.</p>
         <p>Click and drag the slider knob to change the year of the information displayed. You can view laws by year alongside their corresponding firearm-related homicide and suicide rates. You can also access links to current statutes.</p>
       </div>
-
       <div class="row">
         <h2 id="state_title"></h2>
-        <!-- info at top with core stats -->
-
+        <!-- Info at top with core stats. -->
         <div class="col-md-4 rate">
           <div class="row">
           </div>
@@ -115,23 +106,19 @@
         </div>
         <div class="rate col-md-4">
         </div>
-
       </div>
-
       <div class="row">
         <div class="col-md-4">
           <h3><span id="firearm_homicides" class="rate"></span></h3>
           <h4>firearm-related homicides per 100,000 people</h4>
         </div>
         <div class="col-md-4" id="state_icon">
-
         </div>
         <div class="col-md-4">
           <h3><span id="firearm_suicides" class="rate"></span></h3>
           <h4> firearm-related suicides per 100,000 people</h4>
         </div>
       </div>
-
       <div class="row">
         <div class="col-md-4 rate">
           <div class="row">
@@ -144,102 +131,73 @@
         <div class="rate col-md-4">
         </div>
       </div>
-
       <br/>
-
       <div class="row">
         <div class="col-xs-5">
-
         </div>
         <div class="col-xs-2">
           <h3><span id="year_label"></span></h3>
         </div>
         <div class="col-xs-5">
-
         </div>
-
       </div>
-
-      <!-- slider -->
+      <!-- Slider. -->
       <div class="row">
         <div class="col-xs-1">
-
         </div>
         <div class="col-xs-10">
-          <input id="year" data-slider-id='year_slider' type="text" data-slider-min="1991" data-slider-max="2016"
-                 data-slider-step="1" data-slider-value="2015"/>
+          <input id="year" data-slider-id='year_slider' type="text" data-slider-min="1991" data-slider-max="2017"
+                 data-slider-step="1" data-slider-value="2016"/>
         </div>
         <div class="col-xs-1">
-
         </div>
       </div>
-
       <div class="row">
         <div class="col-xs-5">
-
         </div>
         <div class="col-xs-2">
           <h6> Year </h6>
         </div>
         <div class="col-xs-5">
-
         </div>
       </div>
-
     </div>
-
-
-    <!-- table of gun laws by year -->
+    <!-- Table of laws by year. -->
     <div class="col-md-6">
       <div class="row" id="history_table">
       </div>
     </div>
-
   </div>
 </div>
-
 
 <footer class="footer align-middle">
   <div class="container">
     <div class="row">
+      <div class="col-xs-5 footer-text"><b>Boston University</b> School of Public Health</div>
+      <div class="col-xs-2"></div><!-- Social media/contact. -->
       <div class="col-xs-5 footer-text">
-        <b>Boston University</b> School of Public Health
-      </div>
-
-      <div class="col-xs-2">
-      </div>
-
-      <!-- social media/contact-->
-
-      <div class="col-xs-5 footer-text">
-        <p> <a href="index.html">State Firearm Laws</a> | <a href="mailto:example@example.com"> Contact Us</a> </p>
+        <p><a href="index.html">State Firearm Laws</a> | <a href="mailto:example@example.com">Contact Us</a></p>
         <p>Support for this website was provided by the <a href="http://www.evidenceforaction.org/">Robert Wood Johnson Foundation Evidence for Action Program</a>. The views expressed here do not necessarily reflect the views of the Foundation.</p>
       </div>
     </div>
   </div>
 </footer>
 
-
-<!-- Bootstrap  -->
+<!-- Bootstrap. -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<!-- Latest compiled and minified JavaScript -->
+<!-- Latest compiled and minified JavaScript. -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
         crossorigin="anonymous"></script>
-
-
-<!-- font awesome icons -->
+<!-- Font Awesome icons. -->
 <script src="https://use.fontawesome.com/ab082df5e7.js"></script>
-
-<!-- Slider JS -->
+<!-- Slider JS. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.1/bootstrap-slider.min.js"></script>
-
-<!-- Bootstrap Select JS -->
+<!-- Bootstrap Select JS. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
-
-<!-- list js -->
+<!-- List.js. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.4.0/list.min.js"></script>
-
 <script src="js/state-by-state.js"></script>
+
 </body>
 </html>

@@ -2,9 +2,9 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
   usStates = obj['states'];
   var stateData;
-  var defaultYear = 2015;
+  var defaultYear = 2016;
 
-  // create list of states dropdown
+  // Create list of states dropdown.
   var stateDropdownContent = "<select class='selectpicker' data-live-search='true' id='state_dropdown' title='Choose a state...'>";
 
   for (var i = 0; i < usStates.length; i++) {
@@ -15,14 +15,14 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
   $('#state_dropdown_div').append(stateDropdownContent);
 
-  // initialize slider for years on state-by-state page
+  // Initialize slider for years on state-by-state page.
   $('#year').slider({
     formatter: function (value) {
       return value;
     }
   });
 
-  // default as Alabama, 2015
+  // Start at Alabama in the default year.
   $('#state_dropdown').selectpicker('val', 'Alabama');
   stateData = $.getJSON('js/history/Alabama.json', function (obj) {
     stateData = obj["data"];
@@ -36,7 +36,7 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
         // top half of state page (percentages and icon)
         var stateSelected = $('#state_dropdown option:selected');
 
-        // update gun law history table, showing 2015 by default
+        // Update gun law history table, showing default year.
         stateData = $.getJSON('js/history/' + stateSelected.text() + ".json", function (obj) {
           stateData = obj["data"];
           displayState(stateSelected, stateData, defaultYear);
@@ -59,20 +59,20 @@ function displayState(stateSelected, stateData, defaultYear) {
       // update state title shown
       $('#state_title').html(usStates[i]["name"]);
 
-      //set default year on slider
+      // Set default year on slider.
       $('#year').slider('setValue', defaultYear);
 
       // Update the state fact sheet link.
       $('#fact-sheet-link').html('<a target="_blank" href="fact-sheet/' + usStates[i]["name"] + '.pdf">' + usStates[i]["name"] + '</a>');
 
-      // create table
+      // Create table.
       createHistoryTable(stateData);
       updateHistoryTable(defaultYear);
 
-      // update associated rates
+      // Update associated rates.
       displayRates(stateData, defaultYear);
 
-      // update state icon
+      // Update state icon.
       $('#state_icon').empty();
       $('#state_icon').append("<i class='mg map-us-" + usStates[i]["abbreviation"].toLowerCase() + " map-large'></i>");
     }
@@ -81,9 +81,9 @@ function displayState(stateSelected, stateData, defaultYear) {
 
 // changes divs to show new suicide, homicide rates and gun law numbers
 function displayRates(stateData, year) {
-  var sr = stateData[year][2]["suicide_rate"];
-  var hr = stateData[year][3]["homicide_rate"];
-  console.log(sr);
+  var sr = (year in stateData && stateData[year].length >= 3) ? stateData[year][2]["suicide_rate"] : "N/A";
+  var hr = (year in stateData && stateData[year].length >= 4) ? stateData[year][3]["homicide_rate"] : "N/A";
+
   if (sr === null) {
     $("#firearm_suicides").text("N/A");
   } else {
@@ -107,8 +107,8 @@ function displayRates(stateData, year) {
   updateHistoryTable(year);
 }
 
-// takes info from <state>.json and creates a full table of all statutes for that state
-// table is hidden on initialization
+// Takes info from <state>.json and creates a full table of all statutes for that state;
+// table is hidden during initialization.
 function createHistoryTable(stateData) {
   $('#history_table').empty();
 
@@ -145,7 +145,7 @@ function createHistoryTable(stateData) {
 
 }
 
-// on change of year via range input, will update gun law history table
+// On change of year via range input, update gun law history table.
 function updateHistoryTable(year) {
   $("#history_table").find("tr").each(function (index) {
     if ($(this).hasClass(year) || $(this).hasClass("header")) {
