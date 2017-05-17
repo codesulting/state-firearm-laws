@@ -19,5 +19,6 @@ h5 { margin-top:20px; margin-bottom:5px; padding-bottom:0px; text-decoration:und
 .container > p > span { display:block; margin-top:0px; padding-left:20px; font-size:12px; color:#777777; }
 
 /* footers for all pages */
-.footer-text { padding:40px 10px; font-family:'Libre Franklin',san-serif; }
-.footer { background-color:#f3f3f3; margin-top:50px; }
+.footer-text { height:60px; padding:20px 10px; font-family:'Libre Franklin',san-serif; }
+.footer-text > p { margin:0px 0px 10px; padding:0px; }
+.footer { height:60px; background-color:#f3f3f3; margin-top:50px; }
