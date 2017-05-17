@@ -141,7 +141,7 @@
 
             <br>
 
-           <div class="checkbox">
+            <div class="checkbox">
               <label>
                 <input type="checkbox" id="autoupdate"> Update table automatically
               </label>
@@ -200,21 +200,35 @@
     </div>
 
     <div class="col-xs-8 table-area">
+
       <div class="row">
-        <div id="no_data_warning">
-          <h4><i> No data selected. </i></h4>
+        <div class="alert alert-info" role="alert">
+          <i class="fa fa-info-circle" aria-hidden="true"></i>
+          &nbsp;Note that 2017 data in this dataset reflects partial data.
         </div>
       </div>
+
+      <div class="row">
+        <div class="alert alert-info" role="alert" id="no_data_warning">
+          <i class="fa fa-info-circle" aria-hidden="true"></i>
+          &nbsp;No data selected.
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="alert alert-danger" role="alert" id="no_update_warning">
+          <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+          &nbsp;Please click "Update Table" button to see changes in table.
+        </div>
+      </div>
+
       <div class="row">
         <div class="clusterize" id="raw_data_table_placeholder">
         </div>
       </div>
 
-      <div class="row">
-        <div id="no_update_warning">
-          <h4 class="text-danger"> Please click "Update Table" button to see changes in table.</h4>
-        </div>
-      </div>
+
     </div>
   </div>
 
@@ -234,7 +248,7 @@
       <!-- social media/contact-->
 
       <div class="col-xs-5 footer-text">
-        <p> <a href="index.html">State Firearm Laws</a> | <a href="mailto:mbsiegel@bu.edu"> Contact Us</a> </p>
+        <p><a href="index.html">State Firearm Laws</a> | <a href="mailto:mbsiegel@bu.edu"> Contact Us</a></p>
         <!--p>Support for this website was provided by the <a href="http://www.evidenceforaction.org/">Robert Wood Johnson Foundation Evidence for Action Program</a>. The views expressed here do not necessarily reflect the views of the Foundation.</p-->
       </div>
     </div>
