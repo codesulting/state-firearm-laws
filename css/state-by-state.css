@@ -8,14 +8,14 @@ h4 { margin-top:0px; }
 #year_label_h3 { margin-top:5px; }
 .slider.slider-horizontal { width:100%; }
 #year_slider .slider-selection { background:none; background-image:none; }
-#year_slider .slider-handle { background:#428bca; background-image:none; }
+#year_slider .slider-handle { background:#2644ac; background-image:none; }
 
 /* Dropdown menu of states. */
 .dropdown-menu{ max-height:400px; overflow-y:auto; }
 
 /* Display stats. */
 .rate { text-align:center; vertical-align:middle; font-size:inherit; }
-#state_title { text-align:center; }
+#state_title { text-align:center; color:#5C3293; }
 #state_info { text-align:center; }
 #history_table { padding-left:30px; }
 .info-box { padding-top:10px; padding-bottom:20px; }

@@ -1,7 +1,10 @@
 thead, tbody { display:block; overflow-x:auto; }
 
-tbody { height:200px; /* Tixed height. */ overflow-y:auto; /* Trigger vertical scroll. */ }
+tbody { height:200px; /* Fixed height. */ overflow-y:auto; /* Trigger vertical scroll. */ }
 
 div .spacing { margin-top:10px; margin-bottom:10px; }
 thead th { width:200px; }
 td { width:200px; }
+
+.btn-primary { background-color:#2644ac; }
+.btn-primary:hover { background-color: #2e6da4; }
