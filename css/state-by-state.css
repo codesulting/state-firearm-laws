@@ -1,17 +1,22 @@
-/* for map-glyphs, enlarges map image */
+h2 { margin-top:0px; }
+h4 { margin-top:0px; }
+
+/* For map-glyphs, enlarges map image. */
 .map-large { font-size:12em; color:#a2cd5a; text-shadow:3px 3px 3px #d3d3d3; }
 
-/* range slider */
+/* Range slider. */
+#year_label_h3 { margin-top:5px; }
 .slider.slider-horizontal { width:100%; }
 #year_slider .slider-selection { background:none; background-image:none; }
 #year_slider .slider-handle { background:#428bca; background-image:none; }
 
-/* dropdown menu of states */
+/* Dropdown menu of states. */
 .dropdown-menu{ max-height:400px; overflow-y:auto; }
 
-/* display stats */
+/* Display stats. */
 .rate { text-align:center; vertical-align:middle; font-size:inherit; }
 #state_title { text-align:center; }
 #state_info { text-align:center; }
 #history_table { padding-left:30px; }
-.info-box { padding-top:30px; padding-bottom:30px; }
+.info-box { padding-top:10px; padding-bottom:20px; }
+.info-box > p { text-align:left; }
