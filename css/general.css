@@ -8,8 +8,8 @@
 a.dropdown-toggle { font-size:large; }
 
 /* Content. */
-h2 { margin-top:25px; color:#2644ac; font-weight: bold}
-h3 {}
+h2 { margin-top:25px; color:#2644ac; font-weight: bold;}
+h3 { font-weight:bold; }
 h4 { margin-top:20px;}
 h5 { margin-top:20px; margin-bottom:5px; padding-bottom:0px; text-decoration:underline; }
 .container > ul { margin-top:20px; padding-left:0px; }
