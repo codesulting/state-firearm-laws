@@ -364,10 +364,12 @@ function initializeTable(columns, rows) {
 // adds rows to table only if state and year in the row match the input lists' values
 function filterRows(rows, stateValues, yearValues) {
   var newRows = [];
-  for (var i = 0; i < rows.length; i++) {
-    var rowData = rows[i];
-    if (stateValues.indexOf(rowData["state"]) !== -1 && yearValues.indexOf(rowData["year"]) !== -1) {
-      newRows.push(rowData);
+  if (stateValues != null && yearValues != null) {
+    for (var i = 0; i < rows.length; i++) {
+      var rowData = rows[i];
+      if (stateValues.indexOf(rowData["state"]) !== -1 && yearValues.indexOf(rowData["year"]) !== -1) {
+        newRows.push(rowData);
+      }
     }
   }
   return newRows;
