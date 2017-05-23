@@ -113,7 +113,7 @@ function createHistoryTable(stateData) {
   $('#history_table').empty();
 
   var tableContent = "<table class='table table-responsive table-hover'>" +
-    "<thead> <tr class='header'> <th>Gun Law Data</th> <th>Provision</th> <th>Status</th> </tr> </thead><tbody class='text-xs-left list'>";
+    "<thead> <tr class='header'> <th>Variable Name</th> <th>Provision</th> <th>Status</th> </tr> </thead><tbody class='text-xs-left list'>";
   for (var year in stateData) {
     if (stateData.hasOwnProperty(year)) {
       for (var entry in stateData[year][0]["history"]) {
