@@ -118,7 +118,7 @@ function createHistoryTable(stateData) {
     if (stateData.hasOwnProperty(year)) {
       for (var entry in stateData[year][0]["history"]) {
         tableContent += "<tr class='" + year + "'>";
-        tableContent += "<td class='provision'><i>" + stateData[year][0]["history"][entry]["law"] + "</i></td>";
+        tableContent += "<td class='provision'><i>" + stateData[year][0]["history"][entry]["variable"] + "</i></td>";
         tableContent += "<td class='definition'>" + stateData[year][0]["history"][entry]["definition"] + "</td>";
         tableContent += "<td class='status'>" + stateData[year][0]["history"][entry]["status"];
         if (stateData[year][0]["history"][entry]["status"] === "Current") {
