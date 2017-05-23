@@ -191,7 +191,7 @@ def raw_data_conversion(csvreader):
     exported = dict()
     exported["columns"] = list(csvreader.fieldnames)
     exported["rows"] = []
-    for row in tqdm(csvreader, desc="Reading dataset file"):
+    for row in tqdm(csvreader, desc="Reading database file"):
         exported["rows"].append({i: row[i] for i in exported["columns"]})
 
     year_range = {r["year"] for r in exported["rows"]}

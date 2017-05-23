@@ -66,7 +66,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     }
   })
 
-  // generate buttons for downloading complete dataset (ie complete table)
+  // generate buttons for downloading complete database (ie complete table)
   $('#csv_complete_button').click(function () {
     var data = generateArray(initialColumns, rawDataRows);
     CSVOutput(data);
@@ -83,7 +83,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   });
 
 
-  // generate buttons for downloading partial dataset
+  // generate buttons for downloading partial database
   // events for download buttons
 
   $('#csv_button').click(function () {
@@ -304,6 +304,7 @@ function createTableContent(columns, rows) {
 //Generate all table rows
 
   for (var i = 0; i < rows.length; i++) {
+
     var rowData = rows[i];
     var row = ""
     row += "<tr>";
@@ -631,7 +632,7 @@ function arrToTXT(arr) {
 }
 
 
-// helper function to generate array based on rows/columns json input of complete dataset
+// helper function to generate array based on rows/columns json input of complete database
 function generateArray(columns, rows) {
   var arr = [];
   arr.push(columns);
