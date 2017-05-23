@@ -22,7 +22,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
 
   // set default category explanation/div to show
-  $('#category_menu').selectpicker('val', 'Ammunition Regulations');
+  $('#category_menu').selectpicker('val', 'Ammunition regulations');
   updateDiv();
 
   // show appropriate div based on chosen dropdown

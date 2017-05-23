@@ -4,75 +4,89 @@
             {
                 "history": [
                     {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 11
+                "num_laws": 16
             },
             {
                 "suicide_rate": "9.01"
@@ -85,81 +99,89 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 16
             },
             {
                 "suicide_rate": "7.52"
@@ -172,81 +194,89 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 16
             },
             {
                 "suicide_rate": "8.26"
@@ -259,81 +289,89 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 16
             },
             {
                 "suicide_rate": "9.33"
@@ -346,81 +384,89 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 16
             },
             {
                 "suicide_rate": "8.32"
@@ -433,81 +479,89 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 16
             },
             {
                 "suicide_rate": "9.03"
@@ -520,81 +574,89 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 16
             },
             {
                 "suicide_rate": "8.16"
@@ -607,81 +669,94 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 17
             },
             {
                 "suicide_rate": "7.66"
@@ -694,81 +769,94 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 17
             },
             {
                 "suicide_rate": "7.59"
@@ -781,81 +869,94 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 17
             },
             {
                 "suicide_rate": "7.69"
@@ -868,81 +969,94 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 17
             },
             {
                 "suicide_rate": "7.48"
@@ -955,81 +1069,94 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
             {
-                "num_laws": 12
+                "num_laws": 17
             },
             {
                 "suicide_rate": "7.34"
@@ -1042,76 +1169,64 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
@@ -1129,76 +1244,64 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
@@ -1216,76 +1319,64 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
@@ -1303,76 +1394,64 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "A license or permit is required to purchase handguns",
-                        "law": "permith",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit process involves law enforcement",
-                        "law": "permitlaw",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
-                        "law": "age21handgunsale",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "age21handgunsale"
                     },
                     {
-                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
-                        "law": "universalpermith",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "State is not required to purge background check records for at least 60 days",
-                        "law": "backgroundpurge",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "backgroundpurge"
                     },
                     {
-                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
-                        "law": "threedaylimit",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A license or permit is required to purchase handguns",
+                        "status": "Repealed",
+                        "variable": "permith"
+                    },
+                    {
+                        "definition": "Permit process involves law enforcement",
+                        "status": "Repealed",
+                        "variable": "permitlaw"
+                    },
+                    {
+                        "definition": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+                        "status": "Repealed",
+                        "variable": "threedaylimit"
+                    },
+                    {
+                        "definition": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
+                        "status": "Repealed",
+                        "variable": "universalpermith"
                     }
                 ]
             },
@@ -1391,39 +1470,33 @@
                 "history": [
                     {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
@@ -1441,51 +1514,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 8
             },
             {
                 "suicide_rate": "6.87"
@@ -1498,51 +1569,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 8
             },
             {
                 "suicide_rate": "7.68"
@@ -1555,51 +1624,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 8
             },
             {
                 "suicide_rate": "7.82"
@@ -1612,51 +1679,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 8
             },
             {
                 "suicide_rate": "8.2"
@@ -1669,51 +1734,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 8
             },
             {
                 "suicide_rate": "8.71"
@@ -1726,51 +1789,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 8
             },
             {
                 "suicide_rate": "8.79"
@@ -1783,45 +1844,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 8
             },
             {
                 "suicide_rate": "9.12"
@@ -1834,45 +1899,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 8
             },
             {
                 "suicide_rate": "9.5"
@@ -1885,39 +1954,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
-                        "law": "alcoholism",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "alcoholism"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 7
             },
             {
                 "suicide_rate": "NR"
@@ -1927,6 +2001,43 @@
             }
         ],
         "2017": [
+            {
+                "history": [
+                    {
+                        "definition": "Firearm purchase/possession is prohibited for some people with alcoholism",
+                        "status": "Current",
+                        "variable": "alcoholism"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Current",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    }
+                ]
+            },
+            {
+                "num_laws": 6
+            },
             {
                 "suicide_rate": "NR"
             },

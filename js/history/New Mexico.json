@@ -4,39 +4,59 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 10
             },
             {
                 "suicide_rate": "12.29"
@@ -49,39 +69,59 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 10
             },
             {
                 "suicide_rate": "12.85"
@@ -94,39 +134,59 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 10
             },
             {
                 "suicide_rate": "11.46"
@@ -139,39 +199,59 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 10
             },
             {
                 "suicide_rate": "12.13"
@@ -184,39 +264,59 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 10
             },
             {
                 "suicide_rate": "11.58"
@@ -229,39 +329,59 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 10
             },
             {
                 "suicide_rate": "12.03"
@@ -274,39 +394,59 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 10
             },
             {
                 "suicide_rate": "10.16"
@@ -319,39 +459,64 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 11
             },
             {
                 "suicide_rate": "9.96"
@@ -364,39 +529,64 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 11
             },
             {
                 "suicide_rate": "10.3"
@@ -409,39 +599,64 @@
             {
                 "history": [
                     {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 11
             },
             {
                 "suicide_rate": "9.84"
@@ -455,32 +670,33 @@
                 "history": [
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "10.53"
@@ -494,32 +710,33 @@
                 "history": [
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "11.6"
@@ -533,62 +750,43 @@
                 "history": [
                     {
                         "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "college"
                     },
                     {
                         "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "collegeconcealed"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 7
             },
             {
                 "suicide_rate": "11.41"
@@ -601,63 +799,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "10.26"
@@ -670,63 +864,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "9.29"
@@ -739,63 +929,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "9.76"
@@ -808,63 +994,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "9.43"
@@ -877,63 +1059,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "9.54"
@@ -946,63 +1124,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "9.1"
@@ -1015,63 +1189,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "9.82"
@@ -1084,63 +1254,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "10.55"
@@ -1153,63 +1319,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "10.8"
@@ -1222,63 +1384,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "10.26"
@@ -1291,63 +1449,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "11.1"
@@ -1360,63 +1514,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "12.49"
@@ -1429,63 +1579,59 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
-                        "law": "collegeconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Concealed carry permit renewal requires a new background check",
-                        "law": "ccrenewbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 10
             },
             {
                 "suicide_rate": "NR"
@@ -1495,6 +1641,63 @@
             }
         ],
         "2017": [
+            {
+                "history": [
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Current",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "No gun carrying on college campuses, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "collegeconcealed"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
+                        "status": "Current",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    }
+                ]
+            },
+            {
+                "num_laws": 10
+            },
             {
                 "suicide_rate": "NR"
             },

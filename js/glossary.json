@@ -1,800 +1,947 @@
 {
     "categories": [
-        "Ammunition Regulations",
-        "Assault Weapons and Large Capacity Magazines",
-        "Background Checks",
-        "Buyer Regulations",
-        "Child Access Prevention",
-        "Concealed Carry Permitting",
-        "Dealer Regulations",
-        "Domestic Violence",
-        "Gun Trafficking",
+        "Ammunition regulations",
+        "Assault weapons and large-capacity magazines",
+        "Background checks",
+        "Buyer regulations",
+        "Child access prevention",
+        "Concealed carry permitting",
+        "Dealer regulations",
+        "Domestic violence",
+        "Gun trafficking",
         "Immunity",
-        "Possession Regulations",
+        "Possession regulations",
         "Preemption",
-        "Prohibitions of High-Risk Gun Possession",
-        "Stand Your Ground"
+        "Prohibitions for high-risk gun possession",
+        "Stand your ground"
     ],
     "rows": [
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
             "description": "State dealer license required for sale of all firearms",
             "subcategory": "Licensing",
             "variable": "dealer"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "State dealer license required for handgun sales",
+            "description": "State dealer license required for sale of handguns",
             "subcategory": "Licensing",
             "variable": "dealerh"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Record keeping and retention required for all private sellers and all licensed dealers for all firearms",
-            "subcategory": "Recordkeeping",
-            "variable": "recordsall"
-        },
-        {
-            "category": "Dealer Regulations",
-            "code": "1",
-            "description": "Record keeping and retention required for all sellers and all dealers for handgun sales",
-            "subcategory": "Recordkeeping",
-            "variable": "recordsallh"
-        },
-        {
-            "category": "Dealer Regulations",
-            "code": "1",
-            "description": "Record keeping and retention required for licensed dealers for all firearm sales",
+            "description": "Licensed dealers are required to keep and retain records of all firearm sales",
             "subcategory": "Recordkeeping",
             "variable": "recordsdealer"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Record keeping and retention required for licensed dealers for handgun sales",
+            "description": "Licensed dealers are required to keep and retain records of handgun sales",
             "subcategory": "Recordkeeping",
             "variable": "recordsdealerh"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Reporting of sales records to the state required for all private sellers and all licensed dealers for all firearms",
-            "subcategory": "Reporting",
-            "variable": "reportall"
+            "description": "All private sellers and licensed dealers are required to keep and retain records of all firearm sales",
+            "subcategory": "Recordkeeping",
+            "variable": "recordsall"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Reporting of sales records to the state required for all sellers and all dealers for handgun sales",
-            "subcategory": "Reporting",
-            "variable": "reportallh"
+            "description": "All private sellers and licensed dealers are required to keep and retain records of handgun sales",
+            "subcategory": "Recordkeeping",
+            "variable": "recordsallh"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Reporting of sales records to the state required for licensed dealers for all firearm sales",
+            "description": "Licensed dealers are required to report all firearm sales records to the state",
             "subcategory": "Reporting",
             "variable": "reportdealer"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Reporting of sales records to the state required for licensed dealers for handgun sales",
+            "description": "Licensed dealers are required to report handgun sales records to the state",
             "subcategory": "Reporting",
             "variable": "reportdealerh"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "State is not required to purge sales records for at least 60 days after purchase",
+            "description": "All private sellers and licensed dealers are required to report all firearm sales records to the state",
+            "subcategory": "Reporting",
+            "variable": "reportall"
+        },
+        {
+            "category": "Dealer regulations",
+            "code": "1",
+            "description": "All private sellers and licensed dealers are required to report handgun sales records to the state",
+            "subcategory": "Reporting",
+            "variable": "reportallh"
+        },
+        {
+            "category": "Dealer regulations",
+            "code": "1",
+            "description": "Dealers can retain sales records for at least 60 days after firearm purchase",
             "subcategory": "Reporting",
             "variable": "purge"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Ban on residential dealers",
+            "description": "Ban on non-commercial dealers",
             "subcategory": "Location",
             "variable": "residential"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Mandatory theft reporting for all firearms",
+            "description": "Mandatory reporting of stolen guns by all firearm dealers",
             "subcategory": "Theft reporting",
             "variable": "theft"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "At least one store security precaution required",
+            "description": "State requires at least one store security precaution for firearm dealers",
             "subcategory": "Security",
             "variable": "security"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Mandatory police inspections",
+            "description": "Mandatory police inspections of dealers",
             "subcategory": "Inspections",
             "variable": "inspection"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
-            "description": "Strict liability for damages resulting from illegal gun sales",
+            "description": "Dealers are liable for damages resulting from illegal gun sales",
             "subcategory": "Liability",
             "variable": "liability"
         },
         {
-            "category": "Dealer Regulations",
+            "category": "Dealer regulations",
             "code": "1",
             "description": "Ban on junk guns (sometimes called \"Saturday night specials\")",
             "subcategory": "Junk guns",
             "variable": "junkgun"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Waiting period is required on all firearm purchases from dealers",
             "subcategory": "Waiting period",
             "variable": "waiting"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Waiting period is required on all handgun purchases from dealers",
             "subcategory": "Waiting period",
             "variable": "waitingh"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "A license or permit is required to purchase all firearms",
-            "subcategory": "Licensing",
+            "subcategory": "Permitting",
             "variable": "permit"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "A license or permit is required to purchase handguns",
-            "subcategory": "Licensing",
+            "subcategory": "Permitting",
             "variable": "permith"
         },
         {
-            "category": "Buyer Regulations",
-            "code": "2",
-            "description": "Fingerprinting required at point of purchase for all dealers",
-            "subcategory": "Fingerprinting",
-            "variable": "fingerprint"
-        },
-        {
-            "category": "Buyer Regulations",
-            "code": "2",
-            "description": "Safety training or testing required prior to issuing a firearm license or permit",
-            "subcategory": "Safety training",
-            "variable": "training"
-        },
-        {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Permit process involves law enforcement",
             "subcategory": "Permitting",
             "variable": "permitlaw"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
+            "code": "2",
+            "description": "Buyers must be fingerprinted at point of purchase",
+            "subcategory": "Fingerprinting",
+            "variable": "fingerprint"
+        },
+        {
+            "category": "Buyer regulations",
+            "code": "2",
+            "description": "Safety training or testing required prior to issuing a firearm license or permit",
+            "subcategory": "Safety training",
+            "variable": "training"
+        },
+        {
+            "category": "Buyer regulations",
+            "code": "2",
+            "description": "Gun owners must register their firearms with the state",
+            "subcategory": "Registration",
+            "variable": "registration"
+        },
+        {
+            "category": "Buyer regulations",
+            "code": "2",
+            "description": "Gun owners must register their handguns with the state",
+            "subcategory": "Registration",
+            "variable": "registrationh"
+        },
+        {
+            "category": "Buyer regulations",
+            "code": "2",
+            "description": "De facto registration of firearms is in place because of a recordkeeping requirement for all gun sales",
+            "subcategory": "Registration",
+            "variable": "defactoreg"
+        },
+        {
+            "category": "Buyer regulations",
+            "code": "2",
+            "description": "De facto registration of handguns is in place because of a recordkeeping requirement for all handgun sales",
+            "subcategory": "Registration",
+            "variable": "defactoregh"
+        },
+        {
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Purchase of handguns from licensed dealers and private sellers restricted to age 21 and older",
             "subcategory": "Age restrictions",
             "variable": "age21handgunsale"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Purchase of long guns from licensed dealers and private sellers restricted to age 18 and older",
             "subcategory": "Age restrictions",
             "variable": "age18longgunsale"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Purchase of long guns from licensed dealers restricted to age 21 and older",
             "subcategory": "Age restrictions",
             "variable": "age21longgunsaled"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Purchase of long guns from licensed dealers and private sellers restricted to age 21 and older",
             "subcategory": "Age restrictions",
             "variable": "age21longgunsale"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
             "description": "Mandatory reporting of lost and stolen guns by firearm owners",
             "subcategory": "Theft reporting",
             "variable": "loststolen"
         },
         {
-            "category": "Buyer Regulations",
+            "category": "Buyer regulations",
             "code": "2",
-            "description": "One handgun per month with no or limited exceptions",
+            "description": "Buyers can purchase no more than one handgun per month with no or limited exceptions",
             "subcategory": "Bulk purchase limit",
             "variable": "onepermonth"
         },
         {
-            "category": "Prohibitions of High-Risk Gun Possession",
+            "category": "Prohibitions for high-risk gun possession",
             "code": "3",
-            "description": "Felony conviction is prohibitive for firearm purchase/possession",
-            "subcategory": "Prohibitors - Criminal",
+            "description": "Firearm possession is prohibited for people with a felony conviction",
+            "subcategory": "Felony",
             "variable": "felony"
         },
         {
-            "category": "Prohibitions of High-Risk Gun Possession",
+            "category": "Prohibitions for high-risk gun possession",
             "code": "3",
-            "description": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-            "subcategory": "Prohibitors - Mental Health",
+            "description": "Firearm possession is prohibited for people who have committed a violent misdemeanor punishable by less than one year of imprisonment",
+            "subcategory": "Violent Misdemeanor",
+            "variable": "violent"
+        },
+        {
+            "category": "Prohibitions for high-risk gun possession",
+            "code": "3",
+            "description": "Handgun possession is prohibited for people who have committed a violent misdemeanor punishable by less than one year of imprisonment",
+            "subcategory": "Violent Misdemeanor",
+            "variable": "violenth"
+        },
+        {
+            "category": "Prohibitions for high-risk gun possession",
+            "code": "3",
+            "description": "Firearm possession is prohibited for people who have committed a violent misdemeanor punishable by more than one year of imprisonment",
+            "subcategory": "Violent Misdemeanor",
+            "variable": "violentpartial"
+        },
+        {
+            "category": "Prohibitions for high-risk gun possession",
+            "code": "3",
+            "description": "Firearm possession is prohibited for people who have been involuntarily committed to an inpatient facility",
+            "subcategory": "Mental Health",
             "variable": "invcommitment"
         },
         {
-            "category": "Prohibitions of High-Risk Gun Possession",
+            "category": "Prohibitions for high-risk gun possession",
             "code": "3",
-            "description": "Involuntary commitment (outpatient) is prohibitive for firearm purchase/possession",
-            "subcategory": "Prohibitors - Mental Health",
+            "description": "Firearm possession is prohibited for people who have been involuntarily committed to an outpatient facility",
+            "subcategory": "Mental Health",
             "variable": "invoutpatient"
         },
         {
-            "category": "Prohibitions of High-Risk Gun Possession",
+            "category": "Prohibitions for high-risk gun possession",
             "code": "3",
-            "description": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
-            "subcategory": "Prohibitors - Mental Health",
+            "description": "Firearm possession is prohibited if person is deemed by court to be a danger to oneself or others",
+            "subcategory": "Mental Health",
             "variable": "danger"
         },
         {
-            "category": "Prohibitions of High-Risk Gun Possession",
+            "category": "Prohibitions for high-risk gun possession",
             "code": "3",
-            "description": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-            "subcategory": "Prohibitors - Drugs",
+            "description": "Firearm possession is prohibited for people with a drug misdemeanor conviction",
+            "subcategory": "Drugs",
             "variable": "drugmisdemeanor"
         },
         {
-            "category": "Prohibitions of High-Risk Gun Possession",
+            "category": "Prohibitions for high-risk gun possession",
             "code": "3",
-            "description": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
-            "subcategory": "Prohibitors - Alcohol",
+            "description": "Firearm possession is prohibited for some people with alcohol-related problems",
+            "subcategory": "Alcohol",
             "variable": "alctreatment"
         },
         {
-            "category": "Prohibitions of High-Risk Gun Possession",
+            "category": "Prohibitions for high-risk gun possession",
             "code": "3",
-            "description": "Firearm purchase/possession is prohibited for some people with alcoholism",
-            "subcategory": "Prohibitors - Alcohol",
+            "description": "Firearm possession is prohibited for some people with alcoholism",
+            "subcategory": "Alcohol",
             "variable": "alcoholism"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
-            "description": "Universal background checks required at point of transfer for all firearms",
+            "description": "Universal background checks required at point of purchase for all firearms",
             "subcategory": "Universal background checks",
             "variable": "universal"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
-            "description": "Universal background check required at point of transfer for handguns",
+            "description": "Universal background check required at point of purchase for handguns",
             "subcategory": "Universal background checks",
             "variable": "universalh"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
             "description": "Background checks required for all gun show firearm sales at point of purchase",
             "subcategory": "Gun shows",
             "variable": "gunshow"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
-            "description": "Background checks required for purchase of handguns at gun shows at point of purchase",
+            "description": "Background checks required for gun show handgun sales at point of purchase",
             "subcategory": "Gun shows",
             "variable": "gunshowh"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
             "description": "Background checks conducted through permit requirement for all firearm sales (or universal background checks)",
             "subcategory": "Background checks through permits",
             "variable": "universalpermit"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
             "description": "Background checks conducted through permit requirement for all handgun sales (or universal background checks)",
             "subcategory": "Background checks through permits",
             "variable": "universalpermith"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
-            "description": "State is not required to purge background check records for at least 60 days",
-            "subcategory": "Background checks records",
+            "description": "State can retain background check records for at least 60 days",
+            "subcategory": "Background check records",
             "variable": "backgroundpurge"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
-            "description": "Background checks for gun sales or permits have more than a three-day limit in which they must be completed",
+            "description": "Background checks for gun sales or permits have more than a three day period in which they can be completed",
             "subcategory": "Background checks time limit",
             "variable": "threedaylimit"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
             "description": "Required background checks include an explicit requirement for search of state mental health records",
             "subcategory": "Background checks - mental health records",
             "variable": "mentalhealth"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
             "description": "State conducts separate background checks, beyond the federal NICS check, for all firearms",
-            "subcategory": "Background Checks - state records",
+            "subcategory": "Background checks - state records",
             "variable": "statechecks"
         },
         {
-            "category": "Background Checks",
+            "category": "Background checks",
             "code": "4",
             "description": "State conducts separate background checks, beyond the federal NICS check, for handguns",
-            "subcategory": "Background Checks - state records",
+            "subcategory": "Background checks - state records",
             "variable": "statechecksh"
         },
         {
-            "category": "Ammunition Regulations",
+            "category": "Ammunition regulations",
             "code": "5",
             "description": "Vendor license required to sell ammunition",
             "subcategory": "Licensing",
             "variable": "ammlicense"
         },
         {
-            "category": "Ammunition Regulations",
+            "category": "Ammunition regulations",
             "code": "5",
-            "description": "Ammunition purchaser records must be retained",
+            "description": "Records of ammunition sales must be retained",
             "subcategory": "Recordkeeping",
             "variable": "ammrecords"
         },
         {
-            "category": "Ammunition Regulations",
+            "category": "Ammunition regulations",
             "code": "5",
             "description": "Permit required to purchase ammunition",
             "subcategory": "Permitting",
             "variable": "ammpermit"
         },
         {
-            "category": "Ammunition Regulations",
+            "category": "Ammunition regulations",
             "code": "5",
-            "description": "Sale of ammunition is restricted to all the same categories as firearms",
+            "description": "All of the state\u2019s high-risk gun possession prohibitions also apply to ammunition possession",
             "subcategory": "Prohibitors",
             "variable": "ammrestrict"
         },
         {
-            "category": "Ammunition Regulations",
+            "category": "Ammunition regulations",
             "code": "5",
-            "description": "Ammunition sales not allowed to persons under age 18 for any type of ammunition (all firearms)",
+            "description": "Purchase of any type of ammunition restricted to age 18 and older",
             "subcategory": "Age restrictions",
             "variable": "amm18"
         },
         {
-            "category": "Ammunition Regulations",
+            "category": "Ammunition regulations",
             "code": "5",
-            "description": "Ammunition sales not allowed to persons under age 21 for handguns",
+            "description": "Purchase of handgun ammunition restricted to age 21 and older",
             "subcategory": "Age restrictions",
             "variable": "amm21h"
         },
         {
-            "category": "Ammunition Regulations",
+            "category": "Ammunition regulations",
             "code": "5",
             "description": "Background checks required for ammunition purchase",
             "subcategory": "Background checks",
             "variable": "ammbackground"
         },
         {
-            "category": "Possession Regulations",
+            "category": "Possession regulations",
             "code": "6",
             "description": "No possession of handguns until age 21",
             "subcategory": "Age restrictions",
             "variable": "age21handgunpossess"
         },
         {
-            "category": "Possession Regulations",
+            "category": "Possession regulations",
             "code": "6",
             "description": "No possession of long guns until age 18",
             "subcategory": "Age restrictions",
             "variable": "age18longgunpossess"
         },
         {
-            "category": "Possession Regulations",
+            "category": "Possession regulations",
             "code": "6",
             "description": "No possession of long guns until age 21",
             "subcategory": "Age restrictions",
             "variable": "age21longgunpossess"
         },
         {
-            "category": "Possession Regulations",
+            "category": "Possession regulations",
             "code": "6",
-            "description": "No gun carrying allowed on college campuses",
-            "subcategory": "Gun carrying",
+            "description": "Family members or law enforcement officers can confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+            "subcategory": "Gun violence restraining orders",
+            "variable": "gvro"
+        },
+        {
+            "category": "Possession regulations",
+            "code": "6",
+            "description": "Law enforcement officers can confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+            "subcategory": "Gun violence restraining orders",
+            "variable": "gvrolawenforcement"
+        },
+        {
+            "category": "Possession regulations",
+            "code": "6",
+            "description": "No gun carrying allowed on college campuses except for concealed weapon permittees",
+            "subcategory": "Campus carry",
             "variable": "college"
         },
         {
-            "category": "Possession Regulations",
+            "category": "Possession regulations",
             "code": "6",
             "description": "No gun carrying on college campuses, including concealed weapons permittees",
-            "subcategory": "Gun carrying",
+            "subcategory": "Campus carry",
             "variable": "collegeconcealed"
         },
         {
-            "category": "Possession Regulations",
+            "category": "Possession regulations",
             "code": "6",
             "description": "No gun carrying on elementary school property, including concealed weapons permittees",
-            "subcategory": "Gun carrying",
+            "subcategory": "School zones",
             "variable": "elementary"
         },
         {
-            "category": "Concealed Carry Permitting",
+            "category": "Possession regulations",
+            "code": "6",
+            "description": "No open carry of handguns is allowed in public places",
+            "subcategory": "Open carry",
+            "variable": "opencarryh"
+        },
+        {
+            "category": "Possession regulations",
+            "code": "6",
+            "description": "No open carry of long guns is allowed in public places",
+            "subcategory": "Open carry",
+            "variable": "opencarryl"
+        },
+        {
+            "category": "Possession regulations",
+            "code": "6",
+            "description": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+            "subcategory": "Open carry",
+            "variable": "opencarrypermith"
+        },
+        {
+            "category": "Possession regulations",
+            "code": "6",
+            "description": "No open carry of long guns is allowed in public places unless the person has a permit",
+            "subcategory": "Open carry",
+            "variable": "opencarrypermitl"
+        },
+        {
+            "category": "Concealed carry permitting",
             "code": "7",
             "description": "Permit required to carry concealed weapons",
             "subcategory": "Permitting",
             "variable": "permitconcealed"
         },
         {
-            "category": "Concealed Carry Permitting",
+            "category": "Concealed carry permitting",
             "code": "7",
             "description": "\"May issue\" state",
             "subcategory": "Permitting",
             "variable": "mayissue"
         },
         {
-            "category": "Concealed Carry Permitting",
+            "category": "Concealed carry permitting",
             "code": "7",
             "description": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
             "subcategory": "Permitting",
             "variable": "showing"
         },
         {
-            "category": "Concealed Carry Permitting",
-            "code": "7",
-            "description": "Concealed carry permit process requires a background check",
-            "subcategory": "Background Checks",
-            "variable": "ccbackground"
-        },
-        {
-            "category": "Concealed Carry Permitting",
-            "code": "7",
-            "description": "Concealed carry permit renewal requires a new background check",
-            "subcategory": "Background Checks",
-            "variable": "ccrenewbackground"
-        },
-        {
-            "category": "Concealed Carry Permitting",
+            "category": "Concealed carry permitting",
             "code": "7",
             "description": "Authorities are required to revoke concealed carry permits under certain circumstances",
             "subcategory": "Permitting",
             "variable": "ccrevoke"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Concealed carry permitting",
+            "code": "7",
+            "description": "Concealed carry permit process requires a background check",
+            "subcategory": "Background checks",
+            "variable": "ccbackground"
+        },
+        {
+            "category": "Concealed carry permitting",
+            "code": "7",
+            "description": "Background check process for a concealed carry permit explicitly requires a check of the NICS database",
+            "subcategory": "Background checks",
+            "variable": "ccbackgroundnics"
+        },
+        {
+            "category": "Concealed carry permitting",
+            "code": "7",
+            "description": "Concealed carry permit renewal requires a new background check",
+            "subcategory": "Background checks",
+            "variable": "ccrenewbackground"
+        },
+        {
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
-            "description": "Assault weapons sales ban beyond just assault pistols",
+            "description": "Ban on sale of assault weapons beyond just assault pistols",
             "subcategory": "Assault weapons ban",
             "variable": "assault"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
-            "description": "Assault weapons defined by only one feature",
+            "description": "Ban on sale of assault weapons using a one-feature definition",
             "subcategory": "Assault weapons ban",
             "variable": "onefeature"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
-            "description": "Assault weapons included in a list of banned weapons",
+            "description": "Ban on sale of assault weapons which includes a list of banned weapons",
             "subcategory": "Assault weapons ban",
             "variable": "assaultlist"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
             "description": "Grandfathered weapons must be registered",
             "subcategory": "Assault weapons ban",
             "variable": "assaultregister"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
             "description": "Transfer of grandfathered weapons is prohibited",
             "subcategory": "Assault weapons ban",
             "variable": "assaulttransfer"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
-            "description": "Ban on large capacity magazines beyond just ammunition for pistols",
+            "description": "Ban on sale large capacity magazines beyond just ammunition for pistols",
             "subcategory": "Large capacity magazine ban",
             "variable": "magazine"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
-            "description": "Ban includes a 10-round limit (not a 15 or higher round limit)",
+            "description": "No magazines with a capacity of more than 10 rounds of ammunition may be sold",
             "subcategory": "Large capacity magazine ban",
             "variable": "tenroundlimit"
         },
         {
-            "category": "Assault Weapons and Large Capacity Magazines",
+            "category": "Assault weapons and large-capacity magazines",
             "code": "8",
-            "description": "Pre-owned large capacity magazines are prohibited",
+            "description": "Possession of pre-owned large capacity magazines is prohibited",
             "subcategory": "Large capacity magazine ban",
             "variable": "magazinepreowned"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
-            "description": "Safety lock required for handguns sold through dealers",
-            "subcategory": "Child safety",
+            "description": "Safety lock required for handguns sold through licensed dealers",
+            "subcategory": "Safety locks",
             "variable": "lockd"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
-            "description": "Safety lock required for handguns sold through private sellers",
-            "subcategory": "Child safety",
+            "description": "Safety lock required for handguns sold through all dealers",
+            "subcategory": "Safety locks",
             "variable": "lockp"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
-            "description": "All firearms must be kept locked, all the time",
-            "subcategory": "Child safety",
-            "variable": "locked"
-        },
-        {
-            "category": "Child Access Prevention",
-            "code": "9",
-            "description": "Required locks must meet specified standards and/or must be approved",
-            "subcategory": "Child safety",
+            "description": "Safety lock is required for handguns and must be approved by state standards",
+            "subcategory": "Safety locks",
             "variable": "lockstandards"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
-            "description": "Criminal liability for negligent storage of guns, regardless of whether child actually gains access",
-            "subcategory": "Child safety",
+            "description": "All firearms in a household must be stored securely (locked away) at all times",
+            "subcategory": "Storage",
+            "variable": "locked"
+        },
+        {
+            "category": "Child access prevention",
+            "code": "9",
+            "description": "Criminal liability for negligent storage of guns, regardless of whether child gains access",
+            "subcategory": "Storage",
             "variable": "capliability"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
             "description": "Criminal liability for negligent storage of guns if child gains access",
-            "subcategory": "Child safety",
+            "subcategory": "Storage",
             "variable": "capaccess"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
             "description": "Criminal liability for negligent storage of guns if child uses or carries the gun",
-            "subcategory": "Child safety",
+            "subcategory": "Storage",
             "variable": "capuses"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
             "description": "Criminal liability for negligent storage applies regardless of whether gun is loaded or unloaded",
-            "subcategory": "Child safety",
+            "subcategory": "Storage",
             "variable": "capunloaded"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
-            "description": "Criminal liability applies to children less than 18 years old",
-            "subcategory": "Child safety",
+            "description": "Criminal liability for negligent storage applies to access by children less than 18 years old",
+            "subcategory": "Storage",
             "variable": "cap18"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
-            "description": "Criminal liability applies to children less than 16 years old",
-            "subcategory": "Child safety",
+            "description": "Criminal liability for negligent storage applies to access by children less than 16 years old",
+            "subcategory": "Storage",
             "variable": "cap16"
         },
         {
-            "category": "Child Access Prevention",
+            "category": "Child access prevention",
             "code": "9",
-            "description": "Criminal liability applies to children less than 14 years old",
-            "subcategory": "Child safety",
+            "description": "Criminal liability for negligent storage applies to access by children less than 14 years old",
+            "subcategory": "Storage",
             "variable": "cap14"
         },
         {
-            "category": "Gun Trafficking",
+            "category": "Gun trafficking",
+            "code": "10",
+            "description": "No person may purchase a firearm with the intent to re-sell without the buyer going through a background check or having already gone through a background check",
+            "subcategory": "Gun trafficking",
+            "variable": "traffickingbackground"
+        },
+        {
+            "category": "Gun trafficking",
+            "code": "10",
+            "description": "No person may purchase a firearm with the intent to re-sell to a person who is prohibited from buying or possessing a firearm",
+            "subcategory": "Gun trafficking",
+            "variable": "traffickingprohibited"
+        },
+        {
+            "category": "Gun trafficking",
+            "code": "10",
+            "description": "No person may purchase a handgun with the intent to re-sell to a person who is prohibited from buying or possessing a firearm",
+            "subcategory": "Gun trafficking",
+            "variable": "traffickingprohibitedh"
+        },
+        {
+            "category": "Gun trafficking",
+            "code": "10",
+            "description": "No person may purchase a firearm on behalf of another person",
+            "subcategory": "Straw purchase",
+            "variable": "strawpurchase"
+        },
+        {
+            "category": "Gun trafficking",
+            "code": "10",
+            "description": "No person may purchase a handgun on behalf of another person",
+            "subcategory": "Straw purchase",
+            "variable": "strawpurchaseh"
+        },
+        {
+            "category": "Gun trafficking",
             "code": "10",
             "description": "All handguns sold must have either ballistic fingerprinting or microstamping so that they can be identified if used in a crime",
             "subcategory": "Crime gun identification",
             "variable": "microstamp"
         },
         {
-            "category": "Gun Trafficking",
+            "category": "Gun trafficking",
             "code": "10",
             "description": "State has a law that requires review of personalized gun technology",
             "subcategory": "Personalized gun technology",
             "variable": "personalized"
         },
         {
-            "category": "Stand Your Ground",
+            "category": "Stand your ground",
             "code": "11",
             "description": "No stand your ground law",
-            "subcategory": "Stand your ground laws",
+            "subcategory": "Stand your ground",
             "variable": "nosyg"
         },
         {
             "category": "Preemption",
             "code": "12",
-            "description": "State law does not preempt local regulation of firearms",
+            "description": "State law does not preempt local regulation of firearms in any way",
             "subcategory": "Preemption",
             "variable": "preemption"
+        },
+        {
+            "category": "Preemption",
+            "code": "12",
+            "description": "Any state law that preempts local regulation of firearms is narrow in its scope (i.e., in one area of regulation)",
+            "subcategory": "Preemption",
+            "variable": "preemptionnarrow"
+        },
+        {
+            "category": "Preemption",
+            "code": "12",
+            "description": "State law does not completely preempt local regulation of firearms",
+            "subcategory": "Preemption",
+            "variable": "preemptionbroad"
         },
         {
             "category": "Immunity",
             "code": "13",
             "description": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-            "subcategory": "Industry immunity",
+            "subcategory": "Immunity",
             "variable": "immunity"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
-            "description": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-            "subcategory": "MCDV",
+            "description": "People convicted of a misdemeanor crime of domestic violence against a spouse, ex-spouse, or cohabitating partner are prohibited from possessing firearms",
+            "subcategory": "Misdemeanor crimes",
             "variable": "mcdv"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
-            "description": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
-            "subcategory": "MCDV",
+            "description": "All people convicted of a misdemeanor crime of domestic violence are prohibited from possessing firearms",
+            "subcategory": "Misdemeanor crimes",
             "variable": "mcdvdating"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
-            "description": "State law automatically requires MCDV offenders to surrender their firearms",
-            "subcategory": "MCDV",
+            "description": "People convicted of a misdemeanor crime of domestic violence against a spouse, ex-spouse, or cohabitating partner are required to surrender their firearms",
+            "subcategory": "Misdemeanor crimes",
             "variable": "mcdvsurrender"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
-            "description": "No additional finding is required before the firearm surrender provisions apply",
-            "subcategory": "MCDV",
+            "description": "People convicted of a misdemeanor crime of domestic violence against a spouse, ex-spouse, or cohabitating partner are required to surrender their firearms with no exceptions",
+            "subcategory": "Misdemeanor crimes",
             "variable": "mcdvsurrendernoconditions"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "The surrender provisions apply if the defendant is a dating partner of the victim",
-            "subcategory": "MCDV",
+            "subcategory": "Misdemeanor crimes",
             "variable": "mcdvsurrenderdating"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "State law allows law enforcement to remove firearms from MCDV offenders",
-            "subcategory": "MCDV",
+            "subcategory": "Misdemeanor crimes",
             "variable": "mcdvremovalallowed"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "State law requires law enforcement officers to remove firearms from MCDV offenders",
-            "subcategory": "MCDV",
+            "subcategory": "Misdemeanor crimes",
             "variable": "mcdvremovalrequired"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-            "subcategory": "Firearm removal from DV incidents",
+            "subcategory": "Firearm removal",
             "variable": "incidentremoval"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "All firearms must be removed from the scene of a domestic violence incident",
-            "subcategory": "Firearm removal from DV incidents",
+            "subcategory": "Firearm removal",
             "variable": "incidentall"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
             "subcategory": "Restraining order",
             "variable": "dvro"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "DVROs are automatically prohibiting if the subject is a dating partner of the petitioner",
             "subcategory": "Restraining order",
             "variable": "dvrodating"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "Ex parte (temporary) DVRO subjects are automatically prohibited from possessing firearms",
             "subcategory": "Restraining order",
             "variable": "exparte"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "Ex parte DVROs are prohibiting if the petitioner is a dating partner of the DVRO subject",
             "subcategory": "Restraining order",
             "variable": "expartedating"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "State law requires DVRO subjects to surrender their firearms",
             "subcategory": "Restraining order",
             "variable": "dvrosurrender"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "No additional finding is required before the firearm surrender provisions apply",
             "subcategory": "Restraining order",
             "variable": "dvrosurrendernoconditions"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "The surrender provisions apply if the subject is a dating partner of the petitioner",
             "subcategory": "Restraining order",
             "variable": "dvrosurrenderdating"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "State law requires ex parte DVRO subjects to surrender their firearms",
             "subcategory": "Restraining order",
             "variable": "expartesurrender"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "No additional finding is required before the ex parte DVRO firearm surrender provisions apply",
             "subcategory": "Restraining order",
             "variable": "expartesurrendernoconditions"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "The ex parte DVRO surrender provisions apply if the subject is a dating partner of the petitioner",
             "subcategory": "Restraining order",
             "variable": "expartesurrenderdating"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
-            "description": "State law requires law enforcement officers to remove firearms from DVRO offenders automatically prohibited from possessing firearms",
+            "description": "Law enforcement officials are required to remove firearms from people subject to a domestic violence-related restraining order",
             "subcategory": "Restraining order",
             "variable": "dvroremoval"
         },
         {
-            "category": "Domestic Violence",
+            "category": "Domestic violence",
             "code": "14",
             "description": "A stalking conviction is prohibitive for firearm possession",
             "subcategory": "Stalking",
@@ -803,46 +950,53 @@
     ],
     "subcategories": [
         "Age restrictions",
+        "Alcohol",
         "Assault weapons ban",
-        "Background Checks",
-        "Background Checks - state records",
+        "Background check records",
         "Background checks",
         "Background checks - mental health records",
-        "Background checks records",
+        "Background checks - state records",
         "Background checks through permits",
         "Background checks time limit",
         "Bulk purchase limit",
-        "Child safety",
+        "Campus carry",
         "Crime gun identification",
+        "Drugs",
+        "Felony",
         "Fingerprinting",
-        "Firearm removal from DV incidents",
-        "Gun carrying",
+        "Firearm removal",
         "Gun shows",
-        "Industry immunity",
+        "Gun trafficking",
+        "Gun violence restraining orders",
+        "Immunity",
         "Inspections",
         "Junk guns",
         "Large capacity magazine ban",
         "Liability",
         "Licensing",
         "Location",
-        "MCDV",
+        "Mental Health",
+        "Misdemeanor crimes",
+        "Open carry",
         "Permitting",
         "Personalized gun technology",
         "Preemption",
         "Prohibitors",
-        "Prohibitors - Alcohol",
-        "Prohibitors - Criminal",
-        "Prohibitors - Drugs",
-        "Prohibitors - Mental Health",
         "Recordkeeping",
+        "Registration",
         "Reporting",
         "Restraining order",
+        "Safety locks",
         "Safety training",
+        "School zones",
         "Security",
         "Stalking",
-        "Stand your ground laws",
+        "Stand your ground",
+        "Storage",
+        "Straw purchase",
         "Theft reporting",
         "Universal background checks",
+        "Violent Misdemeanor",
         "Waiting period"
     ]
 }

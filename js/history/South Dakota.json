@@ -4,39 +4,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "8.13"
@@ -49,39 +49,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "6.2"
@@ -94,39 +94,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "11.71"
@@ -139,39 +139,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "9.11"
@@ -184,39 +184,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "7.89"
@@ -229,39 +229,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "9.98"
@@ -274,39 +274,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "9.91"
@@ -319,39 +319,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "9.54"
@@ -364,33 +364,34 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "7.35"
@@ -403,33 +404,34 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "6.83"
@@ -442,33 +444,34 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "5.64"
@@ -481,39 +484,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "6.46"
@@ -526,39 +529,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "7.75"
@@ -571,39 +574,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "7.88"
@@ -616,45 +619,44 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "8.81"
@@ -667,39 +669,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "8.96"
@@ -712,39 +714,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "5.21"
@@ -757,39 +759,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "8.56"
@@ -802,39 +804,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "7.54"
@@ -847,39 +849,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "8.09"
@@ -892,39 +894,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "7.04"
@@ -937,39 +939,39 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "8.69"
@@ -982,33 +984,34 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "8.92"
@@ -1021,33 +1024,34 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "8.76"
@@ -1060,33 +1064,34 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "8.22"
@@ -1099,33 +1104,34 @@
             {
                 "history": [
                     {
-                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
-                        "law": "violentpartial",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "NR"
@@ -1135,6 +1141,38 @@
             }
         ],
         "2017": [
+            {
+                "history": [
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Firearm possession is prohibited for people with a history of a violent misdemeanor punishable by more than one year of imprisonment",
+                        "status": "Current",
+                        "variable": "violentpartial"
+                    }
+                ]
+            },
+            {
+                "num_laws": 5
+            },
             {
                 "suicide_rate": "NR"
             },

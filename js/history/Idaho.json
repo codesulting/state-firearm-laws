@@ -4,33 +4,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "12.08"
@@ -43,33 +44,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "12.14"
@@ -82,33 +84,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 4
+                "num_laws": 5
             },
             {
                 "suicide_rate": "13.24"
@@ -121,39 +124,39 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "11.74"
@@ -166,39 +169,39 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "11.87"
@@ -211,39 +214,39 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "10.85"
@@ -256,39 +259,39 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "12"
@@ -301,39 +304,39 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "10.97"
@@ -346,39 +349,39 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "10.29"
@@ -391,45 +394,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "8.62"
@@ -442,45 +444,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "10.56"
@@ -493,45 +494,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "10.53"
@@ -544,45 +544,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "10.35"
@@ -595,45 +594,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "11.13"
@@ -646,45 +644,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "11.52"
@@ -697,45 +694,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "10.29"
@@ -748,45 +744,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "10.01"
@@ -799,45 +794,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 5
             },
             {
                 "suicide_rate": "9.68"
@@ -850,45 +834,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 5
             },
             {
                 "suicide_rate": "11.58"
@@ -901,45 +874,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 5
             },
             {
                 "suicide_rate": "11.65"
@@ -952,45 +914,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 5
             },
             {
                 "suicide_rate": "10.77"
@@ -1003,45 +954,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 5
             },
             {
                 "suicide_rate": "11.14"
@@ -1054,45 +994,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 5
             },
             {
                 "suicide_rate": "12.36"
@@ -1105,45 +1034,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 5
             },
             {
                 "suicide_rate": "11.08"
@@ -1156,40 +1074,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
@@ -1207,39 +1119,29 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "nosyg"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 4
             },
             {
                 "suicide_rate": "NR"
@@ -1249,6 +1151,33 @@
             }
         ],
         "2017": [
+            {
+                "history": [
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Current",
+                        "variable": "nosyg"
+                    }
+                ]
+            },
+            {
+                "num_laws": 4
+            },
             {
                 "suicide_rate": "NR"
             },

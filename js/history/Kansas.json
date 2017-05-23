@@ -4,51 +4,74 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 13
             },
             {
                 "suicide_rate": "8.53"
@@ -61,51 +84,74 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 13
             },
             {
                 "suicide_rate": "8.41"
@@ -118,51 +164,74 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 13
             },
             {
                 "suicide_rate": "8.62"
@@ -175,57 +244,79 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 14
             },
             {
                 "suicide_rate": "7.37"
@@ -238,57 +329,79 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 14
             },
             {
                 "suicide_rate": "7.31"
@@ -301,63 +414,79 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 14
             },
             {
                 "suicide_rate": "7.77"
@@ -370,63 +499,79 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 14
             },
             {
                 "suicide_rate": "6.88"
@@ -439,63 +584,84 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 15
             },
             {
                 "suicide_rate": "7.66"
@@ -508,63 +674,84 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 15
             },
             {
                 "suicide_rate": "6.18"
@@ -577,63 +764,84 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 15
             },
             {
                 "suicide_rate": "6.95"
@@ -646,63 +854,84 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 9
+                "num_laws": 15
             },
             {
                 "suicide_rate": "5.97"
@@ -715,57 +944,79 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "mayissue"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 14
             },
             {
                 "suicide_rate": "6.64"
@@ -778,57 +1029,79 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "mayissue"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 14
             },
             {
                 "suicide_rate": "7.67"
@@ -841,57 +1114,79 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "mayissue"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 14
             },
             {
                 "suicide_rate": "7.43"
@@ -904,51 +1199,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "mayissue"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 11
             },
             {
                 "suicide_rate": "6.72"
@@ -961,45 +1269,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit background check explicitly requires a check of the NICS database",
+                        "status": "Repealed",
+                        "variable": "ccbackgroundnics"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "7.64"
@@ -1012,45 +1339,44 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     },
                     {
                         "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 7
             },
             {
                 "suicide_rate": "7.51"
@@ -1063,40 +1389,34 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "A stalking conviction is prohibitive for firearm possession",
-                        "law": "stalking",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
@@ -1114,39 +1434,39 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Repealed",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 6
             },
             {
                 "suicide_rate": "6.98"
@@ -1159,39 +1479,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 8
             },
             {
                 "suicide_rate": "7.22"
@@ -1204,39 +1534,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 8
             },
             {
                 "suicide_rate": "7.94"
@@ -1249,39 +1589,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 8
             },
             {
                 "suicide_rate": "10.19"
@@ -1294,39 +1644,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 8
             },
             {
                 "suicide_rate": "8.04"
@@ -1339,39 +1699,49 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
                     },
                     {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Repealed",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 5
+                "num_laws": 8
             },
             {
                 "suicide_rate": "8.09"
@@ -1384,27 +1754,44 @@
             {
                 "history": [
                     {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
                         "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "invcommitment"
                     }
                 ]
             },
             {
-                "num_laws": 3
+                "num_laws": 7
             },
             {
                 "suicide_rate": "7.59"
@@ -1417,27 +1804,44 @@
             {
                 "history": [
                     {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
                         "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "invcommitment"
                     }
                 ]
             },
             {
-                "num_laws": 3
+                "num_laws": 7
             },
             {
                 "suicide_rate": "NR"
@@ -1447,6 +1851,48 @@
             }
         ],
         "2017": [
+            {
+                "history": [
+                    {
+                        "definition": "Recent treatment for alcohol-related reasons is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "alctreatment"
+                    },
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    }
+                ]
+            },
+            {
+                "num_laws": 7
+            },
             {
                 "suicide_rate": "NR"
             },

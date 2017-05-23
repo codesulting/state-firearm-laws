@@ -115,7 +115,9 @@ def convert_map(map, labels):
 # also tallies number of laws by year.
 def history_conversion(csvreader):
     states_dict = dict()
-    history_headers = ["definition", "law", "link", "status"]
+    # headers to read from csv file
+    #history_headers = ["definition", "law", "link", "status"]
+    history_headers = ["definition", "variable", "status"]
     for row in tqdm(csvreader, desc="Reading current/repealed list file"):
         # Add new state to dictionary.
         if row["state"] not in states_dict:

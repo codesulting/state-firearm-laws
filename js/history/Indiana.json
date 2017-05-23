@@ -4,45 +4,59 @@
             {
                 "history": [
                     {
-                        "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 10
             },
             {
                 "suicide_rate": "7.53"
@@ -55,45 +69,59 @@
             {
                 "history": [
                     {
-                        "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 10
             },
             {
                 "suicide_rate": "7.77"
@@ -106,45 +134,59 @@
             {
                 "history": [
                     {
-                        "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
-                        "definition": "State law does not preempt local regulation of firearms",
-                        "law": "preemption",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "State law does not preempt local regulation of firearms in any way",
+                        "status": "Repealed",
+                        "variable": "preemption"
+                    },
+                    {
+                        "definition": "There is no preemption, narrow preemption, or broad state preemption across multiple areas of regulation, but it is not complete",
+                        "status": "Repealed",
+                        "variable": "preemptionbroad"
+                    },
+                    {
+                        "definition": "There is no state preemption beyond the preemption of one area of regulation, such as firearm registration or concealed carry permitting",
+                        "status": "Repealed",
+                        "variable": "preemptionnarrow"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 10
             },
             {
                 "suicide_rate": "8.14"
@@ -157,51 +199,59 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Repealed",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 10
             },
             {
                 "suicide_rate": "7.64"
@@ -214,51 +264,59 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Repealed",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 10
             },
             {
                 "suicide_rate": "7.69"
@@ -271,51 +329,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Repealed",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.03"
@@ -328,51 +399,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Repealed",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 11
             },
             {
                 "suicide_rate": "7.53"
@@ -385,51 +469,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Repealed",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 11
             },
             {
                 "suicide_rate": "7.13"
@@ -442,51 +539,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.1"
@@ -499,51 +604,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.77"
@@ -556,45 +669,54 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 9
             },
             {
                 "suicide_rate": "6.71"
@@ -607,45 +729,54 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 9
             },
             {
                 "suicide_rate": "7.27"
@@ -658,51 +789,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.73"
@@ -715,51 +854,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.16"
@@ -772,51 +919,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.55"
@@ -829,57 +984,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.89"
@@ -892,57 +1049,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.09"
@@ -955,57 +1114,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.91"
@@ -1018,57 +1179,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.92"
@@ -1081,57 +1244,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.82"
@@ -1144,57 +1309,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "6.16"
@@ -1207,57 +1374,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "7.65"
@@ -1270,57 +1439,59 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 10
             },
             {
                 "suicide_rate": "7.79"
@@ -1333,57 +1504,64 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 11
             },
             {
                 "suicide_rate": "7.8"
@@ -1396,57 +1574,64 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 11
             },
             {
                 "suicide_rate": "7.57"
@@ -1459,57 +1644,69 @@
             {
                 "history": [
                     {
-                        "definition": "Drug misdemeanor is prohibitive for firearm purchase/possession",
-                        "law": "drugmisdemeanor",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "State dealer license required for handgun sales",
-                        "law": "dealerh",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawenforcement",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who by virtue of impaired mental health is deemed by a judge to represent a threat to themselves or others",
-                        "law": "gvrolawmentalhealth",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "dealerh"
                     },
                     {
                         "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
-                        "law": "elementary",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "elementary"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
                     },
                     {
                         "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
-                        "law": "mcdv",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "status": "Current",
+                        "variable": "mcdvdating"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 12
             },
             {
                 "suicide_rate": "NR"
@@ -1519,6 +1716,73 @@
             }
         ],
         "2017": [
+            {
+                "history": [
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
+                        "status": "Current",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "State dealer license required for handgun sales",
+                        "status": "Current",
+                        "variable": "dealerh"
+                    },
+                    {
+                        "definition": "No gun carrying on elementary school property, including concealed weapons permittees",
+                        "status": "Current",
+                        "variable": "elementary"
+                    },
+                    {
+                        "definition": "The law allows a law enforcement officer to initiate a procedure to confiscate firearms from any person who is deemed by a judge to represent a threat to themselves or others",
+                        "status": "Current",
+                        "variable": "gvrolawenforcement"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "MCDV convictions are prohibiting if the victim is a dating partner of the offender",
+                        "status": "Current",
+                        "variable": "mcdvdating"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "A stalking conviction is prohibitive for firearm possession",
+                        "status": "Current",
+                        "variable": "stalking"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
+                    }
+                ]
+            },
+            {
+                "num_laws": 12
+            },
             {
                 "suicide_rate": "NR"
             },

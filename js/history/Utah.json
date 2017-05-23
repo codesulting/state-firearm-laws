@@ -4,45 +4,69 @@
             {
                 "history": [
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "ccrevoke"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places",
+                        "status": "Repealed",
+                        "variable": "opencarryh"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places",
+                        "status": "Repealed",
+                        "variable": "opencarryl"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 12
             },
             {
                 "suicide_rate": "11.4"
@@ -55,51 +79,74 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Repealed",
+                        "variable": "college"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places",
+                        "status": "Repealed",
+                        "variable": "opencarryh"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places",
+                        "status": "Repealed",
+                        "variable": "opencarryl"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 13
             },
             {
                 "suicide_rate": "9.39"
@@ -112,51 +159,74 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "ccrevoke"
                     },
                     {
-                        "definition": "No stand your ground law",
-                        "law": "nosyg",
-                        "link": "",
-                        "status": "Repealed"
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Repealed",
+                        "variable": "college"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No stand your ground law",
+                        "status": "Repealed",
+                        "variable": "nosyg"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places",
+                        "status": "Repealed",
+                        "variable": "opencarryh"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places",
+                        "status": "Repealed",
+                        "variable": "opencarryl"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 13
             },
             {
                 "suicide_rate": "8.7"
@@ -169,45 +239,84 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "\"May issue\" state",
-                        "law": "mayissue",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Repealed",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "\"May issue\" state",
+                        "status": "Repealed",
+                        "variable": "mayissue"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "Applicants are required to make a heightened showing to obtain a concealed carry permit",
+                        "status": "Repealed",
+                        "variable": "showing"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 15
             },
             {
                 "suicide_rate": "9.64"
@@ -220,45 +329,79 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Repealed",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 14
             },
             {
                 "suicide_rate": "8.47"
@@ -271,45 +414,79 @@
             {
                 "history": [
                     {
-                        "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Repealed",
+                        "variable": "ccrevoke"
+                    },
+                    {
+                        "definition": "No gun carrying allowed on college campuses",
+                        "status": "Repealed",
+                        "variable": "college"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 14
             },
             {
                 "suicide_rate": "9.05"
@@ -322,57 +499,74 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "college"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
                     },
                     {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 13
             },
             {
                 "suicide_rate": "8.78"
@@ -385,57 +579,74 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "college"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
                     },
                     {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 13
             },
             {
                 "suicide_rate": "10.13"
@@ -448,57 +659,74 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "college"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
                     },
                     {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "No law provides blanket immunity to gun manufacturers or prohibits state or local lawsuits against gun manufacturers",
-                        "law": "immunity",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "immunity"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 8
+                "num_laws": 13
             },
             {
                 "suicide_rate": "7.78"
@@ -511,51 +739,69 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "college"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
                     },
                     {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 12
             },
             {
                 "suicide_rate": "9.06"
@@ -568,51 +814,69 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
                     },
                     {
                         "definition": "No gun carrying allowed on college campuses",
-                        "law": "college",
-                        "link": "",
-                        "status": "Repealed"
+                        "status": "Repealed",
+                        "variable": "college"
                     },
                     {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
                     },
                     {
-                        "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 7
+                "num_laws": 12
             },
             {
                 "suicide_rate": "8.93"
@@ -625,45 +889,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.25"
@@ -676,45 +959,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.48"
@@ -727,45 +1029,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.4"
@@ -778,45 +1099,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.46"
@@ -829,45 +1169,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.35"
@@ -880,45 +1239,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.52"
@@ -931,45 +1309,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "7.94"
@@ -982,45 +1379,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "8.83"
@@ -1033,45 +1449,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "10.65"
@@ -1084,45 +1519,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "10.51"
@@ -1135,45 +1589,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "10.95"
@@ -1186,45 +1659,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "10.99"
@@ -1237,45 +1729,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "10.31"
@@ -1288,45 +1799,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "11.05"
@@ -1339,45 +1869,64 @@
             {
                 "history": [
                     {
-                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
-                        "law": "felony",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
-                        "law": "invcommitment",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
-                        "definition": "Permit required to carry concealed weapons",
-                        "law": "permitconcealed",
-                        "link": "",
-                        "status": "Current"
-                    },
-                    {
                         "definition": "Concealed carry permit process requires a background check",
-                        "law": "ccbackground",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "ccbackground"
                     },
                     {
-                        "definition": "Authorities are required to revoke concealed carry permits under certain circumstances",
-                        "law": "ccrevoke",
-                        "link": "",
-                        "status": "Current"
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
                     },
                     {
                         "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
-                        "law": "incidentremoval",
-                        "link": "",
-                        "status": "Current"
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
                     }
                 ]
             },
             {
-                "num_laws": 6
+                "num_laws": 11
             },
             {
                 "suicide_rate": "NR"
@@ -1387,6 +1936,78 @@
             }
         ],
         "2017": [
+            {
+                "history": [
+                    {
+                        "definition": "Concealed carry permit process requires a background check",
+                        "status": "Current",
+                        "variable": "ccbackground"
+                    },
+                    {
+                        "definition": "Concealed carry permit renewal requires a new background check",
+                        "status": "Current",
+                        "variable": "ccrenewbackground"
+                    },
+                    {
+                        "definition": "Firearm purchase/possession prohibited if person deemed by court to be danger to oneself or others",
+                        "status": "Current",
+                        "variable": "danger"
+                    },
+                    {
+                        "definition": "State law automatically prohibits domestic violence-related restraining order (DVRO) subjects from possessing firearms",
+                        "status": "Current",
+                        "variable": "dvro"
+                    },
+                    {
+                        "definition": "Felony conviction is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "felony"
+                    },
+                    {
+                        "definition": "State law requires law enforcement to remove firearms from the scene of a domestic violence incident",
+                        "status": "Current",
+                        "variable": "incidentremoval"
+                    },
+                    {
+                        "definition": "Involuntary commitment (inpatient) is prohibitive for firearm purchase/possession",
+                        "status": "Current",
+                        "variable": "invcommitment"
+                    },
+                    {
+                        "definition": "State law automatically prohibits misdemeanor crime of domestic violence (MCDV) offenders from possessing firearms",
+                        "status": "Current",
+                        "variable": "mcdv"
+                    },
+                    {
+                        "definition": "No open carry of handguns is allowed in public places unless the person has a concealed carry or handgun carry permit",
+                        "status": "Current",
+                        "variable": "opencarrypermith"
+                    },
+                    {
+                        "definition": "No open carry of long guns is allowed in public places unless the person has a permit",
+                        "status": "Current",
+                        "variable": "opencarrypermitl"
+                    },
+                    {
+                        "definition": "Permit required to carry concealed weapons",
+                        "status": "Current",
+                        "variable": "permitconcealed"
+                    },
+                    {
+                        "definition": "No person may purchase a firearm with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibited"
+                    },
+                    {
+                        "definition": "No person may purchase a handgun with the intent to resell to a person who is prohibited from buying or possessing a firearm",
+                        "status": "Current",
+                        "variable": "traffickingprohibitedh"
+                    }
+                ]
+            },
+            {
+                "num_laws": 13
+            },
             {
                 "suicide_rate": "NR"
             },
