@@ -3,9 +3,6 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var rawDataColumns = obj["columns"];
   var rawDataRows = obj["rows"];
 
-  // // Option to update table automatically or not (ie user has to click on update button).
-  // $('#autoupdate').attr("checked", "true");
-  // var isAutoUpdated = true; // assumes true by default
 
   // Data for dropdown menus.
   var statesObj = obj["states"];
@@ -178,7 +175,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     function (event, clickedIndex, newValue, oldValue) {
 
       // Update subcategory and provisions dropdowns.
-      updateMenus("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
+      updateMenus("#category_menu", "subcategory", "provision", obj["maps"]["categorymap"]);
 
       statesDisplayed = $('#state_menu').val();
       yearsDisplayed = $('#year_menu').val();
@@ -196,7 +193,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     function (event, clickedIndex, newValue, oldValue) {
       // Update provision menu.
 
-      updateMenus("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
+      updateMenus("#subcategory_menu", null, "provision", obj["maps"]["subcategorymap"]);
 
       statesDisplayed = $('#state_menu').val();
       yearsDisplayed = $('#year_menu').val();
@@ -254,7 +251,6 @@ function updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, pro
   if (provisionsDisplayed !== null) {
     provisionsDisplayed.sort();
   }
-
 
   updateTable(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
@@ -455,7 +451,7 @@ function initializeHeaderScrolling() {
  * Helper functions for menus.
  */
 
-// Generates dropdown menus for state, year, etc. using dropdown-select.
+// Generates dropdown menu for state, year, etc. using dropdown-select.
 function initializeMenu(listItems, titleName, idName) {
   listItems.sort();
   // Create dropdown menu.
@@ -476,12 +472,16 @@ function initializeMenu(listItems, titleName, idName) {
 
 // Function that changes other menus based on user's selection of options on initial menu.
 // Uses a mapping provided in raw-data.json.
-
-function updateMenus(initialMenuID, otherMenus, map) {
+function updateMenus(initialMenuID, menuOneID, menuTwoID, map) {
   // Selected values on the initial menu.
   var entriesSelected = $(initialMenuID).val();
   var updatedMenuOne = [];
   var updatedMenuTwo = [];
+  var key1 = null; // Key to map for menu 1. Null if only menu 2 needs to be updated.
+  var key2 = "provisions"; // Key to map for menu 2.
+  if (menuOneID === "subcategory") {
+    key1 = "subcategories";
+  }
 
   if (entriesSelected !== null) {
 
@@ -491,19 +491,19 @@ function updateMenus(initialMenuID, otherMenus, map) {
     // based on mappings from raw-data.json.
 
     for (var i = 0; i < entriesSelected.length; i++) {
-      if (otherMenus[0] !== "") {
-        updatedMenuOne = _.union(updatedMenuOne, map[entriesSelected[i]][otherMenus[2]]);
+      if (key1 !== null) {
+        updatedMenuOne = _.union(updatedMenuOne, map[entriesSelected[i]][key1]);
       }
-      updatedMenuTwo = _.union(updatedMenuTwo, map[entriesSelected[i]][otherMenus[3]]);
+      updatedMenuTwo = _.union(updatedMenuTwo, map[entriesSelected[i]][key2]);
     }
 
   }
 
-  if (otherMenus[0] === "") {
-    updateMenu(updatedMenuTwo, "#" + otherMenus[1] + "_menu");
+  if (menuOneID === null) {
+    updateMenu(updatedMenuTwo, "#" + menuTwoID + "_menu");
   } else {
-    updateMenu(updatedMenuOne, "#" + otherMenus[0] + "_menu");
-    updateMenu(updatedMenuTwo, "#" + otherMenus[1] + "_menu");
+    updateMenu(updatedMenuOne, "#" + menuOneID + "_menu");
+    updateMenu(updatedMenuTwo, "#" + menuTwoID + "_menu");
   }
 
 }
