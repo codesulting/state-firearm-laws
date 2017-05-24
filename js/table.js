@@ -1,20 +1,20 @@
 var rawData = $.getJSON("js/raw-data.json", function (obj) {
-  // data for table
+  // Data for table - columns and rows.
   var rawDataColumns = obj["columns"];
   var rawDataRows = obj["rows"];
 
-  // option to update table automatically or not
+  // Option to update table automatically or not (ie user has to click on update button).
   $('#autoupdate').attr("checked", "true");
   var isAutoUpdated = true; // assumes true by default
 
-  // data for dropdowns
+  // Data for dropdown menus.
   var statesObj = obj["states"];
   var states = [];
-  // get state names
+  // Get state names for initializing dropdown menu.
   for (var i = 0; i < statesObj.length; i++) {
     states[i] = statesObj[i]["name"];
   }
-  // for loading year dropdown
+  // Get years for loading year dropdown (bounds specified by raw-data.json).
   var years = [];
   var min_year = Number(obj["yearbounds"][0]);
   var max_year = Number(obj["yearbounds"][1]);
@@ -22,16 +22,15 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     years[i] = min_year + i;
   }
 
-
   var categories = obj["categories"];
   var subcategories = obj["subcategories"];
   var provisions = obj["provisions"];
 
+  // State variable that prevents infinite looping of menu updates during menu reset.
   var isInReset = false;
 
 
-  // set up menus and table
-  // returns reference to list objects that control menu display
+  // Set up dropdown menus and table.
 
   hideTableWarning();
   $('#no_data_warning').css("display", "none");
@@ -43,22 +42,19 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   var initialColumns = provisions.slice();
   initialColumns.sort();
-  initialColumns.unshift("state", "year"); // always comes first in list
+  initialColumns.unshift("state", "year"); // Always comes first in column headers.
   initialColumns.push("lawtotal");
 
-  // will be changed based on update button
+  // Will be changed based on updates to menus.
   var statesDisplayed = states;
   var yearsDisplayed = years;
   var provisionsDisplayed = provisions;
   initializeTable(initialColumns, rawDataRows);
 
-  // change to show default year
-  $('#year_menu').selectpicker('val', [2017]);
-  $('#state_menu').selectpicker('selectAll');
-  $('#provision_menu').selectpicker('selectAll');
-  $('#year_menu').selectpicker('refresh');
-  $('#state_menu').selectpicker('refresh');
-  $('#provision_menu').selectpicker('refresh');
+  // Change table and menus to show info for default year only selected.
+  $('#year_menu').selectpicker('val', [2017]).selectpicker('refresh');
+  $('#state_menu').selectpicker('selectAll').selectpicker('refresh');
+  $('#provision_menu').selectpicker('selectAll').selectpicker('refresh');
 
   statesDisplayed = $('#state_menu').val();
   yearsDisplayed = $('#year_menu').val();
@@ -66,8 +62,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
-
-  // change in whether page should be automatically updated
+  // Change in whether page should be automatically updated.
   $('#autoupdate').change(function () {
     isAutoUpdated = $('#autoupdate').prop("checked");
     // if ticked, will automatically update immediately
@@ -80,7 +75,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     }
   })
 
-  // generate buttons for downloading complete database (ie complete table)
+  // Button actions for downloading complete database (ie complete table).
   $('#csv_complete_button').click(function () {
     var data = generateArray(initialColumns, rawDataRows);
     CSVOutput(data);
@@ -97,19 +92,19 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   });
 
 
-  // generate buttons for downloading partial database
-  // events for download buttons
-
+  // Button actions for downloading partial database.
   $('#csv_button').click(function () {
-
+    // Obtain list of columns to be included in file.
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    // show lawtotal if complete table is being shown
+
+    // Show lawtotal if complete table is being shown.
     if (newColumns.length === initialColumns.length - 1) {
       newColumns = newColumns.concat(["lawtotal"]);
     } else {
       newColumns = newColumns.concat(["lawsubtotal"]);
     }
+    // Based on states, years, and provisions, creates array object.
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -118,14 +113,17 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   });
 
   $('#txt_button').click(function () {
+    // Obtain list of columns to be included in file.
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    // show lawtotal if complete table is being shown
+
+    // Show lawtotal if complete table is being shown.
     if (newColumns.length === initialColumns.length - 1) {
       newColumns = newColumns.concat(["lawtotal"]);
     } else {
       newColumns = newColumns.concat(["lawsubtotal"]);
     }
+    // Based on states, years, and provisions, creates array object.
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -133,14 +131,18 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   });
 
   $('#xls_button').click(function () {
+    // Obtain list of columns to be included in file.
     var oldColumns = ["state", "year"];
     var newColumns = oldColumns.concat(provisionsDisplayed);
-    // show lawtotal if complete table is being shown
+
+    // Show lawtotal if complete table is being shown.
     if (newColumns.length === initialColumns.length - 1) {
       newColumns = newColumns.concat(["lawtotal"]);
     } else {
       newColumns = newColumns.concat(["lawsubtotal"]);
     }
+
+    // Based on states, years, and provisions, creates array object.
     var newRows = filterRows(rawDataRows, statesDisplayed, yearsDisplayed);
     var data = generateArray(newColumns, newRows);
 
@@ -150,14 +152,13 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
 
   /*
-   * change events for the menus
-   * Follows the behavior of Tableau-implemented version of the table
-   * where any changes to the provision menu only change the subcategories menu;
-   * any changes to the categories menu  changes both the provisions and subcategories
-   * and any changes to the subcategories menu changes the provisions menu
-   * */
+   * Change events for the menus.
+   * Any changes to the categories menu changes both the provisions and subcategories
+   * and any changes to the subcategories menu changes the provisions menu.
+   *
+   */
 
-  $('#state_menu').on('change', function(event, clickedINdex, newValue, oldValue) {
+  $('#state_menu').on('change', function (event, clickedIndex, newValue, oldValue) {
     if (isAutoUpdated) {
       statesDisplayed = $('#state_menu').val();
       yearsDisplayed = $('#year_menu').val();
@@ -165,11 +166,12 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
       updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
     } else {
+      // Warning to click update button.
       showTableWarning();
     }
   });
 
-  $('#year_menu').on('change', function(event, clickedINdex, newValue, oldValue) {
+  $('#year_menu').on('change', function (event, clickedIndex, newValue, oldValue) {
     if (isAutoUpdated) {
       statesDisplayed = $('#state_menu').val();
       yearsDisplayed = $('#year_menu').val();
@@ -183,8 +185,6 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   $('#provision_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
-
-
       if (isAutoUpdated) {
         statesDisplayed = $('#state_menu').val();
         yearsDisplayed = $('#year_menu').val();
@@ -202,9 +202,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   $('#category_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
 
-
-
-      // update subcategory and provisions dropdowns
+      // Update subcategory and provisions dropdowns.
       triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
 
       if (isAutoUpdated) {
@@ -212,21 +210,19 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
         yearsDisplayed = $('#year_menu').val();
         provisionsDisplayed = $('#provision_menu').val();
 
-        // prevents table from autoupdating during reset
+        // Prevents table from autoupdating during reset.
         if (!isInReset) {
           updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
         }
 
 
-      } else {
-        showTableWarning();
       }
 
     });
 
   $('#subcategory_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
-      // update provision menu
+      // Update provision menu.
 
       triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
 
@@ -247,10 +243,10 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
     });
 
-  // event for updating table
+  // Event for updating table.
 
   $('#update_button').click(function () {
-    // based on state, year and provision, create updated table
+    // Based on state, year and provision, create updated table.
     statesDisplayed = $('#state_menu').val();
     yearsDisplayed = $('#year_menu').val();
     provisionsDisplayed = $('#provision_menu').val();
@@ -259,10 +255,10 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   });
 
-  // resets menus
+  // Resets menus.
   $('#reset_button').on('click', function () {
+    // Indicates that reset is occurring, so menus should not trigger updates on other menus.
     isInReset = true;
-    // leads to lag if on autoupdate
     updateMenu(categories, "#category_menu");
     updateMenu(subcategories, "#subcategory_menu");
     updateMenu(provisions, "#provision_menu");
@@ -270,6 +266,8 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     $("#year_menu").selectpicker('selectAll');
 
     hideTableWarning();
+
+    // After reset, can get values of menus and show full table.
 
     statesDisplayed = $('#state_menu').val();
     yearsDisplayed = $('#year_menu').val();
@@ -283,7 +281,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 });
 
 
-// update table and disable buttons
+// Update table and disable buttons.
 function updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed) {
 
   hideTableWarning();
@@ -307,15 +305,14 @@ function updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDispl
 }
 
 /*
- * table-related functions
+ * Table-related functions.
  */
 
-// sets up table using clusterize js, which helps optimize loading
-
+// Sets up table using clusterize js, which helps optimize loading.
 function createTableContent(columns, rows) {
   var tableContent = [];
 
-//Generate all table rows
+// Generate all table rows.
 
   for (var i = 0; i < rows.length; i++) {
 
@@ -341,7 +338,7 @@ function createTableContent(columns, rows) {
 }
 
 function initializeTable(columns, rows) {
-  //Generate table header section
+  // Generate table header section.
   var header = [];
 
   header.push("<div class='clusterize-headers'><table class='table' id='headersArea'><thead><tr>");
@@ -353,8 +350,7 @@ function initializeTable(columns, rows) {
 
   $('#raw_data_table_placeholder').append(header.join(""));
 
-  // create clusterize table temp
-
+  // Create temporary version of clusterize table.
 
   var loadingString = '<div id="scrollArea" class="clusterize-scroll"> <table class="table table-bordered table-hover table-responsive"><thead id="hiddenScrollHeader">';
   for (var i = 0; i < columns.length; i++) {
@@ -363,7 +359,7 @@ function initializeTable(columns, rows) {
   loadingString += '</thead><tbody id="contentArea" class="clusterize-content"> <tr class="clusterize-no-data"> <td>Loading data…</td> </tr> </tbody> </table> </div>';
   $('#raw_data_table_placeholder').append(loadingString);
 
-  // create actual table and populate
+  // Create actual table and populate.
 
   var tableContent = createTableContent(columns, rows);
 
@@ -377,7 +373,7 @@ function initializeTable(columns, rows) {
 
 }
 
-// adds rows to table only if state and year in the row match the input lists' values
+// Adds rows to table only if state and year in the row match the input lists' values.
 function filterRows(rows, stateValues, yearValues) {
   var newRows = [];
   if (stateValues != null && yearValues != null) {
@@ -392,7 +388,7 @@ function filterRows(rows, stateValues, yearValues) {
 }
 
 function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
-  // if user has not chosen states or years or provisions, table should be empty
+  // If user has not chosen states or years or provisions, table should be empty.
   if ((statesChosen === null || yearsChosen === null || provisionsChosen === null ||
     statesChosen.length === 0 || yearsChosen.length === 0 || provisionsChosen.length === 0)) {
     $('#no_data_warning').css("display", "block");
@@ -408,7 +404,7 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
     $('#txt_button').prop('disabled', false);
     $('#xls_button').prop('disabled', false);
   }
-  // update header area
+  // Update header area.
   var header = ["<thead><tr>"];
   var oldColumns = ["state", "year"];
   var newColumns = oldColumns.concat(provisionsChosen);
@@ -421,7 +417,7 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   $('#headersArea').empty();
   $('#headersArea').append(header.join(""));
 
-  // update hidden header area for scrolling
+  // Update hidden header area for scrolling.
   $('#hiddenScrollHeader').empty();
   var hiddenHeader = "";
   for (var i = 0; i < newColumns.length; i++) {
@@ -429,10 +425,10 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   }
   $('#hiddenScrollHeader').append(hiddenHeader);
 
-  // Remove rows based on states and year
+  // Remove rows based on states and year.
   var newRows = filterRows(rawDataRows, statesChosen, yearsChosen);
 
-  // Remove columns based on provisions chosen
+  // Remove columns based on provisions chosen.
   var tableContent = createTableContent(newColumns, newRows);
 
   var clusterize = new Clusterize({
@@ -442,16 +438,14 @@ function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   });
 }
 
-// from clusterize js, intended to synchronize table head and body scrolling
+// From clusterize js - synchronizes table head and body scrolling.
 function initializeHeaderScrolling() {
   var $scroll = $('#scrollArea');
   var $content = $('#contentArea');
   var $headers = $('#headersArea');
 
 
-  /**
-   * Makes header columns equal width to content columns
-   */
+  // Makes header columns equal width to content columns.
   var fitHeaderColumns = (function () {
     var prevWidth = [];
     return function () {
@@ -468,28 +462,20 @@ function initializeHeaderScrolling() {
     }
   })();
 
-  /**
-   * Keep header equal width to tbody
-   */
+  // Keep header equal width to tbody.
   var setHeaderWidth = function () {
     $headers.width($content.width());
   }
 
-  /**
-   * Set left offset to header to keep equal horizontal scroll position
-   */
+  // Set left offset to header to keep equal horizontal scroll position.
   var setHeaderLeftMargin = function (scrollLeft) {
     $headers.css('margin-left', -scrollLeft);
   }
 
-  /**
-   * Update header columns width on window resize
-   */
+  // Update header columns width on window resize.
   $(window).resize(fitHeaderColumns);
 
-  /**
-   * Update header left offset on scroll
-   */
+  // Update header left offset on scroll.
   $scroll.on('scroll', (function () {
     var prevScrollLeft = 0;
     return function () {
@@ -504,13 +490,13 @@ function initializeHeaderScrolling() {
 
 
 /*
- * helper functions for menus
+ * Helper functions for menus.
  */
 
-// generates dropdown menus for state, year, etc. using dropdown-select
+// Generates dropdown menus for state, year, etc. using dropdown-select.
 function initializeMenu(listItems, titleName, idName) {
   listItems.sort();
-  // create dropdown menu
+  // Create dropdown menu.
   var content = "<select class='selectpicker' multiple data-width='75%' data-actions-box='true' title=" + titleName + " id=" + idName + ">";
 
   for (var i = 0; i < listItems.length; i++) {
@@ -526,21 +512,21 @@ function initializeMenu(listItems, titleName, idName) {
 }
 
 
-// function that changes other menus based on input to initial menu
-// uses a mapping provided in raw-data.json
+// Function that changes other menus based on input to initial menu.
+// Uses a mapping provided in raw-data.json.
 
 function triggerMenusChanges(initialMenuID, otherMenus, map) {
-  // selected values on the initial menu
+  // Selected values on the initial menu.
   var entriesSelected = $(initialMenuID).val();
   var updatedMenuOne = [];
   var updatedMenuTwo = [];
 
   if (entriesSelected !== null) {
 
-    // collect relevant values for other menus
+    // Collect relevant values for other menus
     // (e.g. given an initial category menu,
     // collect relevant provisions and subcategories)
-    // based on mappings from raw-data.json
+    // based on mappings from raw-data.json.
 
     for (var i = 0; i < entriesSelected.length; i++) {
       if (otherMenus[0] !== "") {
@@ -552,10 +538,8 @@ function triggerMenusChanges(initialMenuID, otherMenus, map) {
   }
 
   if (otherMenus[0] === "") {
-    // then update menus
     updateMenu(updatedMenuTwo, "#" + otherMenus[1] + "_menu");
   } else {
-    // then update menus
     updateMenu(updatedMenuOne, "#" + otherMenus[0] + "_menu");
     updateMenu(updatedMenuTwo, "#" + otherMenus[1] + "_menu");
   }
@@ -563,17 +547,17 @@ function triggerMenusChanges(initialMenuID, otherMenus, map) {
 }
 
 
-// function that updates a dropdown menu with new list of entries
+// Function that updates a dropdown menu with new list of entries.
 function updateMenu(updatedList, dropdownID) {
   updatedList.sort();
   var categoryContent = "";
-  // remove all options from current menu
+  // Remove all options from current menu.
   $(dropdownID).empty();
 
   for (var i = 0; i < updatedList.length; i++) {
     categoryContent += "<option>" + updatedList[i] + "</option>";
   }
-  // update dropdown
+  // Update dropdown.
   $(dropdownID).append(categoryContent);
   $(dropdownID).selectpicker('refresh');
   $(dropdownID).selectpicker('selectAll');
@@ -581,7 +565,7 @@ function updateMenu(updatedList, dropdownID) {
 }
 
 
-// hide/show error box indicating user should update table
+// Hide/show error box indicating user should update table.
 function showTableWarning() {
   $('#raw_data_table_placeholder').css('border-style', 'dashed');
   $('#raw_data_table_placeholder').css('border-width', '5px 5px 5px 5px');
@@ -598,23 +582,23 @@ function hideTableWarning() {
 
 
 /*
- * download associated functions
+ * Download associated functions.
  *
  */
 
-// uses Filesaver to write out csv
+// Uses Filesaver to write out csv.
 function CSVOutput(data) {
   var csvData = arrToCSV(data);
   saveAs(new Blob([csvData], {type: "data:text/csv;charset=utf-8"}), "raw_data.csv");
 }
 
-// uses Filesaver to write out txt
+// Uses Filesaver to write out txt.
 function TXTOutput(data) {
   var txtData = arrToTXT(data);
   saveAs(new Blob([txtData], {type: "text/plain;charset=utf-8"}), "data.txt");
 }
 
-// uses XLSX-js and FileSaver to write out xls
+// Uses XLSX-js and FileSaver to write out xls.
 function XLSOutput(data) {
   var ws = sheetFromArrayOfArrays(data);
   var wb = new Workbook();
@@ -626,28 +610,28 @@ function XLSOutput(data) {
   saveAs(new Blob([s2ab(wbout)], {type: "application/octet-stream"}), fname);
 }
 
-// concatenates array in csv friendly format
+// Concatenates array in csv friendly format.
 function arrToCSV(arr) {
-  var textArray = [];
-  arr.forEach(function (row, index) {
-    var line = row.join(",");
-    textArray.push(line);
-  });
-  return textArray.join("\r\n");
+  return arrTo(arr, ",");
 }
 
-// concatenates array in txt friendly format
+// Concatenates array in txt friendly format.
 function arrToTXT(arr) {
+  return arrTo(arr, "\t");
+}
+
+// Helper method for concatenation.
+function arrTo(arr, delimit) {
   var textArray = [];
   arr.forEach(function (row, index) {
-    var line = row.join("\t");
+    var line = row.join(delimit);
     textArray.push(line);
   });
   return textArray.join("\r\n");
 }
 
 
-// helper function to generate array based on rows/columns json input of complete database
+// Helper function to generate array based on rows/columns json input of complete database.
 function generateArray(columns, rows) {
   var arr = [];
   arr.push(columns);
@@ -661,7 +645,7 @@ function generateArray(columns, rows) {
         arrRow.push(rows[i][columns[j]]);
       }
 
-      // to calculate total laws per row
+      // To calculate total laws per row.
       if (Number(rows[i][columns[j]]) === 1) {
         total += 1;
       }
@@ -672,10 +656,10 @@ function generateArray(columns, rows) {
   return arr;
 }
 
-/* functions from xlsx-js package help to convert js arrays to compatible Workbook format
+/* Functions from xlsx-js package help to convert js arrays to compatible Workbook format
  for output as csv/xls files
  */
-// from xlsx-js package's demo
+// From xlsx-js package's demo.
 
 function dateNum(v/*:Date*/, date1904/*:?boolean*/)/*:number*/ {
   var epoch = v.getTime();
@@ -683,7 +667,7 @@ function dateNum(v/*:Date*/, date1904/*:?boolean*/)/*:number*/ {
   return (epoch + 2209161600000) / (24 * 60 * 60 * 1000);
 }
 
-// from xlsx-js package's demo
+// From xlsx-js package's demo.
 function sheetFromArrayOfArrays(data, opts) {
   var ws = {};
   var range = {s: {c: 10000000, r: 10000000}, e: {c: 0, r: 0}};
@@ -713,14 +697,14 @@ function sheetFromArrayOfArrays(data, opts) {
   return ws;
 }
 
-// from xlsx-js package's demo
+// From xlsx-js package's demo.
 function Workbook() {
   if (!(this instanceof Workbook)) return new Workbook();
   this.SheetNames = [];
   this.Sheets = {};
 }
 
-// from xlsx-js package's demo
+// From xlsx-js package's demo.
 function s2ab(s) {
   if (typeof ArrayBuffer !== 'undefined') {
     var buf = new ArrayBuffer(s.length);
