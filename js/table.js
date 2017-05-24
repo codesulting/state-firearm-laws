@@ -52,6 +52,20 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var provisionsDisplayed = provisions;
   initializeTable(initialColumns, rawDataRows);
 
+  // change to show default year
+  $('#year_menu').selectpicker('val', [2017]);
+  $('#state_menu').selectpicker('selectAll');
+  $('#provision_menu').selectpicker('selectAll');
+  $('#year_menu').selectpicker('refresh');
+  $('#state_menu').selectpicker('refresh');
+  $('#provision_menu').selectpicker('refresh');
+
+  statesDisplayed = $('#state_menu').val();
+  yearsDisplayed = $('#year_menu').val();
+  provisionsDisplayed = $('#provision_menu').val();
+
+  updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+
 
   // change in whether page should be automatically updated
   $('#autoupdate').change(function () {
@@ -360,6 +374,7 @@ function initializeTable(columns, rows) {
   });
 
   initializeHeaderScrolling();
+
 }
 
 // adds rows to table only if state and year in the row match the input lists' values

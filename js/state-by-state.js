@@ -2,7 +2,7 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
 
   usStates = obj['states'];
   var stateData;
-  var defaultYear = 2016;
+  var defaultYear = 2017;
 
   // Create list of states dropdown.
   var stateDropdownContent = "<select class='selectpicker' data-live-search='true' id='state_dropdown' title='Choose a state...'>";
