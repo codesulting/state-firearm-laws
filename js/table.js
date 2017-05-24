@@ -3,9 +3,9 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   var rawDataColumns = obj["columns"];
   var rawDataRows = obj["rows"];
 
-  // Option to update table automatically or not (ie user has to click on update button).
-  $('#autoupdate').attr("checked", "true");
-  var isAutoUpdated = true; // assumes true by default
+  // // Option to update table automatically or not (ie user has to click on update button).
+  // $('#autoupdate').attr("checked", "true");
+  // var isAutoUpdated = true; // assumes true by default
 
   // Data for dropdown menus.
   var statesObj = obj["states"];
@@ -32,7 +32,6 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
   // Set up dropdown menus and table.
 
-  hideTableWarning();
   $('#no_data_warning').css("display", "none");
   initializeMenu(states, "State", "state_menu");
   initializeMenu(years, "Year", "year_menu");
@@ -60,20 +59,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
   yearsDisplayed = $('#year_menu').val();
   provisionsDisplayed = $('#provision_menu').val();
 
-  updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-
-  // Change in whether page should be automatically updated.
-  $('#autoupdate').change(function () {
-    isAutoUpdated = $('#autoupdate').prop("checked");
-    // if ticked, will automatically update immediately
-    if (isAutoUpdated) {
-      statesDisplayed = $('#state_menu').val();
-      yearsDisplayed = $('#year_menu').val();
-      provisionsDisplayed = $('#provision_menu').val();
-
-      updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-    }
-  })
+  updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
   // Button actions for downloading complete database (ie complete table).
   $('#csv_complete_button').click(function () {
@@ -159,42 +145,31 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
    */
 
   $('#state_menu').on('change', function (event, clickedIndex, newValue, oldValue) {
-    if (isAutoUpdated) {
-      statesDisplayed = $('#state_menu').val();
-      yearsDisplayed = $('#year_menu').val();
-      provisionsDisplayed = $('#provision_menu').val();
+    statesDisplayed = $('#state_menu').val();
+    yearsDisplayed = $('#year_menu').val();
+    provisionsDisplayed = $('#provision_menu').val();
 
-      updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-    } else {
-      // Warning to click update button.
-      showTableWarning();
-    }
+    updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
   });
 
   $('#year_menu').on('change', function (event, clickedIndex, newValue, oldValue) {
-    if (isAutoUpdated) {
-      statesDisplayed = $('#state_menu').val();
-      yearsDisplayed = $('#year_menu').val();
-      provisionsDisplayed = $('#provision_menu').val();
 
-      updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-    } else {
-      showTableWarning();
-    }
+    statesDisplayed = $('#state_menu').val();
+    yearsDisplayed = $('#year_menu').val();
+    provisionsDisplayed = $('#provision_menu').val();
+
+    updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+
   });
 
   $('#provision_menu').on('change',
     function (event, clickedIndex, newValue, oldValue) {
-      if (isAutoUpdated) {
-        statesDisplayed = $('#state_menu').val();
-        yearsDisplayed = $('#year_menu').val();
-        provisionsDisplayed = $('#provision_menu').val();
+      statesDisplayed = $('#state_menu').val();
+      yearsDisplayed = $('#year_menu').val();
+      provisionsDisplayed = $('#provision_menu').val();
 
-        if (!isInReset) {
-          updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-        }
-      } else {
-        showTableWarning();
+      if (!isInReset) {
+        updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
       }
 
     });
@@ -203,20 +178,17 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     function (event, clickedIndex, newValue, oldValue) {
 
       // Update subcategory and provisions dropdowns.
-      triggerMenusChanges("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
+      updateMenus("#category_menu", ["subcategory", "provision", "subcategories", "provisions"], obj["maps"]["categorymap"]);
 
-      if (isAutoUpdated) {
-        statesDisplayed = $('#state_menu').val();
-        yearsDisplayed = $('#year_menu').val();
-        provisionsDisplayed = $('#provision_menu').val();
+      statesDisplayed = $('#state_menu').val();
+      yearsDisplayed = $('#year_menu').val();
+      provisionsDisplayed = $('#provision_menu').val();
 
-        // Prevents table from autoupdating during reset.
-        if (!isInReset) {
-          updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-        }
-
-
+      // Prevents table from autoupdating during reset.
+      if (!isInReset) {
+        updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
       }
+
 
     });
 
@@ -224,22 +196,15 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     function (event, clickedIndex, newValue, oldValue) {
       // Update provision menu.
 
-      triggerMenusChanges("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
+      updateMenus("#subcategory_menu", ["", "provision", "", "provisions"], obj["maps"]["subcategorymap"]);
 
+      statesDisplayed = $('#state_menu').val();
+      yearsDisplayed = $('#year_menu').val();
+      provisionsDisplayed = $('#provision_menu').val();
 
-      if (isAutoUpdated) {
-        statesDisplayed = $('#state_menu').val();
-        yearsDisplayed = $('#year_menu').val();
-        provisionsDisplayed = $('#provision_menu').val();
-
-        if (!isInReset) {
-          updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
-        }
-
-      } else {
-        showTableWarning();
+      if (!isInReset) {
+        updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
       }
-
 
     });
 
@@ -251,7 +216,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     yearsDisplayed = $('#year_menu').val();
     provisionsDisplayed = $('#provision_menu').val();
 
-    updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
+    updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed);
 
   });
 
@@ -264,8 +229,6 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
     updateMenu(provisions, "#provision_menu");
     $("#state_menu").selectpicker('selectAll');
     $("#year_menu").selectpicker('selectAll');
-
-    hideTableWarning();
 
     // After reset, can get values of menus and show full table.
 
@@ -282,9 +245,7 @@ var rawData = $.getJSON("js/raw-data.json", function (obj) {
 
 
 // Update table and disable buttons.
-function updateAll(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed) {
-
-  hideTableWarning();
+function updateTableAndButtons(rawDataRows, statesDisplayed, yearsDisplayed, provisionsDisplayed) {
 
   if (statesDisplayed === null || yearsDisplayed === null || provisionsDisplayed === null) {
     updateTable(rawDataRows, [], [], [], false);
@@ -389,6 +350,7 @@ function filterRows(rows, stateValues, yearValues) {
 
 function updateTable(rawDataRows, statesChosen, yearsChosen, provisionsChosen) {
   // If user has not chosen states or years or provisions, table should be empty.
+  // Also displays message to user.
   if ((statesChosen === null || yearsChosen === null || provisionsChosen === null ||
     statesChosen.length === 0 || yearsChosen.length === 0 || provisionsChosen.length === 0)) {
     $('#no_data_warning').css("display", "block");
@@ -512,10 +474,10 @@ function initializeMenu(listItems, titleName, idName) {
 }
 
 
-// Function that changes other menus based on input to initial menu.
+// Function that changes other menus based on user's selection of options on initial menu.
 // Uses a mapping provided in raw-data.json.
 
-function triggerMenusChanges(initialMenuID, otherMenus, map) {
+function updateMenus(initialMenuID, otherMenus, map) {
   // Selected values on the initial menu.
   var entriesSelected = $(initialMenuID).val();
   var updatedMenuOne = [];
@@ -550,34 +512,18 @@ function triggerMenusChanges(initialMenuID, otherMenus, map) {
 // Function that updates a dropdown menu with new list of entries.
 function updateMenu(updatedList, dropdownID) {
   updatedList.sort();
-  var categoryContent = "";
+  var menuContent = "";
   // Remove all options from current menu.
   $(dropdownID).empty();
 
   for (var i = 0; i < updatedList.length; i++) {
-    categoryContent += "<option>" + updatedList[i] + "</option>";
+    menuContent += "<option>" + updatedList[i] + "</option>";
   }
   // Update dropdown.
-  $(dropdownID).append(categoryContent);
+  $(dropdownID).append(menuContent);
   $(dropdownID).selectpicker('refresh');
   $(dropdownID).selectpicker('selectAll');
 
-}
-
-
-// Hide/show error box indicating user should update table.
-function showTableWarning() {
-  $('#raw_data_table_placeholder').css('border-style', 'dashed');
-  $('#raw_data_table_placeholder').css('border-width', '5px 5px 5px 5px');
-  $('#raw_data_table_placeholder').css('border-color', '#d9534f');
-  $('#no_update_warning').css('display', '');
-  $('#update_button').addClass('btn-danger').removeClass('btn-default');
-}
-
-function hideTableWarning() {
-  $('#raw_data_table_placeholder').css('border-style', 'none');
-  $('#no_update_warning').css('display', 'none');
-  $('#update_button').addClass('btn-default').removeClass('btn-danger');
 }
 
 
