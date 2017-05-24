@@ -1,4 +1,4 @@
-/* for displaying Tableau map */
+/* For displaying Tableau map. */
 
 var divElement = document.getElementById('viz1479078600664');
 var vizElement = divElement.getElementsByTagName('object')[0];

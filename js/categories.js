@@ -1,15 +1,13 @@
 var data = $.getJSON("js/glossary.json", function (obj) {
 
-  // retrieve data
+  // Retrieve data.
   data = obj['rows'];
 
-  // list of categories
+  // Obtain and alphabetize list of categories.
   var categories = obj['categories'];
-
-  // alphabetize
   categories.sort();
 
-  // create dropdown for categories
+  // Create dropdown for categories.
   var categoriesContent = "<select class='selectpicker' id='category_menu'>";
 
   for (var i = 0; i < categories.length; i++) {
@@ -21,12 +19,12 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#category_menu_div').append(categoriesContent);
 
 
-  // set default category explanation/div to show
+  // Set default category explanation/div to show.
   $('#category_menu').selectpicker('val', 'Ammunition regulations');
   updateDiv();
 
-  // show appropriate div based on chosen dropdown
-  // requires that div heading exactly matches categories as stored in glossary.json (not case-sensitive)
+  // Show appropriate div based on chosen dropdown.
+  // Requires that div heading exactly matches categories as stored in glossary.json (not case-sensitive).
 
   $('#category_menu').on('changed.bs.select', function () {
     updateDiv();
@@ -35,10 +33,12 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
 });
 
+// Shows div based on dropdown option chosen. Hides remaining divs.
 function updateDiv() {
   $('#category_text_div').children().css("display", "none");
   var categoryChosen = $('#category_menu').val();
   $('#category_text_div').find("div").each(function(index) {
+    // Matches header to dropdown selection.
     if ($(this).children("h3:first").text().toLowerCase() === categoryChosen.toLowerCase()) {
       $(this).show();
     } else {

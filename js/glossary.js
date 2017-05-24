@@ -1,16 +1,15 @@
 var data = $.getJSON("js/glossary.json", function (obj) {
 
-  // retrieve data
+  // Retrieve data (categories, subcategories).
   data = obj['rows'];
   var categories = obj['categories'];
   var subcategories = obj['subcategories'];
   categories.sort();
   subcategories.sort();
 
+// Generate table header section.
   var headers = ["Code", "Definition", "Category/Subcategory"];
 
-
-//Generate table header section
   var tableContent = "";
   tableContent += "<table class='table table-responsive table-hover'><thead><tr>";
 
@@ -20,7 +19,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   tableContent += "</tr></thead><tbody class='list'>";
 
 
-//Generate all table rows from the glossary codebook
+// Generate all table rows from the glossary codebook.
 
   for (var i = 0; i < data.length; i++) {
     var glossaryData = data[i]
@@ -33,10 +32,10 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
   tableContent += "</tbody></table>";
 
-//js-generated table is appended to div
+// js-generated table is appended to div.
   $('#glossary_table').append(tableContent);
 
-  // create new List using list.js for manipulating the glossary table
+  // Create new List using list.js for manipulating the glossary table.
   var glossaryOptions = {
     valueNames: ["variable", "description", "category"]
   };
@@ -44,7 +43,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
   glossaryList.sort("variable", {order: "asc"});
 
-  // create category dropdown menu
+  // Create category dropdown menu.
   var categoryContent = "<select class='selectpicker' title='Category' id='category_menu'>";
 
   for (var i = 0; i < categories.length; i++) {
@@ -56,8 +55,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#category_menu_placeholder').append(categoryContent);
 
 
-  // create subcategory dropdown menu
-
+  // Create subcategory dropdown menu.
   var subcategoryContent = "<select class='selectpicker' title='Subcategory' id='subcategory_menu'>";
 
   for (var i = 0; i < subcategories.length; i++) {
@@ -69,29 +67,27 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   $('#subcategory_menu_placeholder').append(subcategoryContent);
 
 
-
-  // change both dropdown menus on search event
+  // Change both dropdown menus on search event.
   $('#glossary_search').keyup(function (event) {
-    // get current phrase in search input
+    // Get current phrase in search input.
     var searchTerm = $('#glossary_search').val();
 
 
+    // Reset list of glossary entries, and show entries matching with search term.
     glossaryList.search();
     glossaryList.filter();
     glossaryList.search(searchTerm);
-    // then update dropdown
+    // Update dropdown menus based on new glossary.
     updateDropdown(categories, glossaryList, false);
     updateDropdown(subcategories, glossaryList, true);
 
   });
 
-  // changes table based on category filter
+  // Changes table based on category dropdown.
   $('#category_menu').on('changed.bs.select',
     function (event, clickedIndex, newValue, oldValue) {
 
-
       var searchTerm = $('#glossary_search').val();
-
 
       glossaryList.search();
       glossaryList.filter();
@@ -99,29 +95,29 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         glossaryList.search(searchTerm);
       }
 
-      // option from category menu
+      // Option from category menu.
       var categoryOption = $('#category_menu option:selected').text();
 
-      // update glossary table
+      // Update glossary table.
       glossaryList.filter(function (item) {
-        // from table, includes category and subcategory
+        // From table, includes category and subcategory.
         var tableCategory = item.values().category;
         tableCategory = tableCategory.slice(0, tableCategory.indexOf("<br>"));
 
         return (tableCategory === categoryOption /*&& item.visible()*/);
       });
 
-      // update subcategory dropdown
+      // Update subcategory dropdown.
       updateDropdown(subcategories, glossaryList, true);
 
     });
 
 
-  // changes table based on subcategory filter
+  // Changes table based on subcategory dropdown.
   $('#subcategory_menu').on('changed.bs.select',
     function (event, clickedIndex, newValue, oldValue) {
 
-    // filter by search term first
+      // Filter by search term first.
       var searchTerm = $('#glossary_search').val();
       glossaryList.search();
       glossaryList.filter();
@@ -129,17 +125,17 @@ var data = $.getJSON("js/glossary.json", function (obj) {
         glossaryList.search(searchTerm);
       }
 
-      // get input from category/subcategory menu
+      // Get input from category/subcategory menu.
       var subcategoryOption = $('#subcategory_menu option:selected').text();
       var categoryOption = $('#category_menu option:selected').text();
 
       glossaryList.filter(function (item) {
-        // from table, parse out category and subcategory
+        // From table, parse out category and subcategory.
         var tableCatString = item.values().category;
         var tableCategory = tableCatString.slice(0, tableCatString.indexOf("<br>"));
         var tableSubcategory = tableCatString.slice(tableCatString.indexOf("<br>") + 4);
 
-        // filter based on input from dropdown menus
+        // Filter based on input from dropdown menus.
         if (categoryOption === null || categoryOption === "Category") {
           return (tableSubcategory === subcategoryOption);
         } else {
@@ -148,31 +144,30 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
       });
 
-      // update category dropdown if needed
+      // Update category dropdown if needed.
       if ($('#category_menu option:selected').text() === null) {
         updateDropdown(categories, glossaryList, false);
       }
 
     });
 
-  // reset search settings to show complete glossary, empty search
+  // Reset search settings to show complete glossary, empty search.
   $('#reset_search').click(function () {
     glossaryList.search(); // resets table
     glossaryList.filter();
     $('#glossary_search').val(""); // resets searchbar
 
 
-    // reset category dropdowns
+    // Reset category dropdowns.
     resetDropdown(categories, false);
     resetDropdown(subcategories, true);
   });
 
 });
 
-// resets dropdowns
-
+// Given a menu type and list of categories, resets menu.
 function resetDropdown(categories, isSubcategory) {
-  // create category dropdown menu
+  // Create category dropdown menu.
   var categoryContent = "";
   var dropdownID = '#category_menu';
   if (isSubcategory) {
@@ -189,7 +184,7 @@ function resetDropdown(categories, isSubcategory) {
 }
 
 
-// function that updates category/subcategory dropdown
+// Updates category/subcategory dropdown.
 function updateDropdown(categoryList, glossaryList, isSubcategory) {
   var categoryContent = "";
   var dropdownID;
@@ -201,19 +196,21 @@ function updateDropdown(categoryList, glossaryList, isSubcategory) {
   }
 
 
-  // assume all categories hidden by default
+  // Assume all categories on category dropdown are hidden by default.
   var isShow = [];
   $(dropdownID).empty();
   categoryList.forEach(function (element) {
     isShow.push(false);
   });
 
-  // find list of categories
+  // Loop through items from glossary that are currently visible.
   var visibleArray = glossaryList.visibleItems;
 
   for (var v in visibleArray) {
-    // get category or subcategory for each table entry
+    // Get category or subcategory for each table entry.
     var tableCategory = visibleArray[v].values().category;
+
+    // <br> is separator for category and subcategory on html page.
     if (tableCategory !== null) {
       if (isSubcategory) {
         tableCategory = tableCategory.slice(tableCategory.indexOf("<br>") + 4);
@@ -221,9 +218,8 @@ function updateDropdown(categoryList, glossaryList, isSubcategory) {
         tableCategory = tableCategory.slice(0, tableCategory.indexOf("<br>"));
       }
 
-      // loops through category for each table entry
-      // if match, show category
-
+      // Loops through category for each table entry.
+      // If match, show category on menu.
 
       for (var i = 0; i < categoryList.length; i++) {
         if (isShow[i]) {
@@ -237,7 +233,7 @@ function updateDropdown(categoryList, glossaryList, isSubcategory) {
     }
 
   }
-// update dropdown
+// Update dropdown.
   $(dropdownID).append(categoryContent);
   $(dropdownID).selectpicker('refresh');
 

@@ -29,7 +29,7 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
     displayState($('#state_dropdown option:selected'), stateData, defaultYear);
   });
 
-  // changes page based on chosen state
+  // Changes page based on chosen state.
   $(document).ready(
     $('#state_dropdown').on('changed.bs.select',
       function (event, clickedIndex, newValue, oldValue) {
@@ -44,15 +44,15 @@ var usStates = $.getJSON("js/states-list.json", function (obj) {
       })
   );
 
-// rates displayed change based on year input to slider
+// Rates displayed change based on year input to slider.
   $("#year").on("slideStop", function (slideEvt) {
     displayRates(stateData, slideEvt.value);
   });
 
 });
 
-// resets page based on state selected
-// updates icons, titles, and labels
+// Resets page based on state selected.
+// Updates icons, titles, and labels.
 function displayState(stateSelected, stateData, defaultYear) {
   for (var i = 0; i < usStates.length; i++) {
     if (stateSelected.text().toLowerCase() === usStates[i]["name"].toLowerCase()) {
@@ -79,7 +79,7 @@ function displayState(stateSelected, stateData, defaultYear) {
   }
 }
 
-// changes divs to show new suicide, homicide rates and gun law numbers
+// Changes divs to show new suicide, homicide rates and gun law numbers.
 function displayRates(stateData, year) {
   var sr = (year in stateData && stateData[year].length >= 3) ? stateData[year][2]["suicide_rate"] : "NR";
   var hr = (year in stateData && stateData[year].length >= 4) ? stateData[year][3]["homicide_rate"] : "NR";
@@ -133,10 +133,10 @@ function createHistoryTable(stateData) {
   }
 
   tableContent += "</tbody> </table>";
-  // create table and hide
+  // Create table and hide.
   $('#history_table').append(tableContent);
 
-  // create new List using list.js for manipulating the table
+  // Create new List using list.js for manipulating the table.
   var tableOptions = {
     valueNames: ["provision", "definition", "status"]
   };
