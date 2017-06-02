@@ -1,2 +1,8 @@
-h3 { font-weight:bold; }
-h4 { font-weight:bold; }
+.row { text-align: center; }
+.card { margin: auto; width: 50vw;}
+.list-group-item { background-color:#f3f3f3; border: none; margin: 2px;;}
+.list-group>.list-group-item>div { font-weight: 500; }
+.list-group-div { margin-bottom: 12px; padding-left: 15px; padding-right: 45px; }
+
+@media only screen and (max-width: 767px) {
+.card { margin: auto; width: 65vw;}
