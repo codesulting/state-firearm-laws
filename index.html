@@ -10,38 +10,33 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
         integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Franklin">
+ <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,700,900" rel="stylesheet">
 
   <link rel="stylesheet" href="css/general.css">
   <link rel="stylesheet" href="css/index.css">
+<link href="categories.html">
+    
 
   <title>State Firearm Laws - Homepage</title>
 </head>
 <body>
-<nav class="navbar navbar-default">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-            data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <a class="navbar-brand" href="index.html">State Firearm Laws</a>
-  </div>
+    
+<nav class="navbar">
   <ul class="nav navbar-nav">
-    <li class="active">
-      <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+      <li class="dropdown">
+      <a href="#index" class="nav-link" >State Firearms Law</a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#read">Read the Report</a></li>
+        <li><a class="dropdown-item" href="#work">Our Work</a></li>
+        <li><a class="dropdown-item" href="#about-us">About Us</a></li>
+
+      </ul>
     </li>
     <li>
-      <a class="nav-link" href="about.html">About Us</a>
-    </li>
-    <li>
-      <a class="nav-link" href="categories.html">About the Categories</a>
+      <a class="nav-link" href="categories.html">Law Categories</a>
     </li>
     <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-         aria-expanded="false">Law Data <span class="caret"></span></a>
+      <a href="#" class="nav-link">Law Data</a>
       <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="law-data.html">Visualization and Database Download</a></li>
         <li><a class="dropdown-item" href="glossary.html">Use the Database Glossary Search Tool</a></li>
@@ -51,69 +46,217 @@
     </li>
     <li class="nav-item">
       <a class="nav-link" href="state-by-state.html">
-        State-By-State
+        State Analysis
       </a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" target="_blank" href="report/SFL-Report-2016.pdf">
-        Read the Report
-      </a>
-    </li>
-    <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-         aria-expanded="false">Research <span class="caret"></span></a>
-      <ul class="dropdown-menu">
-        <!--li><a class="dropdown-item" href="news.html">Policy in the News</a></li-->
-        <li><a class="dropdown-item" href="publications.html">Recent Publications</a></li>
-        <li><a class="dropdown-item" href="work.html">Our Work</a></li>
-      </ul>
     </li>
   </ul>
 </nav>
 
-<div class="container">
-  <div class="row">
+<div class="container" id="index">
     <div class="jumbotron">
       <h1 class="display-3">State Firearm Law Database</h1>
       <p class="lead"> A project on gun safety regulation in America </p>
     </div>
-  </div>
+</div>
+<div class="row-container">
   <div class="row">
     <div class="col-sm-4">
       <div class="card card-block">
         <h3>Law Categories</h3>
-        <p>We classified the 133 firearm law provisions in our database into 14 categories, based on their intended impact on gun violence reduction. You can read more about the historical context and legal scope of these categories by reading through our <a href="categories.html"><b>About the Categories</b></a> pages.
+        <p>We classified the 133 firearm law provisions in our database into 14 categories, based on their intended impact on gun violence reduction. You can read more about the historical context and legal scope of these categories by reading through our <a href="categories.html">Law Categories</a> pages.
         </p>
-        <a class="btn btn-primary btn-lg" href="categories.html" role="button">Learn More »</a>
+        <a class="btn btn-primary" href="categories.html" role="button">Learn More »</a>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="card card-block">
         <h3>State Analysis</h3>
-        <p>Each of the 50 states has a unique history of firearm policy. We have compiled this information into our <a href="state-by-state.html"><b>State-By-State</b></a> pages and fact sheets, where you can view laws by year alongside their corresponding firearm-related homicide and suicide rates.
+        <p>Each of the 50 states has a unique history of firearm policy. We have compiled this information into our <a href="state-by-state.html">State Analysis</a> pages and fact sheets, where you can view laws by year alongside their corresponding firearm-related homicide and suicide rates.
         </p>
-        <a class="btn btn-primary btn-lg" href="state-by-state.html" role="button">Choose My State »</a>
+        <a class="btn btn-primary btn-md" href="state-by-state.html" role="button">Choose My State »</a>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="card card-block">
         <h3>Law Data</h3>
-        <p>We have made our law database publicly available for all to use. On our <a href="law-data.html"><b>Law Data</b></a> pages, you can visualize the data with our map tool or create a custom table that tracks the laws for the states, years, and categories in which you’re most interested. Click below to find out more.
+        <p>We have made our law database publicly available for all to use. On our <a href="law-data.html">Law Data</a> pages, you can visualize the data with our map tool or create a custom table that tracks the laws for the states, years, and categories in which you’re most interested. Click below to find out more.
         </p>
-        <a class="btn btn-primary btn-lg" href="law-data.html" role="button">Data In Action »</a>
+        <a class="btn btn-primary btn-md" href="law-data.html" role="button">Data In Action »</a>
       </div>
     </div>
   </div>
 </div>
+    
+<!---READ THE REPORT--->
+<button class="report-container" id="read">
+    <a href="https://www.statefirearmlaws.org/report/SFL-Report-2016.pdf"><h3> Read the report:</h3>
+    <h5>The Changing Landscape of U.S. Gun Policy: State Firearm Laws 1991&ndash;2016</h5>
+    </a></button>
 
-<footer class="footer align-middle">
-  <div class="container">
+<!---OUR WORK/PUBLICATIONS--->
+<div class="work-container" id="work">
     <div class="row">
-      <div class="col-xs-5 footer-text"><b>Boston University</b> School of Public Health</div>
-      <div class="col-xs-2"></div><!-- Social media/contact. -->
-      <div class="col-xs-5 footer-text">
-        <p><a href="index.html">State Firearm Laws</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="mailto:mbsiegel@bu.edu">Contact Us</a></p>
-        <!--p>Support for this website was provided by the <a href="http://www.evidenceforaction.org/">Robert Wood Johnson Foundation Evidence for Action Program</a>. The views expressed here do not necessarily reflect the views of the Foundation.</p-->
+    <div class="col-sm-6">
+        <h3>Literature</h3>
+      <ul>
+        <li>
+          <a href="https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kww147"><h5>The Hidden Epidemic of Firearm Injury: Increasing Firearm Injury Rates During 2001-2013</h5></a>
+          <p>This article reports trends in fatal and non-fatal firearm-related injuries from 2001 to 2013 and documents a sharp rise in non-fatal injuries during this period.</p>
+        </li>
+        <li>
+          <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4984734/"><h5>Firearm Ownership and Suicide Rates Among US Men and Women, 1981-2013</h5></a>
+          <p>This article examines the relationship between levels of household firearm ownership and suicide rates among men and women at the state level between 1981 and 2013. It finds a significant relationship between firearm ownership levels in a state and firearm-related suicide for both men and women. However, the relationship between firearm ownership and total suicide rates was found only for male suicide rates, not female suicide rates.</p>
+        </li>
+        <li>
+          <a href="http://online.liebertpub.com/doi/full/10.1089/vio.2015.0047"><h5>Firearm Ownership and the Murder of Women in the United States: Evidence That the State-Level Firearm Ownership Rate Is Associated with the Nonstranger Femicide Rate</h5></a>
+          <p>This article examines the relationship between levels of household gun ownership and rates of homicide among women at the state level during the period 1981-2013. It finds a significant, positive relationship between household gun ownership levels in a state and higher homicide rates. This relationship is specific to firearm-related homicide and to non-stranger homicide and is not observed with non-firearm-related homicide or stranger homicide.</p>
+        </li>
+        <li>
+          <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4167105/"><h5>The Relationship between Gun Ownership and Stranger and Nonstranger Firearm Homicide Rates in the United States, 1981-2010</h5></a>
+          <p>This article examines the relationship between levels of household firearm ownership and stranger and nonstranger firearm homicide rates at the state level between 1981 and 2010. It finds a significant positive relationship between firearm ownership levels and non-stranger homicides, but no significant relationship between firearm ownership levels and stranger homicide.</p>
+        </li>
+        <li>
+          <a href="http://injuryprevention.bmj.com/content/20/6/424.long"><h5>Examining the Relationship between the Prevalence of Guns and Homicide Rates in the USA Using a New and Improved State-Level Gun Ownership Proxy</h5></a>
+          <p>This article uses a newly developed proxy for state-level, household firearm ownership to re-examine the relationship between gun ownership levels and homicide rates at the state level between 1981 and 2010. It finds that gun ownership levels, as measured by this new proxy, are associated with significantly higher rates of total and firearm-related homicide but are not significantly associated with non-firearm homicide rates.</p>
+        </li>
+        <li>
+          <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828709/"><h5>The Relationship between Gun Ownership and Firearm Homicide Rates in the United States, 1981-2010</h5></a>
+          <p>This article examines the relationship between levels of household gun ownership and firearm-related homicide rates at the state level between 1981 and 2010. After controlling for a wide range of state-level factors, it finds that states with higher levels of household firearm ownership have significantly higher rates of firearm-related homicide.</p>
+        </li>
+        <li>
+          <a href="http://injuryprevention.bmj.com/content/20/3/204.long"><h5>A New Proxy Measure for State-Level Gun Ownership in Studies of Firearm Injury Prevention</h5></a>
+          <p>This article presents and validates a new proxy variable that can be used to estimate state-level, household firearm ownership prevalence. This new proxy improves the correlation with survey-measured household firearm ownership from 0.80 to 0.95 and more closely approximates the absolute levels of gun ownership.</p>
+        </li>
+        <li>
+          <a href="http://journals.sagepub.com/doi/abs/10.1177/0886260516629387?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&"><h5>The Role of Interpersonal Conflict as a Determinant of Firearm-Related Homicide-Suicides at Different Ages</h5></a>
+          <p>This article attempts to identify differences in factors related to firearm-related homicides-suicides compared to firearm-related suicides alone using data from the National Vital Death Registry from 2003 to 2011. It finds that interpersonal conflict and recent crisis are specific risk factors for firearm-related homicides-suicides.</p>
+        </li>
+      </ul>
+    </div>
+    <div class="col-sm-6">
+        <h3>Recent Publications</h3>
+        <ul>
+            <li>
+              <a href="http://annals.org/aim/article/2624992/true-effect-mass-shootings-americans"><h5>The True Effect of Mass Shootings on Americans</h5></a>
+              <p>This article discusses the relationship between mass shootings and the overall rates of firearm-related mortality in the United States.</p>
+            </li>
+            <li>
+              <a href="http://annals.org/aim/article/2624284/handgun-acquisitions-california-after-two-mass-shootings"><h5>Handgun Acquisitions in California after Two Mass Shootings</h5></a>
+              <p>This article uses time-series analysis to detect large, but short-lived increases in handgun purchases directly after the mass shootings in Newtown and San Bernardino.</p>
+            </li>
+            <li>
+              <a href="http://www.journalofsurgicalresearch.com/article/S0022-4804(16)30508-X/fulltext"><h5>An Epidemiologic Overview of 13 Years of Firearm Hospitalizations in Pennsylvania</h5></a>
+              <p>This article examines the nature and outcome of firearm-related hospitalizations at Pennsylvania trauma centers during the period 2003-2015. The results suggest that while the rate of firearm-related hospitalizations is declining, the severity of firearm-related injuries may be increasing.</p>
+            </li>
+            <li>
+              <a href="http://www.sciencedirect.com/science/article/pii/S0091743517301524"><h5>Rising Longitudinal Trajectories in Suicide Rates: The Role of Firearm Suicide Rates and Firearm Legislation</h5></a>
+              <p>This article examines trends in overall, firearm-related, and non-firearm-related suicide rates in the United States during the period 1999-2015 in relation to state universal background check and mandatory waiting period laws. It concludes that the absence of universal background check and mandatory waiting period laws is associated with more pronounced increases in suicide rates over the study period.</p>
+            </li>
+            <li>
+              <a href="http://www.sciencedirect.com/science/article/pii/S2211335517300670"><h5>A Longitudinal Ecological Study of Household Firearm Ownership and Firearm-Related Deaths in the United States from 1999 through 2014: A Specific Focus on Gender, Race, and Geographic Variables</h5></a>
+              <p>This article examines the relationship between levels of gun ownership, gender, race, and location (Census tract and level of urbanization) and variations in the proportion of deaths following assaults with a firearm and law enforcement incidents involving a firearm.</p>
+            </li>
+            <li>
+              <a href="http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2017.303712?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed"><h5>US Public Opinion on Carrying Firearms in Public Places</h5></a>
+              <p>This article reports the results of a national online survey of U.S. adults to ascertain their opinions regarding whether carrying firearms should be allowed in various public places. It finds that a majority of respondents, including gun owners, support limitations on public places where guns may be carried.</p>
+            </li>
+            <li>
+              <a href="http://onlinelibrary.wiley.com/doi/10.1111/sltb.12346/abstract;jsessionid=08D494F7D22DD6C5C51A2C6383561034.f02t02"><h5>The Association between Gun Ownership and Statewide Overall Suicide Rates</h5></a>
+              <p>This article examines the relationship between levels of household gun ownership and total, firearm-related, and non-firearm-related suicide rates at the state level in the year 2013. It finds that after controlling for a wide range of state-level factors, household gun ownership levels are associated with significantly higher rates of overall and firearm-related suicide.</p>
+            </li>
+            <li>
+              <a href="http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2016.303650?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed"><h5>Handgun Legislation and Changes in Statewide Overall Suicide Rates</h5></a>
+              <p>This article compared changes in state suicide rates from 2013 to 2014 in relation to the presence or absence of state universal background check and mandatory waiting period laws. It finds that the presence of these laws was associated with significantly greater declines (or smaller increases) in suicide rates over the one-year study period.</p>
+            </li>
+            <li>
+              <a href="http://www.injuryjournal.com/article/S0020-1383(17)30065-7/fulltext"><h5>Gunshot wounds resulting in hospitalization in the United States: 2004&ndash;2013</h5></a>
+              <p>This article explores the nature and extent of gunshot wound hospitalizations in the United States during the period 2004-2013. It examines differences in mortality outcomes by gender and race.</p>
+            </li>
+            <li>
+              <a href="https://www.ncbi.nlm.nih.gov/pubmed/28055050"><h5>Firearm Acquisition Without Background Checks: Results of a National Survey</h5></a>
+              <p>This article reports the results of a national survey of gun owners to determine the percentage of gun owners who acquired their last firearm without a background check. It found that of firearms acquired during the past two years, 22% were purchased without a background check. This proportion was substantially higher in states without laws that regulate private gun sales.</p>
+            </li>
+        </ul>
+        </div>
+    </div>
+</div>
+    
+<!---ABOUT US--->
+<div class="about-container" id="about-us">
+    <div class="row">
+        <div class="col-sm-6">
+          <h3>About Us</h3>
+          <p>The State Firearm Laws project aims to provide researchers with the data necessary to evaluate the effectiveness of
+            various firearm laws. By carefully monitoring how gun legislation impacts firearm-related violence, we can provide
+            policymakers with the evidence they need to make gun ownership safer for everyone.</p>
+          <p>Our team is led by Dr. Michael Siegel, a Professor in the Community Health Sciences Department of the Boston
+            University School of Public Health. Dr. Michael Siegel has extensive experience in firearms research, having
+            published eight articles regarding the relationship between gun ownership and firearm violence.</p>
+          <p>The State Firearm Laws team is headquartered in Boston, Massachusetts. For more information, contact:
+            <br/><br/>
+            <span>Michael Siegel, MD, MPH</span><br/>
+            <span>Boston University School of Public Health</span><br/>
+            <span>801 Massachusetts Avenue, 4th Floor</span><br/>
+            <span>Boston, MA 02118</span><br/>
+            <span><b>Phone:</b> 617-638-5167</span><br/>
+            <span><b>Fax:</b> 617-638-4483</span><br/>
+            <span><b>Email: </b><a href="mailto:mbsiegel@bu.edu">mbsiegel@bu.edu</a></span><br/>
+          </p>
+        </div>
+        <div class="col-sm-6">
+          <h3>Acknowledgements</h3>
+          <p>This website could not have succeeded without the significant contributions by the following people.</p>
+          <h5>Research Assistants</h5>
+          <p>Elyse Thompson, Tiffany Christensen, Alanna Raskin, Abena Dakwahene, Saumya Sankhavaram, Christine Snow, Steve
+            Jang, Chelsea Baker, Megan Greenwood, Yesha Maniar, Clare Schmidt, Meagan Wostbrock, Brittany Ranchoff, Tithi Baul,
+            Woo Choi, Ashlee Epsensen, Alicia Afrah-Boateng, Jessica Christian, Mun Aung, Samuel Siegel, and Miriam Siegel.</p>
+          <h5>Contributors</h5>
+          <p>
+            Ziming Xuan, ScD, MS, MA
+            <br/>Craig S. Ross, PhD
+            <br/>Sandro Galea, MD, DrPH, MPH
+            <br/>Bindu Kalesan, PhD, MPH, MSc
+            <br/>Eric Fleegler, MD, MPH
+            <br/>Kristin A. Goss, PhD, MPP
+          </p>
+          <h5>Web Development and Data Processing</h5>
+          <p>
+            Boston University <a href="http://www.bu.edu/sail">Software &amp; Application Innovation Lab</a> at the <a
+            href="http://www.bu.edu/hic">Hariri Institute for Computing</a>, including:
+            <br/>Jacqueline You, Software Engineer Intern
+            <br/>Frederick Jansen, Senior Software Engineer
+            <br/>San Tran, Manager of Research Development and Consulting
+            <br/>Andrei Lapets, Director
+          </p>
+          <h5>Graphic Design</h5>
+          <p>Eve Siegel</p>
+          <h5>Editor</h5>
+          <p>Rebecca Sherman</p>
+          <p>Special thanks to Ted Alcorn, Courtney Zale, Liz Avore, Jonas Oransky, Sarah Tofte, Cecily Wallman-Stokes, and
+            Billy Rosen at Everytown for Gun Safety, to whom we are deeply indebted for providing consultation and advice.</p>
+          <p>The previous work of the following individuals made our research possible: Jon S. Vernick, Lisa M. Hepburn, Daniel
+            W. Webster, Peter Cummings, April M. Zeoli, Matthew R. Rosengart, James A. Mercy, Elizabeth R. Vigdor, Scott Burris,
+            and Heidi Grunwald.</p>
+          <p>We obtained information from the following organizations when conducting our investigation: The Law Center to
+            Prevent Gun Violence, the Brady Campaign to Prevent Gun Violence, the Bureau of Alcohol, Tobacco, Firearms and
+            Explosives, the Bureau of Justice Statistics, the National Rifle Association Institute for Legislative Action, the
+            Legal Community Against Gun Violence, Legal Sciences, LLC, and the Law Atlas Project.</p>
+          <p>Support for this report was provided by the Robert Wood Johnson Foundation, grant #73373, Evidence for Action:
+            Investigator-Initiated Research to Build a Culture of Health. The views expressed here do not necessarily reflect
+            the views of the Foundation.</p>
+        </div>
+    </div>
+</div>
+    
+<!---FOOTER--->
+<footer class="footer align-middle">
+  <div class="foot-container">
+    <div class="row">
+      <div class="col-sm-6">
+          <img src="css/Artboard%202.png">
+        </div>
+      <div class="col-sm-6 footer-text">
+          <a href="mailto:mbsiegel@bu.edu">Contact Us</a>
       </div>
     </div>
   </div>
@@ -127,6 +270,7 @@
         crossorigin="anonymous"></script>
 <!-- Font Awesome icons. -->
 <script src="https://use.fontawesome.com/ab082df5e7.js"></script>
+<script src="js/index.js"></script>
 
 </body>
 </html>
