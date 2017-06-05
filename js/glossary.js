@@ -52,7 +52,8 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
   categoryContent += "</select>"
 
-  $('#category_menu_placeholder').append(categoryContent);
+  $('#category_menu_placeholder').html(categoryContent);
+  $('#category_menu').selectpicker('refresh');
 
 
   // Create subcategory dropdown menu.
@@ -64,7 +65,8 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
   subcategoryContent += "</select>";
 
-  $('#subcategory_menu_placeholder').append(subcategoryContent);
+  $('#subcategory_menu_placeholder').html(subcategoryContent);
+  $('#subcategory_menu').selectpicker('refresh');
 
 
   // Change both dropdown menus on search event.
