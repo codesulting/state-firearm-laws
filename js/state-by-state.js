@@ -73,8 +73,9 @@ function displayState(stateSelected, stateData, defaultYear) {
       displayRates(stateData, defaultYear);
 
       // Update state icon.
-      $('#state_icon').empty();
+/*      $('#state_icon').empty();
       $('#state_icon').append("<i class='mg map-us-" + usStates[i]["abbreviation"].toLowerCase() + " map-large'></i>");
+*/
     }
   }
 }
@@ -113,20 +114,17 @@ function createHistoryTable(stateData) {
   $('#history_table').empty();
 
   var tableContent = "<table class='table table-responsive table-hover'>" +
-    "<thead> <tr class='header'> <th>Variable Name</th> <th>Provision</th> <th>Status</th> </tr> </thead><tbody class='text-xs-left list'>";
+    "<thead> <tr class='header'> <th>Variable Name</th> <th>Provision</th> </tr> </thead><tbody class='text-xs-left list'>";
   for (var year in stateData) {
     if (stateData.hasOwnProperty(year)) {
       for (var entry in stateData[year][0]["history"]) {
-        tableContent += "<tr class='" + year + "'>";
+          if (stateData[year][0]["history"][entry]["status"] === "Current") {
+             tableContent += "<tr class='" + year + " current'>"; 
+          } else {
+              tableContent += "<tr class='" + year + " repealed'>";
+          }
         tableContent += "<td class='provision'><i>" + stateData[year][0]["history"][entry]["variable"] + "</i></td>";
         tableContent += "<td class='definition'>" + stateData[year][0]["history"][entry]["definition"] + "</td>";
-        tableContent += "<td class='status'>" + stateData[year][0]["history"][entry]["status"];
-        if (stateData[year][0]["history"][entry]["status"] === "Current") {
-          //tableContent += "; " + "<a href='" + stateData[year][0]["history"][entry]["link"] + "'> Read the statute here </a></td>";
-          tableContent += "</td>"
-        } else {
-          tableContent += "</td>"
-        }
         tableContent += "</tr>";
       }
     }
@@ -138,7 +136,7 @@ function createHistoryTable(stateData) {
 
   // Create new List using list.js for manipulating the table.
   var tableOptions = {
-    valueNames: ["provision", "definition", "status"]
+    valueNames: ["provision", "definition"]
   };
   var historyList = new List('history_table', tableOptions);
 

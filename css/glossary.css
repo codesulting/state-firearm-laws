@@ -1,10 +1,46 @@
 thead, tbody { display:block; overflow-x:auto; }
-
 tbody { height:200px; /* Fixed height. */ overflow-y:auto; /* Trigger vertical scroll. */ }
 
+.container { align-content: center; }
+#glossary-title { padding-bottom: 5vh; }
+.col-sm-8 { padding: 0; }
+.col-xs-10 { padding: 0; }
+.well { background-color: #ffffff; border: none; align-content: center; }
 div .spacing { margin-top:10px; margin-bottom:10px; }
-thead th { width:200px; }
-td { width:200px; }
+td { max-width: 33.33vw; }
+th { width: 33.33%; }
+.info-box { padding-left: 10vw; padding-right: 10vw; }
 
+/*Search control*/
+.search .form-control { border: none; }
+.input-group input-group-lg { z-index: 2; }
+.drop-col { text-align: center; }
 .btn-primary { background-color:#2644ac; }
 .btn-primary:hover { background-color: #2e6da4; }
+.btn-group { width: 90% !important; margin: 0 !important; }
+#glossary_table { align-content: center; max-height: 50vh; }
+.col-xs-2 { padding: 0; }
+.col-xs-3 { padding: 0; }
+#subcategory_menu_placeholder:hover { background-color: #ffffff !important; }
+#subcategory_menu_placeholder:hover .dropdown-menu { display:block; width: auto !important; background-color:#ebebeb !important; }
+#category_menu_placeholder:hover { background-color: #ffffff !important; }
+#category_menu_placeholder:hover .dropdown-menu { display:block; width: auto !important; background-color:#ebebeb !important; }
+
+@media only screen and (max-width: 767px) {
+    .btn { font-size: 11px; }
+}
+
+
+.dropdown:hover #category_menu_placeholder { background-color: #ebebeb; }
+
+@media only screen and (max-width: 767px) {
+    .container { padding-left: 60px; padding-right: 60px; }
+    h4 { font-size: 12px; }
+    .info-box { padding-left: 0; padding-right: 0; }
+    .col-xs-3 { width: 5% !important; }
+    .drop-col { width: 30% !important; }
+    thead { font-size: 11px; }
+    tbody { font-size: 11px; }
+    td { max-width: 18vw; overflow: scroll; }
+
+}

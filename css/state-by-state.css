@@ -1,24 +1,45 @@
-h2 { margin-top:0px; }
-h4 { margin-top:0px; }
-
+#state-title { margin-bottom: 5vh; }
+#first { padding-left: 0; }
 /* For map-glyphs, enlarges map image. */
 .map-large { font-size:12em; color:#a2cd5a; text-shadow:3px 3px 3px #d3d3d3; }
-
+.col-md-6 { padding: 0; }
 /* Range slider. */
 #year_label_h3 { margin-top:5px; }
 .slider.slider-horizontal { width:100%; }
-#year_slider .slider-selection { background:none; background-image:none; }
-#year_slider .slider-handle { background:#2644ac; background-image:none; }
+#year_slider .slider-selection { background:none; background-image:none; background-color: #ebebeb; border: none; box-shadow: none; }
+#year_slider .slider-handle { background-color:#2644AC; background-image:none;  }
+.slider-track-high { background-color: #2644AC; }
 
 /* Dropdown menu of states. */
-.dropdown-menu{ max-height:400px; overflow-y:auto; }
+.btn-group { z-index: 1; }
+#state_dropdown_div:hover { background-color: #ffffff !important; }
+#state_dropdown_div:hover .dropdown-menu { display:block; width: inherit; background-color:#ebebeb !important; color:#ffffff; }
+.dropdown-menu { display:none; position: absolute; border: none; box-shadow: none; background-color: #ebebeb; min-width: 100%; }
+
+@media only screen and (max-width: 767px) {
+    #state_dropdown_div { padding-left: 60px; }
+}
 
 /* Display stats. */
-.rate { text-align:center; vertical-align:middle; font-size:inherit; }
-#state_title { text-align:center; color:#5C3293; }
-#state_info { text-align:center; }
-#history_table { padding-left:30px; }
-.table > thead > tr > th { text-align:center; }
-.table > tbody > tr > td { text-align:center; }
-.info-box { padding-top:10px; padding-bottom:20px; }
-.info-box > p { text-align:left; }
+.rate { text-align:left; vertical-align:middle; font-size:inherit; padding-right: 40px; }
+#state_title { text-align:left; color:#000000; }
+#state_info { text-align:center; padding-top: 2vh; }
+#big-num { font-size:145pt !important; line-height:160px; margin: 0;}
+#big-num-label { margin-top: 5px; }
+#history_table { margin-left:30px; }
+.table > thead > tr > th { text-align:left; }
+.table > tbody > tr > td { text-align:left; }
+table { margin-bottom: 0px !important; }
+.sm-title { text-align:center; }
+thead, .current { background-color: #ffffff; color: #000000; }
+.repealed { background-color: #bcbcbc; color: #8d8d8d; }
+.row { text-align: left; }
+
+@media only screen and (max-width: 767px) {
+    #pad-row { padding-left: 60px; }
+    .info-box { padding-bottom: 0; padding-top: 5vh; padding-left: 60px; padding-right: 60px; margin-right: auto; margin-left: auto; height: auto; } 
+    #history_table { max-width: 100%; overflow: hidden; margin: auto; }
+    #state_info { margin-top: 0; }
+    #state-title { padding-left: 50px; padding-right: 50px;  }
+}
+

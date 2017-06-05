@@ -5,4 +5,6 @@ body { background-color:#54B3AD;}
 .card > a { background-color:#2644AC; }
 .report-container { background-color: #2644AC; padding-top: 15vh; padding-bottom: 15vh; padding-right: 60px; padding-left: 60px; width: 100%; border: none; }
 .report-container > a { color: #FFFFFF; text-decoration: none;  }
+.manuscript-container { background-color: #FFFFFF; padding-top: 15vh; padding-bottom: 15vh; padding-right: 60px; padding-left: 60px; width: 100%; border: none; }
+.manuscript-container > a { color: #2644AC; text-decoration: none; }
 .work-container { background-color: #e5e5e5; padding-top: 15vh; padding-bottom: 15vh; padding-right: 60px; padding-left: 60px; margin-right: auto; margin-left: auto; height: auto; }

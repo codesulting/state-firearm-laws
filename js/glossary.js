@@ -8,7 +8,7 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   subcategories.sort();
 
 // Generate table header section.
-  var headers = ["Code", "Definition", "Category/Subcategory"];
+  var headers = ["Code", "Definition", "Category/Sub."];
 
   var tableContent = "";
   tableContent += "<table class='table table-responsive table-hover'><thead><tr>";
@@ -43,18 +43,6 @@ var data = $.getJSON("js/glossary.json", function (obj) {
 
   glossaryList.sort("variable", {order: "asc"});
 
-  // Create category dropdown menu.
-  var categoryContent = "<select class='selectpicker' title='Category' id='category_menu'>";
-
-  for (var i = 0; i < categories.length; i++) {
-    categoryContent += "<option class='categoryOption'>" + categories[i] + "</option>";
-  }
-
-  categoryContent += "</select>"
-
-  $('#category_menu_placeholder').append(categoryContent);
-
-
   // Create subcategory dropdown menu.
   var subcategoryContent = "<select class='selectpicker' title='Subcategory' id='subcategory_menu'>";
 
@@ -65,8 +53,21 @@ var data = $.getJSON("js/glossary.json", function (obj) {
   subcategoryContent += "</select>";
 
   $('#subcategory_menu_placeholder').append(subcategoryContent);
+    $('#subcategory_menu').selectpicker('refresh');
 
+// Create category dropdown menu.
+  var categoryContent = "<select class='selectpicker' title='Category' id='category_menu'>";
 
+  for (var i = 0; i < categories.length; i++) {
+    categoryContent += "<option class='categoryOption'>" + categories[i] + "</option>";
+  }
+
+  categoryContent += "</select>"
+
+  $('#category_menu_placeholder').append(categoryContent);
+$('#category_menu').selectpicker('refresh');
+
+    
   // Change both dropdown menus on search event.
   $('#glossary_search').keyup(function (event) {
     // Get current phrase in search input.

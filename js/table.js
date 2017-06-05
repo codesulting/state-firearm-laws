@@ -409,7 +409,7 @@ function initializeHeaderScrolling() {
     return function () {
       var $firstRow = $content.find('tr:not(.clusterize-extra-row):first');
       var columnsWidth = [];
-      $firstRow.children().each(function () {
+      $('firstRow').children().each(function () {
         columnsWidth.push($(this).width());
       });
       if (columnsWidth.toString() == prevWidth.toString()) return;
