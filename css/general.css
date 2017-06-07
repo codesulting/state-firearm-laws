@@ -14,6 +14,7 @@ h5 { margin-top:20px; margin-bottom:5px; padding-bottom:0px; }
 a { color: #2644AC; font-weight: 500; }
 .container { height: auto; padding-top: 10vh; }
 .row {max-width: 100%; margin: 0; }
+
 /* menu bar */
 .navbar { position: fixed; left: 0; top: 0; width: 100%; background-color: #54B3AD; text-align: center; z-index: 3; }
 .navbar-nav { float: none; display: inline-block; }
@@ -47,7 +48,6 @@ a.dropdown-toggle { font-size:large; color:#FFFFFF; }
 .btn { padding: 12px; }
 
 /* footers for all pages */
-footer { margin-top: 20px; }
 .footer-text { height: 6vh; text-align: right; }
 .footer-text > a { font-weight: 300 !important; }
 .footer-text > p { margin:0px 0px 10px; padding:0px; }
